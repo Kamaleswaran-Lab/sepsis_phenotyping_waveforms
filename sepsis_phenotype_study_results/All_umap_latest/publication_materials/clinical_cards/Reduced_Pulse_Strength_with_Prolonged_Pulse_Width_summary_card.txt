@@ -1,0 +1,30 @@
+
+┌──────────────────────────────────────────────────────────────────────┐
+│           Reduced Pulse Strength with Prolonged Pulse Width            │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📊 DEMOGRAPHICS                                                     │
+│  • Patients: 391 (18.0%)                                       │
+│                                                                      │
+│  🔬 KEY FEATURES                                                     │
+│  • PPG_A_AC_skewness                                                │
+│  • PPG_PW_66_skewness                                                │
+│  • PPG_center_freq_ppg_Hz_entropy                                                │
+│                                                                      │
+│  🧬 PATHOPHYSIOLOGY                                                  │
+│  │  - **Sepsis Mechanisms:** - The pattern of decreased             │
+│  PPG_A_AC_skewness (reduced pulse strength) and increased        │
+│  PPG_PW_66_skewness (prolonged pulse width) suggests             │
+│  significant peripheral vascular changes...                      │                                    │
+│                                                                      │
+│  🏥 CLINICAL PRESENTATION                                            │
+│  │                                                                  │                                     │
+│                                                                      │
+│  💊 THERAPEUTIC CONSIDERATIONS                                       │
+│  │  - **Treatment Considerations:** - Aggressive fluid              │
+│  resuscitation and vasopressor support to counteract the         │
+│  vasodilation and maintain adequate perfusion pressure. -        │
+│  Monitoring and management of potenti...                         │                                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+        

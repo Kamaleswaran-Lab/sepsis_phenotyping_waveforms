@@ -1,0 +1,2175 @@
+patient_id,cluster_label,phenotype_name
+0,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+3,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+4,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+5,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+6,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+7,2,Enhanced Parasympathetic Tone with Variable Perfusion
+8,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+9,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+10,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+11,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+12,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+13,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+14,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+15,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+16,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+17,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+18,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+19,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+20,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+21,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+22,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+23,2,Enhanced Parasympathetic Tone with Variable Perfusion
+24,2,Enhanced Parasympathetic Tone with Variable Perfusion
+25,2,Enhanced Parasympathetic Tone with Variable Perfusion
+26,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+27,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+28,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+29,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+30,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+31,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+32,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+33,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+34,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+35,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+36,2,Enhanced Parasympathetic Tone with Variable Perfusion
+37,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+38,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+39,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+40,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+41,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+42,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+43,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+44,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+45,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+46,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+47,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+48,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+49,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+50,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+51,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+52,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+53,2,Enhanced Parasympathetic Tone with Variable Perfusion
+54,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+55,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+56,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+57,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+58,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+59,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+60,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+61,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+62,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+63,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+64,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+65,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+66,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+67,2,Enhanced Parasympathetic Tone with Variable Perfusion
+68,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+69,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+70,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+71,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+72,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+73,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+74,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+75,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+76,2,Enhanced Parasympathetic Tone with Variable Perfusion
+77,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+78,2,Enhanced Parasympathetic Tone with Variable Perfusion
+79,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+80,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+81,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+82,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+83,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+84,2,Enhanced Parasympathetic Tone with Variable Perfusion
+85,2,Enhanced Parasympathetic Tone with Variable Perfusion
+86,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+87,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+88,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+89,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+90,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+91,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+92,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+93,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+94,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+95,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+96,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+97,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+98,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+99,2,Enhanced Parasympathetic Tone with Variable Perfusion
+100,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+101,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+102,2,Enhanced Parasympathetic Tone with Variable Perfusion
+103,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+104,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+105,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+106,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+107,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+108,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+109,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+110,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+111,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+112,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+113,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+114,2,Enhanced Parasympathetic Tone with Variable Perfusion
+115,2,Enhanced Parasympathetic Tone with Variable Perfusion
+116,2,Enhanced Parasympathetic Tone with Variable Perfusion
+117,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+118,2,Enhanced Parasympathetic Tone with Variable Perfusion
+119,2,Enhanced Parasympathetic Tone with Variable Perfusion
+120,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+121,2,Enhanced Parasympathetic Tone with Variable Perfusion
+122,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+123,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+124,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+125,2,Enhanced Parasympathetic Tone with Variable Perfusion
+126,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+127,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+128,2,Enhanced Parasympathetic Tone with Variable Perfusion
+129,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+130,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+131,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+132,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+133,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+134,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+135,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+136,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+137,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+138,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+139,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+140,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+141,2,Enhanced Parasympathetic Tone with Variable Perfusion
+142,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+143,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+144,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+145,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+146,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+147,2,Enhanced Parasympathetic Tone with Variable Perfusion
+148,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+149,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+150,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+151,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+152,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+153,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+154,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+155,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+156,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+157,2,Enhanced Parasympathetic Tone with Variable Perfusion
+158,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+159,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+160,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+161,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+162,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+163,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+164,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+165,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+166,2,Enhanced Parasympathetic Tone with Variable Perfusion
+167,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+168,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+169,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+170,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+171,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+172,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+173,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+174,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+175,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+176,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+177,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+178,2,Enhanced Parasympathetic Tone with Variable Perfusion
+179,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+180,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+181,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+182,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+183,2,Enhanced Parasympathetic Tone with Variable Perfusion
+184,2,Enhanced Parasympathetic Tone with Variable Perfusion
+185,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+186,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+187,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+188,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+189,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+190,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+191,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+192,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+193,2,Enhanced Parasympathetic Tone with Variable Perfusion
+194,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+195,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+196,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+197,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+198,2,Enhanced Parasympathetic Tone with Variable Perfusion
+199,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+200,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+201,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+202,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+203,2,Enhanced Parasympathetic Tone with Variable Perfusion
+204,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+205,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+206,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+207,2,Enhanced Parasympathetic Tone with Variable Perfusion
+208,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+209,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+210,2,Enhanced Parasympathetic Tone with Variable Perfusion
+211,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+212,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+213,2,Enhanced Parasympathetic Tone with Variable Perfusion
+214,2,Enhanced Parasympathetic Tone with Variable Perfusion
+215,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+216,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+217,2,Enhanced Parasympathetic Tone with Variable Perfusion
+218,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+219,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+220,2,Enhanced Parasympathetic Tone with Variable Perfusion
+221,2,Enhanced Parasympathetic Tone with Variable Perfusion
+222,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+223,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+224,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+225,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+226,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+227,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+228,2,Enhanced Parasympathetic Tone with Variable Perfusion
+229,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+230,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+231,2,Enhanced Parasympathetic Tone with Variable Perfusion
+232,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+233,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+234,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+235,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+236,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+237,2,Enhanced Parasympathetic Tone with Variable Perfusion
+238,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+239,2,Enhanced Parasympathetic Tone with Variable Perfusion
+240,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+241,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+242,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+243,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+244,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+245,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+246,2,Enhanced Parasympathetic Tone with Variable Perfusion
+247,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+248,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+249,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+250,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+251,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+252,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+253,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+254,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+255,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+256,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+257,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+258,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+259,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+260,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+261,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+262,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+263,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+264,2,Enhanced Parasympathetic Tone with Variable Perfusion
+265,2,Enhanced Parasympathetic Tone with Variable Perfusion
+266,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+267,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+268,2,Enhanced Parasympathetic Tone with Variable Perfusion
+269,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+270,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+271,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+272,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+273,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+274,2,Enhanced Parasympathetic Tone with Variable Perfusion
+275,2,Enhanced Parasympathetic Tone with Variable Perfusion
+276,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+277,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+278,2,Enhanced Parasympathetic Tone with Variable Perfusion
+279,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+280,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+281,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+282,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+283,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+284,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+285,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+286,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+287,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+288,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+289,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+290,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+291,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+292,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+293,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+294,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+295,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+296,2,Enhanced Parasympathetic Tone with Variable Perfusion
+297,2,Enhanced Parasympathetic Tone with Variable Perfusion
+298,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+299,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+300,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+301,2,Enhanced Parasympathetic Tone with Variable Perfusion
+302,2,Enhanced Parasympathetic Tone with Variable Perfusion
+303,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+304,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+305,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+306,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+307,2,Enhanced Parasympathetic Tone with Variable Perfusion
+308,2,Enhanced Parasympathetic Tone with Variable Perfusion
+309,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+310,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+311,2,Enhanced Parasympathetic Tone with Variable Perfusion
+312,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+313,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+314,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+315,2,Enhanced Parasympathetic Tone with Variable Perfusion
+316,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+317,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+318,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+319,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+320,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+321,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+322,2,Enhanced Parasympathetic Tone with Variable Perfusion
+323,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+324,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+325,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+326,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+327,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+328,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+329,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+330,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+331,2,Enhanced Parasympathetic Tone with Variable Perfusion
+332,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+333,2,Enhanced Parasympathetic Tone with Variable Perfusion
+334,2,Enhanced Parasympathetic Tone with Variable Perfusion
+335,2,Enhanced Parasympathetic Tone with Variable Perfusion
+336,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+337,2,Enhanced Parasympathetic Tone with Variable Perfusion
+338,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+339,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+340,2,Enhanced Parasympathetic Tone with Variable Perfusion
+341,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+342,2,Enhanced Parasympathetic Tone with Variable Perfusion
+343,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+344,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+345,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+346,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+347,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+348,2,Enhanced Parasympathetic Tone with Variable Perfusion
+349,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+350,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+351,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+352,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+353,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+354,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+355,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+356,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+357,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+358,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+359,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+360,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+361,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+362,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+363,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+364,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+365,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+366,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+367,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+368,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+369,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+370,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+371,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+372,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+373,2,Enhanced Parasympathetic Tone with Variable Perfusion
+374,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+375,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+376,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+377,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+378,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+379,2,Enhanced Parasympathetic Tone with Variable Perfusion
+380,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+381,2,Enhanced Parasympathetic Tone with Variable Perfusion
+382,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+383,2,Enhanced Parasympathetic Tone with Variable Perfusion
+384,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+385,2,Enhanced Parasympathetic Tone with Variable Perfusion
+386,2,Enhanced Parasympathetic Tone with Variable Perfusion
+387,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+388,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+389,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+390,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+391,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+392,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+393,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+394,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+395,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+396,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+397,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+398,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+399,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+400,2,Enhanced Parasympathetic Tone with Variable Perfusion
+401,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+402,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+403,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+404,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+405,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+406,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+407,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+408,2,Enhanced Parasympathetic Tone with Variable Perfusion
+409,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+410,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+411,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+412,2,Enhanced Parasympathetic Tone with Variable Perfusion
+413,2,Enhanced Parasympathetic Tone with Variable Perfusion
+414,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+415,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+416,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+417,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+418,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+419,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+420,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+421,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+422,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+423,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+424,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+425,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+426,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+427,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+428,2,Enhanced Parasympathetic Tone with Variable Perfusion
+429,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+430,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+431,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+432,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+433,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+434,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+435,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+436,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+437,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+438,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+439,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+440,2,Enhanced Parasympathetic Tone with Variable Perfusion
+441,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+442,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+443,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+444,2,Enhanced Parasympathetic Tone with Variable Perfusion
+445,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+446,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+447,2,Enhanced Parasympathetic Tone with Variable Perfusion
+448,2,Enhanced Parasympathetic Tone with Variable Perfusion
+449,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+450,2,Enhanced Parasympathetic Tone with Variable Perfusion
+451,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+452,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+453,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+454,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+455,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+456,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+457,2,Enhanced Parasympathetic Tone with Variable Perfusion
+458,2,Enhanced Parasympathetic Tone with Variable Perfusion
+459,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+460,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+461,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+462,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+463,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+464,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+465,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+466,2,Enhanced Parasympathetic Tone with Variable Perfusion
+467,2,Enhanced Parasympathetic Tone with Variable Perfusion
+468,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+469,2,Enhanced Parasympathetic Tone with Variable Perfusion
+470,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+471,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+472,2,Enhanced Parasympathetic Tone with Variable Perfusion
+473,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+474,2,Enhanced Parasympathetic Tone with Variable Perfusion
+475,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+476,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+477,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+478,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+479,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+480,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+481,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+482,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+483,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+484,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+485,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+486,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+487,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+488,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+489,2,Enhanced Parasympathetic Tone with Variable Perfusion
+490,2,Enhanced Parasympathetic Tone with Variable Perfusion
+491,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+492,2,Enhanced Parasympathetic Tone with Variable Perfusion
+493,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+494,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+495,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+496,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+497,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+498,2,Enhanced Parasympathetic Tone with Variable Perfusion
+499,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+500,2,Enhanced Parasympathetic Tone with Variable Perfusion
+501,2,Enhanced Parasympathetic Tone with Variable Perfusion
+502,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+503,2,Enhanced Parasympathetic Tone with Variable Perfusion
+504,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+505,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+506,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+507,2,Enhanced Parasympathetic Tone with Variable Perfusion
+508,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+509,2,Enhanced Parasympathetic Tone with Variable Perfusion
+510,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+511,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+512,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+513,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+514,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+515,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+516,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+517,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+518,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+519,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+520,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+521,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+522,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+523,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+524,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+525,2,Enhanced Parasympathetic Tone with Variable Perfusion
+526,2,Enhanced Parasympathetic Tone with Variable Perfusion
+527,2,Enhanced Parasympathetic Tone with Variable Perfusion
+528,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+529,2,Enhanced Parasympathetic Tone with Variable Perfusion
+530,2,Enhanced Parasympathetic Tone with Variable Perfusion
+531,2,Enhanced Parasympathetic Tone with Variable Perfusion
+532,2,Enhanced Parasympathetic Tone with Variable Perfusion
+533,2,Enhanced Parasympathetic Tone with Variable Perfusion
+534,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+535,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+536,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+537,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+538,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+539,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+540,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+541,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+542,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+543,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+544,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+545,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+546,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+547,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+548,2,Enhanced Parasympathetic Tone with Variable Perfusion
+549,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+550,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+551,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+552,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+553,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+554,2,Enhanced Parasympathetic Tone with Variable Perfusion
+555,2,Enhanced Parasympathetic Tone with Variable Perfusion
+556,2,Enhanced Parasympathetic Tone with Variable Perfusion
+557,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+558,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+559,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+560,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+561,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+562,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+563,2,Enhanced Parasympathetic Tone with Variable Perfusion
+564,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+565,2,Enhanced Parasympathetic Tone with Variable Perfusion
+566,2,Enhanced Parasympathetic Tone with Variable Perfusion
+567,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+568,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+569,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+570,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+571,2,Enhanced Parasympathetic Tone with Variable Perfusion
+572,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+573,2,Enhanced Parasympathetic Tone with Variable Perfusion
+574,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+575,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+576,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+577,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+578,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+579,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+580,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+581,2,Enhanced Parasympathetic Tone with Variable Perfusion
+582,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+583,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+584,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+585,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+586,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+587,2,Enhanced Parasympathetic Tone with Variable Perfusion
+588,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+589,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+590,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+591,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+592,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+593,2,Enhanced Parasympathetic Tone with Variable Perfusion
+594,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+595,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+596,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+597,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+598,2,Enhanced Parasympathetic Tone with Variable Perfusion
+599,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+600,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+601,2,Enhanced Parasympathetic Tone with Variable Perfusion
+602,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+603,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+604,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+605,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+606,2,Enhanced Parasympathetic Tone with Variable Perfusion
+607,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+608,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+609,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+610,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+611,2,Enhanced Parasympathetic Tone with Variable Perfusion
+612,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+613,2,Enhanced Parasympathetic Tone with Variable Perfusion
+614,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+615,2,Enhanced Parasympathetic Tone with Variable Perfusion
+616,2,Enhanced Parasympathetic Tone with Variable Perfusion
+617,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+618,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+619,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+620,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+621,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+622,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+623,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+624,2,Enhanced Parasympathetic Tone with Variable Perfusion
+625,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+626,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+627,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+628,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+629,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+630,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+631,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+632,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+633,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+634,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+635,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+636,2,Enhanced Parasympathetic Tone with Variable Perfusion
+637,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+638,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+639,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+640,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+641,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+642,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+643,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+644,2,Enhanced Parasympathetic Tone with Variable Perfusion
+645,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+646,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+647,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+648,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+649,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+650,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+651,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+652,2,Enhanced Parasympathetic Tone with Variable Perfusion
+653,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+654,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+655,2,Enhanced Parasympathetic Tone with Variable Perfusion
+656,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+657,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+658,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+659,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+660,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+661,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+662,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+663,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+664,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+665,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+666,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+667,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+668,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+669,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+670,2,Enhanced Parasympathetic Tone with Variable Perfusion
+671,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+672,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+673,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+674,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+675,2,Enhanced Parasympathetic Tone with Variable Perfusion
+676,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+677,2,Enhanced Parasympathetic Tone with Variable Perfusion
+678,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+679,2,Enhanced Parasympathetic Tone with Variable Perfusion
+680,2,Enhanced Parasympathetic Tone with Variable Perfusion
+681,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+682,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+683,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+684,2,Enhanced Parasympathetic Tone with Variable Perfusion
+685,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+686,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+687,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+688,2,Enhanced Parasympathetic Tone with Variable Perfusion
+689,2,Enhanced Parasympathetic Tone with Variable Perfusion
+690,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+691,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+692,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+693,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+694,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+695,2,Enhanced Parasympathetic Tone with Variable Perfusion
+696,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+697,2,Enhanced Parasympathetic Tone with Variable Perfusion
+698,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+699,2,Enhanced Parasympathetic Tone with Variable Perfusion
+700,2,Enhanced Parasympathetic Tone with Variable Perfusion
+701,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+702,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+703,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+704,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+705,2,Enhanced Parasympathetic Tone with Variable Perfusion
+706,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+707,2,Enhanced Parasympathetic Tone with Variable Perfusion
+708,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+709,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+710,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+711,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+712,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+713,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+714,2,Enhanced Parasympathetic Tone with Variable Perfusion
+715,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+716,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+717,2,Enhanced Parasympathetic Tone with Variable Perfusion
+718,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+719,2,Enhanced Parasympathetic Tone with Variable Perfusion
+720,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+721,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+722,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+723,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+724,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+725,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+726,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+727,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+728,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+729,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+730,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+731,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+732,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+733,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+734,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+735,2,Enhanced Parasympathetic Tone with Variable Perfusion
+736,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+737,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+738,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+739,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+740,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+741,2,Enhanced Parasympathetic Tone with Variable Perfusion
+742,2,Enhanced Parasympathetic Tone with Variable Perfusion
+743,2,Enhanced Parasympathetic Tone with Variable Perfusion
+744,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+745,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+746,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+747,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+748,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+749,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+750,2,Enhanced Parasympathetic Tone with Variable Perfusion
+751,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+752,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+753,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+754,2,Enhanced Parasympathetic Tone with Variable Perfusion
+755,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+756,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+757,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+758,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+759,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+760,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+761,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+762,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+763,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+764,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+765,2,Enhanced Parasympathetic Tone with Variable Perfusion
+766,2,Enhanced Parasympathetic Tone with Variable Perfusion
+767,2,Enhanced Parasympathetic Tone with Variable Perfusion
+768,2,Enhanced Parasympathetic Tone with Variable Perfusion
+769,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+770,2,Enhanced Parasympathetic Tone with Variable Perfusion
+771,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+772,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+773,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+774,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+775,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+776,2,Enhanced Parasympathetic Tone with Variable Perfusion
+777,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+778,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+779,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+780,2,Enhanced Parasympathetic Tone with Variable Perfusion
+781,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+782,2,Enhanced Parasympathetic Tone with Variable Perfusion
+783,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+784,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+785,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+786,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+787,2,Enhanced Parasympathetic Tone with Variable Perfusion
+788,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+789,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+790,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+791,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+792,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+793,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+794,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+795,2,Enhanced Parasympathetic Tone with Variable Perfusion
+796,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+797,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+798,2,Enhanced Parasympathetic Tone with Variable Perfusion
+799,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+800,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+801,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+802,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+803,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+804,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+805,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+806,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+807,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+808,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+809,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+810,2,Enhanced Parasympathetic Tone with Variable Perfusion
+811,2,Enhanced Parasympathetic Tone with Variable Perfusion
+812,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+813,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+814,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+815,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+816,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+817,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+818,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+819,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+820,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+821,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+822,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+823,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+824,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+825,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+826,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+827,2,Enhanced Parasympathetic Tone with Variable Perfusion
+828,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+829,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+830,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+831,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+832,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+833,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+834,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+835,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+836,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+837,2,Enhanced Parasympathetic Tone with Variable Perfusion
+838,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+839,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+840,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+841,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+842,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+843,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+844,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+845,2,Enhanced Parasympathetic Tone with Variable Perfusion
+846,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+847,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+848,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+849,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+850,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+851,2,Enhanced Parasympathetic Tone with Variable Perfusion
+852,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+853,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+854,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+855,2,Enhanced Parasympathetic Tone with Variable Perfusion
+856,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+857,2,Enhanced Parasympathetic Tone with Variable Perfusion
+858,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+859,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+860,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+861,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+862,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+863,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+864,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+865,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+866,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+867,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+868,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+869,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+870,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+871,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+872,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+873,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+874,2,Enhanced Parasympathetic Tone with Variable Perfusion
+875,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+876,2,Enhanced Parasympathetic Tone with Variable Perfusion
+877,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+878,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+879,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+880,2,Enhanced Parasympathetic Tone with Variable Perfusion
+881,2,Enhanced Parasympathetic Tone with Variable Perfusion
+882,2,Enhanced Parasympathetic Tone with Variable Perfusion
+883,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+884,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+885,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+886,2,Enhanced Parasympathetic Tone with Variable Perfusion
+887,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+888,2,Enhanced Parasympathetic Tone with Variable Perfusion
+889,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+890,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+891,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+892,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+893,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+894,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+895,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+896,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+897,2,Enhanced Parasympathetic Tone with Variable Perfusion
+898,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+899,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+900,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+901,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+902,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+903,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+904,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+905,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+906,2,Enhanced Parasympathetic Tone with Variable Perfusion
+907,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+908,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+909,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+910,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+911,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+912,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+913,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+914,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+915,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+916,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+917,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+918,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+919,2,Enhanced Parasympathetic Tone with Variable Perfusion
+920,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+921,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+922,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+923,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+924,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+925,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+926,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+927,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+928,2,Enhanced Parasympathetic Tone with Variable Perfusion
+929,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+930,2,Enhanced Parasympathetic Tone with Variable Perfusion
+931,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+932,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+933,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+934,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+935,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+936,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+937,2,Enhanced Parasympathetic Tone with Variable Perfusion
+938,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+939,2,Enhanced Parasympathetic Tone with Variable Perfusion
+940,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+941,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+942,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+943,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+944,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+945,2,Enhanced Parasympathetic Tone with Variable Perfusion
+946,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+947,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+948,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+949,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+950,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+951,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+952,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+953,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+954,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+955,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+956,2,Enhanced Parasympathetic Tone with Variable Perfusion
+957,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+958,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+959,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+960,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+961,2,Enhanced Parasympathetic Tone with Variable Perfusion
+962,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+963,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+964,2,Enhanced Parasympathetic Tone with Variable Perfusion
+965,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+966,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+967,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+968,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+969,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+970,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+971,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+972,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+973,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+974,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+975,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+976,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+977,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+978,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+979,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+980,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+981,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+982,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+983,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+984,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+985,2,Enhanced Parasympathetic Tone with Variable Perfusion
+986,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+987,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+988,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+989,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+990,2,Enhanced Parasympathetic Tone with Variable Perfusion
+991,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+992,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+993,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+994,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+995,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+996,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+997,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+998,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+999,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1000,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1001,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1002,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1003,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1004,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1005,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1006,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1007,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1008,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1009,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1010,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1011,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1012,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1013,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1014,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1015,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1016,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1017,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1018,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1019,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1020,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1021,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1022,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1023,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1024,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1025,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1026,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1027,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1028,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1029,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1030,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1031,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1032,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1033,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1034,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1035,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1036,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1037,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1038,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1039,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1040,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1041,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1042,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1043,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1044,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1045,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1046,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1047,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1048,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1049,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1050,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1051,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1052,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1053,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1054,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1055,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1056,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1057,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1058,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1059,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1060,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1061,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1062,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1063,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1064,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1065,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1066,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1067,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1068,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1069,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1070,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1071,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1072,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1073,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1074,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1075,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1076,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1077,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1078,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1079,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1080,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1081,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1082,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1083,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1084,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1085,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1086,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1087,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1088,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1089,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1090,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1091,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1092,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1093,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1094,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1095,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1096,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1097,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1098,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1099,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1100,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1101,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1102,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1103,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1104,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1105,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1106,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1107,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1108,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1109,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1110,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1111,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1112,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1113,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1114,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1115,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1116,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1117,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1118,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1119,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1120,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1121,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1122,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1123,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1124,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1125,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1126,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1127,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1128,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1129,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1130,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1131,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1132,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1133,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1134,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1135,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1136,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1137,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1138,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1139,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1140,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1141,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1142,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1143,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1144,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1145,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1146,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1147,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1148,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1149,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1150,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1151,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1152,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1153,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1154,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1155,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1156,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1157,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1158,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1159,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1160,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1161,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1162,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1163,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1164,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1165,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1166,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1167,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1168,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1169,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1170,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1171,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1172,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1173,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1174,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1175,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1176,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1177,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1178,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1179,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1180,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1181,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1182,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1183,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1184,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1185,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1186,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1187,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1188,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1189,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1190,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1191,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1192,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1193,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1194,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1195,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1196,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1197,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1198,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1199,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1200,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1201,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1202,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1203,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1204,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1205,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1206,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1207,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1208,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1209,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1210,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1211,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1212,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1213,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1214,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1215,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1216,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1217,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1218,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1219,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1220,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1221,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1222,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1223,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1224,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1225,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1226,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1227,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1228,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1229,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1230,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1231,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1232,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1233,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1234,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1235,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1236,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1237,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1238,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1239,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1240,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1241,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1242,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1243,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1244,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1245,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1246,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1247,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1248,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1249,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1250,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1251,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1252,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1253,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1254,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1255,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1256,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1257,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1258,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1259,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1260,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1261,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1262,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1263,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1264,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1265,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1266,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1267,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1268,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1269,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1270,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1271,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1272,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1273,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1274,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1275,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1276,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1277,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1278,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1279,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1280,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1281,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1282,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1283,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1284,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1285,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1286,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1287,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1288,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1289,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1290,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1291,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1292,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1293,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1294,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1295,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1296,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1297,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1298,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1299,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1300,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1301,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1302,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1303,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1304,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1305,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1306,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1307,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1308,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1309,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1310,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1311,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1312,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1313,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1314,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1315,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1316,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1317,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1318,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1319,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1320,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1321,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1322,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1323,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1324,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1325,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1326,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1327,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1328,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1329,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1330,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1331,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1332,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1333,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1334,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1335,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1336,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1337,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1338,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1339,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1340,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1341,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1342,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1343,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1344,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1345,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1346,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1347,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1348,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1349,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1350,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1351,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1352,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1353,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1354,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1355,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1356,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1357,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1358,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1359,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1360,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1361,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1362,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1363,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1364,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1365,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1366,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1367,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1368,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1369,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1370,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1371,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1372,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1373,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1374,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1375,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1376,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1377,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1378,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1379,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1380,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1381,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1382,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1383,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1384,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1385,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1386,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1387,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1388,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1389,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1390,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1391,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1392,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1393,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1394,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1395,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1396,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1397,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1398,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1399,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1400,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1401,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1402,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1403,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1404,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1405,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1406,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1407,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1408,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1409,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1410,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1411,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1412,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1413,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1414,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1415,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1416,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1417,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1418,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1419,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1420,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1421,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1422,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1423,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1424,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1425,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1426,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1427,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1428,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1429,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1430,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1431,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1432,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1433,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1434,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1435,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1436,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1437,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1438,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1439,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1440,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1441,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1442,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1443,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1444,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1445,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1446,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1447,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1448,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1449,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1450,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1451,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1452,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1453,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1454,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1455,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1456,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1457,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1458,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1459,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1460,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1461,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1462,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1463,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1464,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1465,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1466,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1467,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1468,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1469,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1470,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1471,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1472,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1473,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1474,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1475,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1476,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1477,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1478,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1479,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1480,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1481,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1482,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1483,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1484,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1485,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1486,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1487,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1488,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1489,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1490,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1491,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1492,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1493,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1494,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1495,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1496,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1497,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1498,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1499,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1500,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1501,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1502,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1503,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1504,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1505,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1506,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1507,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1508,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1509,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1510,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1511,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1512,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1513,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1514,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1515,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1516,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1517,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1518,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1519,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1520,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1521,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1522,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1523,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1524,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1525,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1526,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1527,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1528,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1529,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1530,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1531,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1532,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1533,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1534,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1535,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1536,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1537,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1538,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1539,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1540,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1541,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1542,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1543,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1544,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1545,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1546,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1547,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1548,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1549,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1550,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1551,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1552,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1553,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1554,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1555,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1556,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1557,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1558,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1559,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1560,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1561,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1562,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1563,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1564,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1565,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1566,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1567,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1568,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1569,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1570,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1571,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1572,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1573,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1574,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1575,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1576,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1577,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1578,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1579,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1580,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1581,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1582,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1583,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1584,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1585,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1586,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1587,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1588,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1589,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1590,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1591,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1592,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1593,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1594,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1595,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1596,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1597,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1598,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1599,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1600,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1601,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1602,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1603,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1604,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1605,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1606,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1607,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1608,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1609,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1610,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1611,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1612,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1613,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1614,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1615,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1616,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1617,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1618,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1619,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1620,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1621,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1622,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1623,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1624,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1625,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1626,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1627,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1628,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1629,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1630,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1631,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1632,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1633,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1634,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1635,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1636,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1637,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1638,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1639,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1640,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1641,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1642,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1643,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1644,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1645,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1646,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1647,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1648,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1649,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1650,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1651,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1652,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1653,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1654,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1655,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1656,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1657,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1658,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1659,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1660,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1661,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1662,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1663,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1664,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1665,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1666,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1667,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1668,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1669,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1670,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1671,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1672,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1673,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1674,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1675,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1676,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1677,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1678,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1679,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1680,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1681,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1682,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1683,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1684,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1685,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1686,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1687,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1688,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1689,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1690,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1691,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1692,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1693,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1694,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1695,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1696,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1697,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1698,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1699,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1700,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1701,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1702,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1703,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1704,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1705,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1706,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1707,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1708,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1709,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1710,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1711,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1712,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1713,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1714,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1715,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1716,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1717,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1718,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1719,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1720,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1721,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1722,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1723,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1724,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1725,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1726,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1727,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1728,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1729,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1730,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1731,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1732,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1733,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1734,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1735,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1736,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1737,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1738,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1739,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1740,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1741,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1742,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1743,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1744,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1745,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1746,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1747,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1748,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1749,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1750,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1751,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1752,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1753,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1754,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1755,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1756,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1757,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1758,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1759,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1760,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1761,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1762,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1763,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1764,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1765,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1766,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1767,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1768,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1769,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1770,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1771,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1772,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1773,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1774,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1775,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1776,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1777,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1778,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1779,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1780,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1781,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1782,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1783,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1784,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1785,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1786,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1787,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1788,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1789,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1790,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1791,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1792,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1793,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1794,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1795,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1796,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1797,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1798,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1799,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1800,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1801,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1802,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1803,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1804,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1805,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1806,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1807,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1808,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1809,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1810,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1811,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1812,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1813,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1814,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1815,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1816,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1817,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1818,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1819,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1820,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1821,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1822,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1823,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1824,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1825,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1826,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1827,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1828,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1829,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1830,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1831,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1832,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1833,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1834,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1835,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1836,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1837,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1838,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1839,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1840,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1841,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1842,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1843,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1844,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1845,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1846,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1847,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1848,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1849,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1850,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1851,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1852,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1853,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1854,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1855,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1856,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1857,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1858,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1859,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1860,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1861,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1862,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1863,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1864,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1865,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1866,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1867,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1868,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1869,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1870,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1871,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1872,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1873,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1874,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1875,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1876,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1877,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1878,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1879,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1880,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1881,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1882,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1883,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1884,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1885,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1886,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1887,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1888,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1889,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1890,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1891,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1892,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1893,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1894,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1895,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1896,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1897,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1898,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1899,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1900,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1901,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1902,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1903,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1904,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1905,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1906,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1907,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1908,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1909,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1910,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1911,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1912,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1913,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1914,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1915,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1916,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1917,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1918,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1919,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1920,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1921,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1922,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1923,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1924,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1925,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1926,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1927,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1928,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1929,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1930,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1931,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1932,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1933,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1934,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1935,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1936,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1937,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1938,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1939,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1940,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1941,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1942,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1943,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1944,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1945,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1946,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1947,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1948,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1949,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1950,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1951,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1952,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1953,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1954,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1955,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1956,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1957,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1958,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1959,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1960,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1961,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1962,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1963,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1964,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1965,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1966,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1967,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1968,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1969,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1970,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1971,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1972,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1973,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1974,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1975,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1976,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1977,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1978,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1979,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1980,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1981,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1982,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1983,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1984,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1985,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1986,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1987,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1988,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1989,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1990,2,Enhanced Parasympathetic Tone with Variable Perfusion
+1991,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1992,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1993,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1994,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1995,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+1996,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1997,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+1998,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+1999,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2000,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2001,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2002,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2003,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2004,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2005,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2006,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2007,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2008,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2009,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2010,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2011,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2012,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2013,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2014,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2015,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2016,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2017,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2018,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2019,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2020,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2021,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2022,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2023,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2024,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2025,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2026,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2027,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2028,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2029,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2030,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2031,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2032,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2033,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2034,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2035,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2036,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2037,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2038,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2039,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2040,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2041,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2042,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2043,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2044,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2045,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2046,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2047,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2048,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2049,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2050,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2051,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2052,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2053,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2054,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2055,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2056,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2057,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2058,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2059,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2060,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2061,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2062,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2063,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2064,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2065,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2066,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2067,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2068,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2069,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2070,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2071,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2072,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2073,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2074,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2075,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2076,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2077,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2078,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2079,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2080,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2081,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2082,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2083,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2084,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2085,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2086,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2087,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2088,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2089,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2090,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2091,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2092,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2093,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2094,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2095,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2096,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2097,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2098,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2099,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2100,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2101,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2102,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2103,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2104,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2105,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2106,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2107,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2108,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2109,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2110,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2111,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2112,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2113,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2114,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2115,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2116,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2117,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2118,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2119,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2120,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2121,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2122,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2123,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2124,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2125,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2126,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2127,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2128,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2129,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2130,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2131,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2132,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2133,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2134,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2135,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2136,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2137,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2138,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2139,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2140,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2141,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2142,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2143,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2144,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2145,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2146,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2147,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2148,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2149,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2150,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2151,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2152,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2153,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2154,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2155,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2156,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2157,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2158,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2159,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2160,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2161,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2162,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2163,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2164,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2165,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2166,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2167,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2168,1,Reduced Pulse Entropy with Cardiac Electrical Instability
+2169,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2170,3,Enhanced PPG Entropy with Reduced Interbeat Variability
+2171,0,Reduced Pulse Dynamics with Peripheral Hypoperfusion
+2172,2,Enhanced Parasympathetic Tone with Variable Perfusion
+2173,1,Reduced Pulse Entropy with Cardiac Electrical Instability

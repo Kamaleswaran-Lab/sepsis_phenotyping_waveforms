@@ -1,0 +1,62 @@
+================================================================================
+SEPSIS PHYSIOPHENOTYPE CLINICAL VALIDATION REPORT
+================================================================================
+
+PHENOTYPE OVERVIEW:
+----------------------------------------
+• Reduced HRV with Elevated Peripheral Perfusion:
+  - Patients: 488 (22.4%)
+  - Cluster ID: 0
+
+• Enhanced Parasympathetic Complexity with Peripheral Variability:
+  - Patients: 583 (26.8%)
+  - Cluster ID: 1
+
+• Reduced Pulse Strength with Prolonged Pulse Width:
+  - Patients: 391 (18.0%)
+  - Cluster ID: 2
+
+• Reduced Complexity with Enhanced Pulse Strength:
+  - Patients: 712 (32.8%)
+  - Cluster ID: 3
+
+CLINICAL INTERPRETATION SUMMARY:
+----------------------------------------
+
+🔬 Reduced HRV with Elevated Peripheral Perfusion:
+   Key discriminative features: HRV_HRV_S, HRV_HRV_SDNN, HRV_HRV_CD
+   Patient count: 488
+
+🔬 Enhanced Parasympathetic Complexity with Peripheral Variability:
+   Key discriminative features: HRV_HRV_pNN50, HRV_HRV_ShanEn, HRV_HRV_HTI
+   Patient count: 583
+
+🔬 Reduced Pulse Strength with Prolonged Pulse Width:
+   Key discriminative features: PPG_A_AC_skewness, PPG_PW_66_skewness, PPG_center_freq_ppg_Hz_entropy
+   Patient count: 391
+
+🔬 Reduced Complexity with Enhanced Pulse Strength:
+   Key discriminative features: HRV_HRV_FuzzyEn, PPG_ppgInterbeat_eigval3, PPG_A_AC_skewness
+   Patient count: 712
+
+CLINICAL RECOMMENDATIONS:
+----------------------------------------
+
+1. VALIDATION STEPS:
+   • Validate phenotypes in independent cohort
+   • Correlate with clinical outcomes (mortality, LOS, organ failure)
+   • Assess biomarker associations
+
+2. THERAPEUTIC IMPLICATIONS:
+   • Consider phenotype-specific treatment protocols
+   • Evaluate differential drug responses
+   • Assess timing of interventions by phenotype
+
+3. MONITORING RECOMMENDATIONS:
+   • Implement real-time phenotype identification
+   • Track phenotype transitions over time
+   • Monitor treatment response by phenotype
+
+================================================================================
+Report generated: 2025-11-24 17:27:05
+================================================================================

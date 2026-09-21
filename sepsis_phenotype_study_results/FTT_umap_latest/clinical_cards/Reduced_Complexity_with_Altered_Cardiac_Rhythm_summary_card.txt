@@ -1,0 +1,30 @@
+
+┌──────────────────────────────────────────────────────────────────────┐
+│             Reduced Complexity with Altered Cardiac Rhythm             │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📊 DEMOGRAPHICS                                                     │
+│  • Patients: 721 (33.2%)                                       │
+│                                                                      │
+│  🔬 KEY FEATURES                                                     │
+│  • PPG_A_AC_skewness                                                │
+│  • HRV_HRV_FuzzyEn                                                │
+│  • ECG_T_rr_ms_skewness                                                │
+│                                                                      │
+│  🧬 PATHOPHYSIOLOGY                                                  │
+│  │  - **Sepsis Mechanisms:** - The pattern of lower HRV metrics     │
+│  such as Fuzzy Entropy and Katz Fractal Dimension suggests       │
+│  significant autonomic dysfunction, likely due to impaired       │
+│  autonomic regulation and...                                     │                                    │
+│                                                                      │
+│  🏥 CLINICAL PRESENTATION                                            │
+│  │                                                                  │                                     │
+│                                                                      │
+│  💊 THERAPEUTIC CONSIDERATIONS                                       │
+│  │  - **Treatment Considerations:** - Focus on stabilizing          │
+│  cardiovascular function, potentially using vasopressors to      │
+│  address hypotension and improve perfusion. - Consider           │
+│  interventions to support autonom...                             │                                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+        

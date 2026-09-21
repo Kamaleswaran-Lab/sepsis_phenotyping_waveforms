@@ -1,0 +1,62 @@
+================================================================================
+SEPSIS PHYSIOPHENOTYPE CLINICAL VALIDATION REPORT
+================================================================================
+
+PHENOTYPE OVERVIEW:
+----------------------------------------
+• Reduced HRV with Enhanced Peripheral Pulse:
+  - Patients: 469 (21.6%)
+  - Cluster ID: 0
+
+• Skewed Pulse Dynamics with Autonomic Imbalance:
+  - Patients: 480 (22.1%)
+  - Cluster ID: 1
+
+• Reduced Complexity with Impaired Perfusion:
+  - Patients: 638 (29.3%)
+  - Cluster ID: 2
+
+• Enhanced Parasympathetic Complexity with Peripheral Variability:
+  - Patients: 587 (27.0%)
+  - Cluster ID: 3
+
+CLINICAL INTERPRETATION SUMMARY:
+----------------------------------------
+
+🔬 Reduced HRV with Enhanced Peripheral Pulse:
+   Key discriminative features: HRV_HRV_S, HRV_HRV_SDNN, HRV_HRV_CD
+   Patient count: 469
+
+🔬 Skewed Pulse Dynamics with Autonomic Imbalance:
+   Key discriminative features: PPG_PW_66_skewness, PPG_A_AC_skewness, PPG_T_so_ms_entropy
+   Patient count: 480
+
+🔬 Reduced Complexity with Impaired Perfusion:
+   Key discriminative features: PPG_ppgInterbeat_eigval3, HRV_HRV_FuzzyEn, HRV_HRV_CD
+   Patient count: 638
+
+🔬 Enhanced Parasympathetic Complexity with Peripheral Variability:
+   Key discriminative features: HRV_HRV_pNN50, HRV_HRV_ShanEn, HRV_HRV_ApEn
+   Patient count: 587
+
+CLINICAL RECOMMENDATIONS:
+----------------------------------------
+
+1. VALIDATION STEPS:
+   • Validate phenotypes in independent cohort
+   • Correlate with clinical outcomes (mortality, LOS, organ failure)
+   • Assess biomarker associations
+
+2. THERAPEUTIC IMPLICATIONS:
+   • Consider phenotype-specific treatment protocols
+   • Evaluate differential drug responses
+   • Assess timing of interventions by phenotype
+
+3. MONITORING RECOMMENDATIONS:
+   • Implement real-time phenotype identification
+   • Track phenotype transitions over time
+   • Monitor treatment response by phenotype
+
+================================================================================
+Report generated: 2025-11-24 18:12:04
+================================================================================

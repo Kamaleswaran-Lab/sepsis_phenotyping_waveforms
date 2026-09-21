@@ -1,0 +1,5 @@
+Cluster_ID,Phenotype_Name,N_Patients,Percentage,Top_3_Features,All_Key_Features,Has_Clinical_Interpretation
+2,Reduced Complexity with Impaired Perfusion,638,29.3%,"PPG_ppgInterbeat_eigval3, HRV_HRV_FuzzyEn, HRV_HRV_CD","PPG_ppgInterbeat_eigval3, HRV_HRV_FuzzyEn, HRV_HRV_CD, PPG_PW_66_skewness, PPG_ppgInterbeat_eigval2",Yes
+3,Enhanced Parasympathetic Complexity with Peripheral Variability,587,27.0%,"HRV_HRV_pNN50, HRV_HRV_ShanEn, HRV_HRV_ApEn","HRV_HRV_pNN50, HRV_HRV_ShanEn, HRV_HRV_ApEn, HRV_HRV_HTI, PPG_dpat_ms_entropy",Yes
+1,Skewed Pulse Dynamics with Autonomic Imbalance,480,22.1%,"PPG_PW_66_skewness, PPG_A_AC_skewness, PPG_T_so_ms_entropy","PPG_PW_66_skewness, PPG_A_AC_skewness, PPG_T_so_ms_entropy, PPG_T_so_ms_skewness, PPG_mean_slope_os_skewness",Yes
+0,Reduced HRV with Enhanced Peripheral Pulse,469,21.6%,"HRV_HRV_S, HRV_HRV_SDNN, HRV_HRV_CD","HRV_HRV_S, HRV_HRV_SDNN, HRV_HRV_CD, HRV_HRV_CVI, HRV_HRV_LnHF",Yes

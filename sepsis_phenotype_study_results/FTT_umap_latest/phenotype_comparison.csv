@@ -1,0 +1,5 @@
+Cluster_ID,Phenotype_Name,N_Patients,Percentage,Top_3_Features,All_Key_Features,Has_Clinical_Interpretation
+1,Reduced Complexity with Altered Cardiac Rhythm,721,33.2%,"PPG_A_AC_skewness, HRV_HRV_FuzzyEn, ECG_T_rr_ms_skewness","PPG_A_AC_skewness, HRV_HRV_FuzzyEn, ECG_T_rr_ms_skewness, HRV_HRV_MFDFA_alpha2_Increment, PPG_ppgInterbeat_eigval1",Yes
+2,Reduced Complexity with Altered Pulse Dynamics,601,27.6%,"HRV_HRV_CMSEn, HRV_HRV_SDNN, PPG_A_AC_skewness","HRV_HRV_CMSEn, HRV_HRV_SDNN, PPG_A_AC_skewness, PPG_mean_slope_os_mean, HRV_HRV_CD",Yes
+0,Reduced Autonomic Variability with Cardiac Irregularity,580,26.7%,"HRV_HRV_SDNN, HRV_HRV_TP, ECG_T_rr_ms_skewness","HRV_HRV_SDNN, HRV_HRV_TP, ECG_T_rr_ms_skewness, ECG_T_rr_ms_entropy, HRV_HRV_CVI",Yes
+3,Enhanced Parasympathetic Complexity with Altered Perfusion,272,12.5%,"HRV_HRV_pNN50, HRV_HRV_MinNN, PPG_AUCso_nu_p25","HRV_HRV_pNN50, HRV_HRV_MinNN, PPG_AUCso_nu_p25, PPG_ppgInterbeat_eigval2, HRV_HRV_CMSEn",Yes

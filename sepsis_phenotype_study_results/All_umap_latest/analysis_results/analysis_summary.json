@@ -1,0 +1,72 @@
+{
+  "analysis_info": {
+    "total_patients": 2174,
+    "total_features_selected": 272,
+    "n_phenotypes": 4,
+    "has_llm_interpretation": true,
+    "analysis_timestamp": "2025-11-24T17:27:04.849539"
+  },
+  "phenotype_distribution": {
+    "0": {
+      "cluster_id": 0,
+      "phenotype_name": "Reduced HRV with Elevated Peripheral Perfusion",
+      "n_patients": 488,
+      "percentage": 22.447102115915364
+    },
+    "1": {
+      "cluster_id": 1,
+      "phenotype_name": "Enhanced Parasympathetic Complexity with Peripheral Variability",
+      "n_patients": 583,
+      "percentage": 26.816927322907087
+    },
+    "2": {
+      "cluster_id": 2,
+      "phenotype_name": "Reduced Pulse Strength with Prolonged Pulse Width",
+      "n_patients": 391,
+      "percentage": 17.985280588776448
+    },
+    "3": {
+      "cluster_id": 3,
+      "phenotype_name": "Reduced Complexity with Enhanced Pulse Strength",
+      "n_patients": 712,
+      "percentage": 32.750689972401105
+    }
+  },
+  "feature_categories": {
+    "cardiac_rhythm": 6,
+    "heart_rate_variability": 65,
+    "respiratory": 24,
+    "cardiac_phases": 3,
+    "frequency_domain": 0,
+    "ppg_derived": 136,
+    "statistical_measures": 30,
+    "morphology": 0,
+    "other": 8
+  },
+  "model_performance": {
+    "precision": [
+      0.9306930693069307,
+      0.8814814814814815,
+      0.8133333333333334,
+      0.8548387096774194
+    ],
+    "recall": [
+      0.9894736842105263,
+      0.8947368421052632,
+      0.8714285714285714,
+      0.7737226277372263
+    ],
+    "f1_score": [
+      0.9591836734693877,
+      0.8880597014925373,
+      0.8413793103448276,
+      0.8122605363984674
+    ],
+    "accuracy": [
+      98.94736842105263,
+      89.47368421052632,
+      87.14285714285714,
+      77.37226277372262
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+Cluster_ID,Phenotype_Name,N_Patients,Percentage,Top_3_Features,All_Key_Features,Has_Clinical_Interpretation
+1,Reduced Pulse Entropy with Cardiac Electrical Instability,764,35.1%,"PPG_T_so_cd_ms_entropy, PPG_PW_25_entropy, PPG_PW_50_entropy","PPG_T_so_cd_ms_entropy, PPG_PW_25_entropy, PPG_PW_50_entropy, PPG_skewness_ppg_entropy, PPG_Delta_A_sp_sp_entropy",Yes
+3,Enhanced PPG Entropy with Reduced Interbeat Variability,603,27.7%,"PPG_center_freq_ppg_Hz_entropy, PPG_kurtosis_ppg_entropy, PPG_ppgInterbeat_eigval3","PPG_center_freq_ppg_Hz_entropy, PPG_kurtosis_ppg_entropy, PPG_ppgInterbeat_eigval3, PPG_PW_25_entropy, HRV_HRV_MinNN",Yes
+2,Enhanced Parasympathetic Tone with Variable Perfusion,406,18.7%,"HRV_HRV_pNN50, PPG_AUC_pulse_nu_mean, PPG_Delta_A_sp_sp_p25","HRV_HRV_pNN50, PPG_AUC_pulse_nu_mean, PPG_Delta_A_sp_sp_p25, PPG_dpat_ms_p25, PPG_dpat_ms_entropy",Yes
+0,Reduced Pulse Dynamics with Peripheral Hypoperfusion,401,18.4%,"PPG_PW_50_entropy, PPG_mean_slope_os_skewness, PPG_skewness_ppg_entropy","PPG_PW_50_entropy, PPG_mean_slope_os_skewness, PPG_skewness_ppg_entropy, PPG_AUC_pulse_nu_entropy, PPG_T_so_cd_ms_entropy",Yes

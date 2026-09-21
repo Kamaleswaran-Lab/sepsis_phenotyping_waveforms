@@ -1,0 +1,2175 @@
+patient_id,cluster_label,phenotype_name
+0,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2,2,Reduced Complexity with Impaired Perfusion
+3,0,Reduced HRV with Enhanced Peripheral Pulse
+4,1,Skewed Pulse Dynamics with Autonomic Imbalance
+5,1,Skewed Pulse Dynamics with Autonomic Imbalance
+6,1,Skewed Pulse Dynamics with Autonomic Imbalance
+7,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+8,0,Reduced HRV with Enhanced Peripheral Pulse
+9,1,Skewed Pulse Dynamics with Autonomic Imbalance
+10,0,Reduced HRV with Enhanced Peripheral Pulse
+11,0,Reduced HRV with Enhanced Peripheral Pulse
+12,1,Skewed Pulse Dynamics with Autonomic Imbalance
+13,2,Reduced Complexity with Impaired Perfusion
+14,0,Reduced HRV with Enhanced Peripheral Pulse
+15,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+16,0,Reduced HRV with Enhanced Peripheral Pulse
+17,0,Reduced HRV with Enhanced Peripheral Pulse
+18,2,Reduced Complexity with Impaired Perfusion
+19,2,Reduced Complexity with Impaired Perfusion
+20,0,Reduced HRV with Enhanced Peripheral Pulse
+21,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+22,2,Reduced Complexity with Impaired Perfusion
+23,2,Reduced Complexity with Impaired Perfusion
+24,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+25,2,Reduced Complexity with Impaired Perfusion
+26,2,Reduced Complexity with Impaired Perfusion
+27,2,Reduced Complexity with Impaired Perfusion
+28,1,Skewed Pulse Dynamics with Autonomic Imbalance
+29,2,Reduced Complexity with Impaired Perfusion
+30,2,Reduced Complexity with Impaired Perfusion
+31,1,Skewed Pulse Dynamics with Autonomic Imbalance
+32,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+33,2,Reduced Complexity with Impaired Perfusion
+34,2,Reduced Complexity with Impaired Perfusion
+35,2,Reduced Complexity with Impaired Perfusion
+36,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+37,1,Skewed Pulse Dynamics with Autonomic Imbalance
+38,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+39,2,Reduced Complexity with Impaired Perfusion
+40,1,Skewed Pulse Dynamics with Autonomic Imbalance
+41,0,Reduced HRV with Enhanced Peripheral Pulse
+42,2,Reduced Complexity with Impaired Perfusion
+43,1,Skewed Pulse Dynamics with Autonomic Imbalance
+44,2,Reduced Complexity with Impaired Perfusion
+45,0,Reduced HRV with Enhanced Peripheral Pulse
+46,0,Reduced HRV with Enhanced Peripheral Pulse
+47,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+48,2,Reduced Complexity with Impaired Perfusion
+49,1,Skewed Pulse Dynamics with Autonomic Imbalance
+50,1,Skewed Pulse Dynamics with Autonomic Imbalance
+51,1,Skewed Pulse Dynamics with Autonomic Imbalance
+52,2,Reduced Complexity with Impaired Perfusion
+53,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+54,1,Skewed Pulse Dynamics with Autonomic Imbalance
+55,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+56,2,Reduced Complexity with Impaired Perfusion
+57,2,Reduced Complexity with Impaired Perfusion
+58,0,Reduced HRV with Enhanced Peripheral Pulse
+59,1,Skewed Pulse Dynamics with Autonomic Imbalance
+60,0,Reduced HRV with Enhanced Peripheral Pulse
+61,2,Reduced Complexity with Impaired Perfusion
+62,2,Reduced Complexity with Impaired Perfusion
+63,2,Reduced Complexity with Impaired Perfusion
+64,2,Reduced Complexity with Impaired Perfusion
+65,2,Reduced Complexity with Impaired Perfusion
+66,2,Reduced Complexity with Impaired Perfusion
+67,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+68,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+69,0,Reduced HRV with Enhanced Peripheral Pulse
+70,2,Reduced Complexity with Impaired Perfusion
+71,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+72,1,Skewed Pulse Dynamics with Autonomic Imbalance
+73,0,Reduced HRV with Enhanced Peripheral Pulse
+74,1,Skewed Pulse Dynamics with Autonomic Imbalance
+75,1,Skewed Pulse Dynamics with Autonomic Imbalance
+76,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+77,2,Reduced Complexity with Impaired Perfusion
+78,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+79,1,Skewed Pulse Dynamics with Autonomic Imbalance
+80,1,Skewed Pulse Dynamics with Autonomic Imbalance
+81,2,Reduced Complexity with Impaired Perfusion
+82,2,Reduced Complexity with Impaired Perfusion
+83,1,Skewed Pulse Dynamics with Autonomic Imbalance
+84,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+85,0,Reduced HRV with Enhanced Peripheral Pulse
+86,2,Reduced Complexity with Impaired Perfusion
+87,2,Reduced Complexity with Impaired Perfusion
+88,0,Reduced HRV with Enhanced Peripheral Pulse
+89,1,Skewed Pulse Dynamics with Autonomic Imbalance
+90,2,Reduced Complexity with Impaired Perfusion
+91,1,Skewed Pulse Dynamics with Autonomic Imbalance
+92,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+93,1,Skewed Pulse Dynamics with Autonomic Imbalance
+94,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+95,1,Skewed Pulse Dynamics with Autonomic Imbalance
+96,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+97,0,Reduced HRV with Enhanced Peripheral Pulse
+98,0,Reduced HRV with Enhanced Peripheral Pulse
+99,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+100,1,Skewed Pulse Dynamics with Autonomic Imbalance
+101,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+102,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+103,0,Reduced HRV with Enhanced Peripheral Pulse
+104,2,Reduced Complexity with Impaired Perfusion
+105,0,Reduced HRV with Enhanced Peripheral Pulse
+106,1,Skewed Pulse Dynamics with Autonomic Imbalance
+107,2,Reduced Complexity with Impaired Perfusion
+108,0,Reduced HRV with Enhanced Peripheral Pulse
+109,2,Reduced Complexity with Impaired Perfusion
+110,2,Reduced Complexity with Impaired Perfusion
+111,2,Reduced Complexity with Impaired Perfusion
+112,1,Skewed Pulse Dynamics with Autonomic Imbalance
+113,0,Reduced HRV with Enhanced Peripheral Pulse
+114,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+115,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+116,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+117,1,Skewed Pulse Dynamics with Autonomic Imbalance
+118,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+119,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+120,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+121,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+122,2,Reduced Complexity with Impaired Perfusion
+123,0,Reduced HRV with Enhanced Peripheral Pulse
+124,1,Skewed Pulse Dynamics with Autonomic Imbalance
+125,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+126,2,Reduced Complexity with Impaired Perfusion
+127,0,Reduced HRV with Enhanced Peripheral Pulse
+128,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+129,0,Reduced HRV with Enhanced Peripheral Pulse
+130,0,Reduced HRV with Enhanced Peripheral Pulse
+131,2,Reduced Complexity with Impaired Perfusion
+132,2,Reduced Complexity with Impaired Perfusion
+133,2,Reduced Complexity with Impaired Perfusion
+134,2,Reduced Complexity with Impaired Perfusion
+135,0,Reduced HRV with Enhanced Peripheral Pulse
+136,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+137,2,Reduced Complexity with Impaired Perfusion
+138,1,Skewed Pulse Dynamics with Autonomic Imbalance
+139,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+140,0,Reduced HRV with Enhanced Peripheral Pulse
+141,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+142,0,Reduced HRV with Enhanced Peripheral Pulse
+143,0,Reduced HRV with Enhanced Peripheral Pulse
+144,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+145,0,Reduced HRV with Enhanced Peripheral Pulse
+146,1,Skewed Pulse Dynamics with Autonomic Imbalance
+147,2,Reduced Complexity with Impaired Perfusion
+148,1,Skewed Pulse Dynamics with Autonomic Imbalance
+149,2,Reduced Complexity with Impaired Perfusion
+150,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+151,2,Reduced Complexity with Impaired Perfusion
+152,0,Reduced HRV with Enhanced Peripheral Pulse
+153,2,Reduced Complexity with Impaired Perfusion
+154,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+155,0,Reduced HRV with Enhanced Peripheral Pulse
+156,2,Reduced Complexity with Impaired Perfusion
+157,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+158,0,Reduced HRV with Enhanced Peripheral Pulse
+159,0,Reduced HRV with Enhanced Peripheral Pulse
+160,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+161,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+162,1,Skewed Pulse Dynamics with Autonomic Imbalance
+163,1,Skewed Pulse Dynamics with Autonomic Imbalance
+164,1,Skewed Pulse Dynamics with Autonomic Imbalance
+165,2,Reduced Complexity with Impaired Perfusion
+166,2,Reduced Complexity with Impaired Perfusion
+167,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+168,2,Reduced Complexity with Impaired Perfusion
+169,0,Reduced HRV with Enhanced Peripheral Pulse
+170,1,Skewed Pulse Dynamics with Autonomic Imbalance
+171,1,Skewed Pulse Dynamics with Autonomic Imbalance
+172,0,Reduced HRV with Enhanced Peripheral Pulse
+173,2,Reduced Complexity with Impaired Perfusion
+174,0,Reduced HRV with Enhanced Peripheral Pulse
+175,0,Reduced HRV with Enhanced Peripheral Pulse
+176,2,Reduced Complexity with Impaired Perfusion
+177,2,Reduced Complexity with Impaired Perfusion
+178,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+179,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+180,1,Skewed Pulse Dynamics with Autonomic Imbalance
+181,0,Reduced HRV with Enhanced Peripheral Pulse
+182,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+183,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+184,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+185,2,Reduced Complexity with Impaired Perfusion
+186,1,Skewed Pulse Dynamics with Autonomic Imbalance
+187,1,Skewed Pulse Dynamics with Autonomic Imbalance
+188,2,Reduced Complexity with Impaired Perfusion
+189,0,Reduced HRV with Enhanced Peripheral Pulse
+190,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+191,1,Skewed Pulse Dynamics with Autonomic Imbalance
+192,2,Reduced Complexity with Impaired Perfusion
+193,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+194,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+195,0,Reduced HRV with Enhanced Peripheral Pulse
+196,0,Reduced HRV with Enhanced Peripheral Pulse
+197,0,Reduced HRV with Enhanced Peripheral Pulse
+198,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+199,2,Reduced Complexity with Impaired Perfusion
+200,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+201,1,Skewed Pulse Dynamics with Autonomic Imbalance
+202,0,Reduced HRV with Enhanced Peripheral Pulse
+203,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+204,2,Reduced Complexity with Impaired Perfusion
+205,1,Skewed Pulse Dynamics with Autonomic Imbalance
+206,0,Reduced HRV with Enhanced Peripheral Pulse
+207,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+208,1,Skewed Pulse Dynamics with Autonomic Imbalance
+209,0,Reduced HRV with Enhanced Peripheral Pulse
+210,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+211,2,Reduced Complexity with Impaired Perfusion
+212,2,Reduced Complexity with Impaired Perfusion
+213,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+214,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+215,2,Reduced Complexity with Impaired Perfusion
+216,1,Skewed Pulse Dynamics with Autonomic Imbalance
+217,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+218,0,Reduced HRV with Enhanced Peripheral Pulse
+219,0,Reduced HRV with Enhanced Peripheral Pulse
+220,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+221,2,Reduced Complexity with Impaired Perfusion
+222,0,Reduced HRV with Enhanced Peripheral Pulse
+223,0,Reduced HRV with Enhanced Peripheral Pulse
+224,2,Reduced Complexity with Impaired Perfusion
+225,2,Reduced Complexity with Impaired Perfusion
+226,2,Reduced Complexity with Impaired Perfusion
+227,0,Reduced HRV with Enhanced Peripheral Pulse
+228,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+229,2,Reduced Complexity with Impaired Perfusion
+230,0,Reduced HRV with Enhanced Peripheral Pulse
+231,1,Skewed Pulse Dynamics with Autonomic Imbalance
+232,1,Skewed Pulse Dynamics with Autonomic Imbalance
+233,0,Reduced HRV with Enhanced Peripheral Pulse
+234,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+235,1,Skewed Pulse Dynamics with Autonomic Imbalance
+236,1,Skewed Pulse Dynamics with Autonomic Imbalance
+237,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+238,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+239,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+240,1,Skewed Pulse Dynamics with Autonomic Imbalance
+241,0,Reduced HRV with Enhanced Peripheral Pulse
+242,2,Reduced Complexity with Impaired Perfusion
+243,1,Skewed Pulse Dynamics with Autonomic Imbalance
+244,0,Reduced HRV with Enhanced Peripheral Pulse
+245,2,Reduced Complexity with Impaired Perfusion
+246,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+247,1,Skewed Pulse Dynamics with Autonomic Imbalance
+248,1,Skewed Pulse Dynamics with Autonomic Imbalance
+249,1,Skewed Pulse Dynamics with Autonomic Imbalance
+250,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+251,2,Reduced Complexity with Impaired Perfusion
+252,1,Skewed Pulse Dynamics with Autonomic Imbalance
+253,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+254,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+255,2,Reduced Complexity with Impaired Perfusion
+256,0,Reduced HRV with Enhanced Peripheral Pulse
+257,0,Reduced HRV with Enhanced Peripheral Pulse
+258,1,Skewed Pulse Dynamics with Autonomic Imbalance
+259,1,Skewed Pulse Dynamics with Autonomic Imbalance
+260,1,Skewed Pulse Dynamics with Autonomic Imbalance
+261,2,Reduced Complexity with Impaired Perfusion
+262,2,Reduced Complexity with Impaired Perfusion
+263,1,Skewed Pulse Dynamics with Autonomic Imbalance
+264,2,Reduced Complexity with Impaired Perfusion
+265,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+266,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+267,1,Skewed Pulse Dynamics with Autonomic Imbalance
+268,2,Reduced Complexity with Impaired Perfusion
+269,2,Reduced Complexity with Impaired Perfusion
+270,0,Reduced HRV with Enhanced Peripheral Pulse
+271,2,Reduced Complexity with Impaired Perfusion
+272,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+273,1,Skewed Pulse Dynamics with Autonomic Imbalance
+274,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+275,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+276,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+277,2,Reduced Complexity with Impaired Perfusion
+278,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+279,2,Reduced Complexity with Impaired Perfusion
+280,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+281,0,Reduced HRV with Enhanced Peripheral Pulse
+282,1,Skewed Pulse Dynamics with Autonomic Imbalance
+283,1,Skewed Pulse Dynamics with Autonomic Imbalance
+284,1,Skewed Pulse Dynamics with Autonomic Imbalance
+285,0,Reduced HRV with Enhanced Peripheral Pulse
+286,1,Skewed Pulse Dynamics with Autonomic Imbalance
+287,1,Skewed Pulse Dynamics with Autonomic Imbalance
+288,2,Reduced Complexity with Impaired Perfusion
+289,1,Skewed Pulse Dynamics with Autonomic Imbalance
+290,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+291,1,Skewed Pulse Dynamics with Autonomic Imbalance
+292,0,Reduced HRV with Enhanced Peripheral Pulse
+293,0,Reduced HRV with Enhanced Peripheral Pulse
+294,1,Skewed Pulse Dynamics with Autonomic Imbalance
+295,2,Reduced Complexity with Impaired Perfusion
+296,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+297,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+298,2,Reduced Complexity with Impaired Perfusion
+299,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+300,2,Reduced Complexity with Impaired Perfusion
+301,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+302,2,Reduced Complexity with Impaired Perfusion
+303,0,Reduced HRV with Enhanced Peripheral Pulse
+304,2,Reduced Complexity with Impaired Perfusion
+305,1,Skewed Pulse Dynamics with Autonomic Imbalance
+306,2,Reduced Complexity with Impaired Perfusion
+307,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+308,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+309,2,Reduced Complexity with Impaired Perfusion
+310,2,Reduced Complexity with Impaired Perfusion
+311,2,Reduced Complexity with Impaired Perfusion
+312,2,Reduced Complexity with Impaired Perfusion
+313,2,Reduced Complexity with Impaired Perfusion
+314,1,Skewed Pulse Dynamics with Autonomic Imbalance
+315,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+316,2,Reduced Complexity with Impaired Perfusion
+317,1,Skewed Pulse Dynamics with Autonomic Imbalance
+318,0,Reduced HRV with Enhanced Peripheral Pulse
+319,1,Skewed Pulse Dynamics with Autonomic Imbalance
+320,0,Reduced HRV with Enhanced Peripheral Pulse
+321,0,Reduced HRV with Enhanced Peripheral Pulse
+322,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+323,1,Skewed Pulse Dynamics with Autonomic Imbalance
+324,2,Reduced Complexity with Impaired Perfusion
+325,1,Skewed Pulse Dynamics with Autonomic Imbalance
+326,2,Reduced Complexity with Impaired Perfusion
+327,0,Reduced HRV with Enhanced Peripheral Pulse
+328,2,Reduced Complexity with Impaired Perfusion
+329,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+330,1,Skewed Pulse Dynamics with Autonomic Imbalance
+331,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+332,2,Reduced Complexity with Impaired Perfusion
+333,2,Reduced Complexity with Impaired Perfusion
+334,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+335,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+336,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+337,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+338,1,Skewed Pulse Dynamics with Autonomic Imbalance
+339,0,Reduced HRV with Enhanced Peripheral Pulse
+340,2,Reduced Complexity with Impaired Perfusion
+341,2,Reduced Complexity with Impaired Perfusion
+342,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+343,0,Reduced HRV with Enhanced Peripheral Pulse
+344,1,Skewed Pulse Dynamics with Autonomic Imbalance
+345,2,Reduced Complexity with Impaired Perfusion
+346,0,Reduced HRV with Enhanced Peripheral Pulse
+347,0,Reduced HRV with Enhanced Peripheral Pulse
+348,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+349,0,Reduced HRV with Enhanced Peripheral Pulse
+350,1,Skewed Pulse Dynamics with Autonomic Imbalance
+351,2,Reduced Complexity with Impaired Perfusion
+352,2,Reduced Complexity with Impaired Perfusion
+353,1,Skewed Pulse Dynamics with Autonomic Imbalance
+354,0,Reduced HRV with Enhanced Peripheral Pulse
+355,0,Reduced HRV with Enhanced Peripheral Pulse
+356,1,Skewed Pulse Dynamics with Autonomic Imbalance
+357,2,Reduced Complexity with Impaired Perfusion
+358,0,Reduced HRV with Enhanced Peripheral Pulse
+359,0,Reduced HRV with Enhanced Peripheral Pulse
+360,0,Reduced HRV with Enhanced Peripheral Pulse
+361,0,Reduced HRV with Enhanced Peripheral Pulse
+362,2,Reduced Complexity with Impaired Perfusion
+363,0,Reduced HRV with Enhanced Peripheral Pulse
+364,2,Reduced Complexity with Impaired Perfusion
+365,0,Reduced HRV with Enhanced Peripheral Pulse
+366,0,Reduced HRV with Enhanced Peripheral Pulse
+367,1,Skewed Pulse Dynamics with Autonomic Imbalance
+368,2,Reduced Complexity with Impaired Perfusion
+369,2,Reduced Complexity with Impaired Perfusion
+370,0,Reduced HRV with Enhanced Peripheral Pulse
+371,0,Reduced HRV with Enhanced Peripheral Pulse
+372,2,Reduced Complexity with Impaired Perfusion
+373,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+374,1,Skewed Pulse Dynamics with Autonomic Imbalance
+375,1,Skewed Pulse Dynamics with Autonomic Imbalance
+376,1,Skewed Pulse Dynamics with Autonomic Imbalance
+377,1,Skewed Pulse Dynamics with Autonomic Imbalance
+378,1,Skewed Pulse Dynamics with Autonomic Imbalance
+379,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+380,1,Skewed Pulse Dynamics with Autonomic Imbalance
+381,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+382,1,Skewed Pulse Dynamics with Autonomic Imbalance
+383,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+384,1,Skewed Pulse Dynamics with Autonomic Imbalance
+385,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+386,2,Reduced Complexity with Impaired Perfusion
+387,2,Reduced Complexity with Impaired Perfusion
+388,2,Reduced Complexity with Impaired Perfusion
+389,0,Reduced HRV with Enhanced Peripheral Pulse
+390,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+391,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+392,2,Reduced Complexity with Impaired Perfusion
+393,0,Reduced HRV with Enhanced Peripheral Pulse
+394,1,Skewed Pulse Dynamics with Autonomic Imbalance
+395,2,Reduced Complexity with Impaired Perfusion
+396,0,Reduced HRV with Enhanced Peripheral Pulse
+397,0,Reduced HRV with Enhanced Peripheral Pulse
+398,0,Reduced HRV with Enhanced Peripheral Pulse
+399,2,Reduced Complexity with Impaired Perfusion
+400,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+401,2,Reduced Complexity with Impaired Perfusion
+402,2,Reduced Complexity with Impaired Perfusion
+403,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+404,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+405,0,Reduced HRV with Enhanced Peripheral Pulse
+406,2,Reduced Complexity with Impaired Perfusion
+407,2,Reduced Complexity with Impaired Perfusion
+408,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+409,2,Reduced Complexity with Impaired Perfusion
+410,1,Skewed Pulse Dynamics with Autonomic Imbalance
+411,2,Reduced Complexity with Impaired Perfusion
+412,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+413,2,Reduced Complexity with Impaired Perfusion
+414,0,Reduced HRV with Enhanced Peripheral Pulse
+415,0,Reduced HRV with Enhanced Peripheral Pulse
+416,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+417,0,Reduced HRV with Enhanced Peripheral Pulse
+418,2,Reduced Complexity with Impaired Perfusion
+419,1,Skewed Pulse Dynamics with Autonomic Imbalance
+420,1,Skewed Pulse Dynamics with Autonomic Imbalance
+421,2,Reduced Complexity with Impaired Perfusion
+422,2,Reduced Complexity with Impaired Perfusion
+423,1,Skewed Pulse Dynamics with Autonomic Imbalance
+424,0,Reduced HRV with Enhanced Peripheral Pulse
+425,2,Reduced Complexity with Impaired Perfusion
+426,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+427,0,Reduced HRV with Enhanced Peripheral Pulse
+428,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+429,1,Skewed Pulse Dynamics with Autonomic Imbalance
+430,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+431,2,Reduced Complexity with Impaired Perfusion
+432,2,Reduced Complexity with Impaired Perfusion
+433,2,Reduced Complexity with Impaired Perfusion
+434,1,Skewed Pulse Dynamics with Autonomic Imbalance
+435,1,Skewed Pulse Dynamics with Autonomic Imbalance
+436,1,Skewed Pulse Dynamics with Autonomic Imbalance
+437,2,Reduced Complexity with Impaired Perfusion
+438,2,Reduced Complexity with Impaired Perfusion
+439,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+440,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+441,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+442,0,Reduced HRV with Enhanced Peripheral Pulse
+443,1,Skewed Pulse Dynamics with Autonomic Imbalance
+444,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+445,0,Reduced HRV with Enhanced Peripheral Pulse
+446,0,Reduced HRV with Enhanced Peripheral Pulse
+447,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+448,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+449,2,Reduced Complexity with Impaired Perfusion
+450,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+451,1,Skewed Pulse Dynamics with Autonomic Imbalance
+452,2,Reduced Complexity with Impaired Perfusion
+453,1,Skewed Pulse Dynamics with Autonomic Imbalance
+454,0,Reduced HRV with Enhanced Peripheral Pulse
+455,2,Reduced Complexity with Impaired Perfusion
+456,0,Reduced HRV with Enhanced Peripheral Pulse
+457,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+458,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+459,2,Reduced Complexity with Impaired Perfusion
+460,2,Reduced Complexity with Impaired Perfusion
+461,2,Reduced Complexity with Impaired Perfusion
+462,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+463,0,Reduced HRV with Enhanced Peripheral Pulse
+464,0,Reduced HRV with Enhanced Peripheral Pulse
+465,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+466,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+467,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+468,0,Reduced HRV with Enhanced Peripheral Pulse
+469,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+470,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+471,2,Reduced Complexity with Impaired Perfusion
+472,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+473,0,Reduced HRV with Enhanced Peripheral Pulse
+474,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+475,1,Skewed Pulse Dynamics with Autonomic Imbalance
+476,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+477,0,Reduced HRV with Enhanced Peripheral Pulse
+478,0,Reduced HRV with Enhanced Peripheral Pulse
+479,0,Reduced HRV with Enhanced Peripheral Pulse
+480,2,Reduced Complexity with Impaired Perfusion
+481,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+482,1,Skewed Pulse Dynamics with Autonomic Imbalance
+483,2,Reduced Complexity with Impaired Perfusion
+484,2,Reduced Complexity with Impaired Perfusion
+485,0,Reduced HRV with Enhanced Peripheral Pulse
+486,1,Skewed Pulse Dynamics with Autonomic Imbalance
+487,0,Reduced HRV with Enhanced Peripheral Pulse
+488,2,Reduced Complexity with Impaired Perfusion
+489,2,Reduced Complexity with Impaired Perfusion
+490,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+491,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+492,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+493,2,Reduced Complexity with Impaired Perfusion
+494,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+495,1,Skewed Pulse Dynamics with Autonomic Imbalance
+496,2,Reduced Complexity with Impaired Perfusion
+497,1,Skewed Pulse Dynamics with Autonomic Imbalance
+498,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+499,0,Reduced HRV with Enhanced Peripheral Pulse
+500,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+501,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+502,1,Skewed Pulse Dynamics with Autonomic Imbalance
+503,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+504,2,Reduced Complexity with Impaired Perfusion
+505,2,Reduced Complexity with Impaired Perfusion
+506,0,Reduced HRV with Enhanced Peripheral Pulse
+507,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+508,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+509,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+510,0,Reduced HRV with Enhanced Peripheral Pulse
+511,2,Reduced Complexity with Impaired Perfusion
+512,2,Reduced Complexity with Impaired Perfusion
+513,1,Skewed Pulse Dynamics with Autonomic Imbalance
+514,0,Reduced HRV with Enhanced Peripheral Pulse
+515,2,Reduced Complexity with Impaired Perfusion
+516,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+517,2,Reduced Complexity with Impaired Perfusion
+518,1,Skewed Pulse Dynamics with Autonomic Imbalance
+519,2,Reduced Complexity with Impaired Perfusion
+520,2,Reduced Complexity with Impaired Perfusion
+521,2,Reduced Complexity with Impaired Perfusion
+522,1,Skewed Pulse Dynamics with Autonomic Imbalance
+523,2,Reduced Complexity with Impaired Perfusion
+524,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+525,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+526,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+527,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+528,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+529,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+530,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+531,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+532,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+533,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+534,2,Reduced Complexity with Impaired Perfusion
+535,2,Reduced Complexity with Impaired Perfusion
+536,0,Reduced HRV with Enhanced Peripheral Pulse
+537,1,Skewed Pulse Dynamics with Autonomic Imbalance
+538,1,Skewed Pulse Dynamics with Autonomic Imbalance
+539,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+540,2,Reduced Complexity with Impaired Perfusion
+541,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+542,2,Reduced Complexity with Impaired Perfusion
+543,2,Reduced Complexity with Impaired Perfusion
+544,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+545,1,Skewed Pulse Dynamics with Autonomic Imbalance
+546,0,Reduced HRV with Enhanced Peripheral Pulse
+547,2,Reduced Complexity with Impaired Perfusion
+548,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+549,2,Reduced Complexity with Impaired Perfusion
+550,2,Reduced Complexity with Impaired Perfusion
+551,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+552,2,Reduced Complexity with Impaired Perfusion
+553,2,Reduced Complexity with Impaired Perfusion
+554,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+555,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+556,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+557,1,Skewed Pulse Dynamics with Autonomic Imbalance
+558,0,Reduced HRV with Enhanced Peripheral Pulse
+559,2,Reduced Complexity with Impaired Perfusion
+560,0,Reduced HRV with Enhanced Peripheral Pulse
+561,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+562,0,Reduced HRV with Enhanced Peripheral Pulse
+563,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+564,2,Reduced Complexity with Impaired Perfusion
+565,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+566,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+567,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+568,2,Reduced Complexity with Impaired Perfusion
+569,2,Reduced Complexity with Impaired Perfusion
+570,0,Reduced HRV with Enhanced Peripheral Pulse
+571,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+572,0,Reduced HRV with Enhanced Peripheral Pulse
+573,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+574,0,Reduced HRV with Enhanced Peripheral Pulse
+575,2,Reduced Complexity with Impaired Perfusion
+576,0,Reduced HRV with Enhanced Peripheral Pulse
+577,0,Reduced HRV with Enhanced Peripheral Pulse
+578,1,Skewed Pulse Dynamics with Autonomic Imbalance
+579,2,Reduced Complexity with Impaired Perfusion
+580,1,Skewed Pulse Dynamics with Autonomic Imbalance
+581,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+582,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+583,1,Skewed Pulse Dynamics with Autonomic Imbalance
+584,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+585,1,Skewed Pulse Dynamics with Autonomic Imbalance
+586,2,Reduced Complexity with Impaired Perfusion
+587,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+588,2,Reduced Complexity with Impaired Perfusion
+589,2,Reduced Complexity with Impaired Perfusion
+590,0,Reduced HRV with Enhanced Peripheral Pulse
+591,0,Reduced HRV with Enhanced Peripheral Pulse
+592,2,Reduced Complexity with Impaired Perfusion
+593,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+594,0,Reduced HRV with Enhanced Peripheral Pulse
+595,0,Reduced HRV with Enhanced Peripheral Pulse
+596,0,Reduced HRV with Enhanced Peripheral Pulse
+597,1,Skewed Pulse Dynamics with Autonomic Imbalance
+598,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+599,0,Reduced HRV with Enhanced Peripheral Pulse
+600,2,Reduced Complexity with Impaired Perfusion
+601,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+602,0,Reduced HRV with Enhanced Peripheral Pulse
+603,2,Reduced Complexity with Impaired Perfusion
+604,2,Reduced Complexity with Impaired Perfusion
+605,0,Reduced HRV with Enhanced Peripheral Pulse
+606,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+607,1,Skewed Pulse Dynamics with Autonomic Imbalance
+608,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+609,1,Skewed Pulse Dynamics with Autonomic Imbalance
+610,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+611,2,Reduced Complexity with Impaired Perfusion
+612,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+613,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+614,0,Reduced HRV with Enhanced Peripheral Pulse
+615,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+616,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+617,2,Reduced Complexity with Impaired Perfusion
+618,2,Reduced Complexity with Impaired Perfusion
+619,0,Reduced HRV with Enhanced Peripheral Pulse
+620,2,Reduced Complexity with Impaired Perfusion
+621,1,Skewed Pulse Dynamics with Autonomic Imbalance
+622,1,Skewed Pulse Dynamics with Autonomic Imbalance
+623,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+624,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+625,0,Reduced HRV with Enhanced Peripheral Pulse
+626,2,Reduced Complexity with Impaired Perfusion
+627,0,Reduced HRV with Enhanced Peripheral Pulse
+628,1,Skewed Pulse Dynamics with Autonomic Imbalance
+629,2,Reduced Complexity with Impaired Perfusion
+630,1,Skewed Pulse Dynamics with Autonomic Imbalance
+631,2,Reduced Complexity with Impaired Perfusion
+632,0,Reduced HRV with Enhanced Peripheral Pulse
+633,0,Reduced HRV with Enhanced Peripheral Pulse
+634,2,Reduced Complexity with Impaired Perfusion
+635,1,Skewed Pulse Dynamics with Autonomic Imbalance
+636,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+637,2,Reduced Complexity with Impaired Perfusion
+638,2,Reduced Complexity with Impaired Perfusion
+639,2,Reduced Complexity with Impaired Perfusion
+640,2,Reduced Complexity with Impaired Perfusion
+641,1,Skewed Pulse Dynamics with Autonomic Imbalance
+642,2,Reduced Complexity with Impaired Perfusion
+643,2,Reduced Complexity with Impaired Perfusion
+644,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+645,2,Reduced Complexity with Impaired Perfusion
+646,1,Skewed Pulse Dynamics with Autonomic Imbalance
+647,0,Reduced HRV with Enhanced Peripheral Pulse
+648,1,Skewed Pulse Dynamics with Autonomic Imbalance
+649,2,Reduced Complexity with Impaired Perfusion
+650,2,Reduced Complexity with Impaired Perfusion
+651,2,Reduced Complexity with Impaired Perfusion
+652,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+653,0,Reduced HRV with Enhanced Peripheral Pulse
+654,2,Reduced Complexity with Impaired Perfusion
+655,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+656,2,Reduced Complexity with Impaired Perfusion
+657,2,Reduced Complexity with Impaired Perfusion
+658,2,Reduced Complexity with Impaired Perfusion
+659,0,Reduced HRV with Enhanced Peripheral Pulse
+660,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+661,2,Reduced Complexity with Impaired Perfusion
+662,2,Reduced Complexity with Impaired Perfusion
+663,2,Reduced Complexity with Impaired Perfusion
+664,2,Reduced Complexity with Impaired Perfusion
+665,2,Reduced Complexity with Impaired Perfusion
+666,0,Reduced HRV with Enhanced Peripheral Pulse
+667,0,Reduced HRV with Enhanced Peripheral Pulse
+668,1,Skewed Pulse Dynamics with Autonomic Imbalance
+669,1,Skewed Pulse Dynamics with Autonomic Imbalance
+670,2,Reduced Complexity with Impaired Perfusion
+671,0,Reduced HRV with Enhanced Peripheral Pulse
+672,2,Reduced Complexity with Impaired Perfusion
+673,2,Reduced Complexity with Impaired Perfusion
+674,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+675,2,Reduced Complexity with Impaired Perfusion
+676,1,Skewed Pulse Dynamics with Autonomic Imbalance
+677,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+678,1,Skewed Pulse Dynamics with Autonomic Imbalance
+679,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+680,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+681,1,Skewed Pulse Dynamics with Autonomic Imbalance
+682,1,Skewed Pulse Dynamics with Autonomic Imbalance
+683,1,Skewed Pulse Dynamics with Autonomic Imbalance
+684,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+685,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+686,0,Reduced HRV with Enhanced Peripheral Pulse
+687,1,Skewed Pulse Dynamics with Autonomic Imbalance
+688,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+689,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+690,0,Reduced HRV with Enhanced Peripheral Pulse
+691,2,Reduced Complexity with Impaired Perfusion
+692,2,Reduced Complexity with Impaired Perfusion
+693,2,Reduced Complexity with Impaired Perfusion
+694,2,Reduced Complexity with Impaired Perfusion
+695,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+696,2,Reduced Complexity with Impaired Perfusion
+697,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+698,0,Reduced HRV with Enhanced Peripheral Pulse
+699,1,Skewed Pulse Dynamics with Autonomic Imbalance
+700,2,Reduced Complexity with Impaired Perfusion
+701,1,Skewed Pulse Dynamics with Autonomic Imbalance
+702,0,Reduced HRV with Enhanced Peripheral Pulse
+703,0,Reduced HRV with Enhanced Peripheral Pulse
+704,1,Skewed Pulse Dynamics with Autonomic Imbalance
+705,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+706,2,Reduced Complexity with Impaired Perfusion
+707,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+708,0,Reduced HRV with Enhanced Peripheral Pulse
+709,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+710,2,Reduced Complexity with Impaired Perfusion
+711,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+712,0,Reduced HRV with Enhanced Peripheral Pulse
+713,2,Reduced Complexity with Impaired Perfusion
+714,1,Skewed Pulse Dynamics with Autonomic Imbalance
+715,2,Reduced Complexity with Impaired Perfusion
+716,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+717,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+718,1,Skewed Pulse Dynamics with Autonomic Imbalance
+719,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+720,1,Skewed Pulse Dynamics with Autonomic Imbalance
+721,2,Reduced Complexity with Impaired Perfusion
+722,2,Reduced Complexity with Impaired Perfusion
+723,2,Reduced Complexity with Impaired Perfusion
+724,0,Reduced HRV with Enhanced Peripheral Pulse
+725,0,Reduced HRV with Enhanced Peripheral Pulse
+726,2,Reduced Complexity with Impaired Perfusion
+727,2,Reduced Complexity with Impaired Perfusion
+728,2,Reduced Complexity with Impaired Perfusion
+729,2,Reduced Complexity with Impaired Perfusion
+730,2,Reduced Complexity with Impaired Perfusion
+731,2,Reduced Complexity with Impaired Perfusion
+732,0,Reduced HRV with Enhanced Peripheral Pulse
+733,1,Skewed Pulse Dynamics with Autonomic Imbalance
+734,0,Reduced HRV with Enhanced Peripheral Pulse
+735,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+736,1,Skewed Pulse Dynamics with Autonomic Imbalance
+737,1,Skewed Pulse Dynamics with Autonomic Imbalance
+738,1,Skewed Pulse Dynamics with Autonomic Imbalance
+739,1,Skewed Pulse Dynamics with Autonomic Imbalance
+740,2,Reduced Complexity with Impaired Perfusion
+741,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+742,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+743,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+744,2,Reduced Complexity with Impaired Perfusion
+745,1,Skewed Pulse Dynamics with Autonomic Imbalance
+746,1,Skewed Pulse Dynamics with Autonomic Imbalance
+747,2,Reduced Complexity with Impaired Perfusion
+748,1,Skewed Pulse Dynamics with Autonomic Imbalance
+749,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+750,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+751,2,Reduced Complexity with Impaired Perfusion
+752,2,Reduced Complexity with Impaired Perfusion
+753,2,Reduced Complexity with Impaired Perfusion
+754,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+755,0,Reduced HRV with Enhanced Peripheral Pulse
+756,0,Reduced HRV with Enhanced Peripheral Pulse
+757,2,Reduced Complexity with Impaired Perfusion
+758,0,Reduced HRV with Enhanced Peripheral Pulse
+759,2,Reduced Complexity with Impaired Perfusion
+760,1,Skewed Pulse Dynamics with Autonomic Imbalance
+761,0,Reduced HRV with Enhanced Peripheral Pulse
+762,2,Reduced Complexity with Impaired Perfusion
+763,0,Reduced HRV with Enhanced Peripheral Pulse
+764,2,Reduced Complexity with Impaired Perfusion
+765,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+766,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+767,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+768,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+769,1,Skewed Pulse Dynamics with Autonomic Imbalance
+770,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+771,1,Skewed Pulse Dynamics with Autonomic Imbalance
+772,2,Reduced Complexity with Impaired Perfusion
+773,0,Reduced HRV with Enhanced Peripheral Pulse
+774,1,Skewed Pulse Dynamics with Autonomic Imbalance
+775,2,Reduced Complexity with Impaired Perfusion
+776,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+777,0,Reduced HRV with Enhanced Peripheral Pulse
+778,1,Skewed Pulse Dynamics with Autonomic Imbalance
+779,1,Skewed Pulse Dynamics with Autonomic Imbalance
+780,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+781,1,Skewed Pulse Dynamics with Autonomic Imbalance
+782,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+783,2,Reduced Complexity with Impaired Perfusion
+784,2,Reduced Complexity with Impaired Perfusion
+785,2,Reduced Complexity with Impaired Perfusion
+786,1,Skewed Pulse Dynamics with Autonomic Imbalance
+787,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+788,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+789,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+790,2,Reduced Complexity with Impaired Perfusion
+791,2,Reduced Complexity with Impaired Perfusion
+792,0,Reduced HRV with Enhanced Peripheral Pulse
+793,2,Reduced Complexity with Impaired Perfusion
+794,0,Reduced HRV with Enhanced Peripheral Pulse
+795,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+796,2,Reduced Complexity with Impaired Perfusion
+797,1,Skewed Pulse Dynamics with Autonomic Imbalance
+798,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+799,1,Skewed Pulse Dynamics with Autonomic Imbalance
+800,2,Reduced Complexity with Impaired Perfusion
+801,0,Reduced HRV with Enhanced Peripheral Pulse
+802,1,Skewed Pulse Dynamics with Autonomic Imbalance
+803,0,Reduced HRV with Enhanced Peripheral Pulse
+804,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+805,2,Reduced Complexity with Impaired Perfusion
+806,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+807,2,Reduced Complexity with Impaired Perfusion
+808,0,Reduced HRV with Enhanced Peripheral Pulse
+809,0,Reduced HRV with Enhanced Peripheral Pulse
+810,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+811,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+812,0,Reduced HRV with Enhanced Peripheral Pulse
+813,0,Reduced HRV with Enhanced Peripheral Pulse
+814,0,Reduced HRV with Enhanced Peripheral Pulse
+815,0,Reduced HRV with Enhanced Peripheral Pulse
+816,2,Reduced Complexity with Impaired Perfusion
+817,0,Reduced HRV with Enhanced Peripheral Pulse
+818,2,Reduced Complexity with Impaired Perfusion
+819,1,Skewed Pulse Dynamics with Autonomic Imbalance
+820,0,Reduced HRV with Enhanced Peripheral Pulse
+821,1,Skewed Pulse Dynamics with Autonomic Imbalance
+822,0,Reduced HRV with Enhanced Peripheral Pulse
+823,2,Reduced Complexity with Impaired Perfusion
+824,0,Reduced HRV with Enhanced Peripheral Pulse
+825,1,Skewed Pulse Dynamics with Autonomic Imbalance
+826,0,Reduced HRV with Enhanced Peripheral Pulse
+827,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+828,2,Reduced Complexity with Impaired Perfusion
+829,1,Skewed Pulse Dynamics with Autonomic Imbalance
+830,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+831,2,Reduced Complexity with Impaired Perfusion
+832,1,Skewed Pulse Dynamics with Autonomic Imbalance
+833,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+834,2,Reduced Complexity with Impaired Perfusion
+835,2,Reduced Complexity with Impaired Perfusion
+836,2,Reduced Complexity with Impaired Perfusion
+837,2,Reduced Complexity with Impaired Perfusion
+838,2,Reduced Complexity with Impaired Perfusion
+839,0,Reduced HRV with Enhanced Peripheral Pulse
+840,2,Reduced Complexity with Impaired Perfusion
+841,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+842,2,Reduced Complexity with Impaired Perfusion
+843,2,Reduced Complexity with Impaired Perfusion
+844,2,Reduced Complexity with Impaired Perfusion
+845,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+846,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+847,2,Reduced Complexity with Impaired Perfusion
+848,0,Reduced HRV with Enhanced Peripheral Pulse
+849,1,Skewed Pulse Dynamics with Autonomic Imbalance
+850,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+851,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+852,0,Reduced HRV with Enhanced Peripheral Pulse
+853,0,Reduced HRV with Enhanced Peripheral Pulse
+854,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+855,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+856,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+857,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+858,1,Skewed Pulse Dynamics with Autonomic Imbalance
+859,2,Reduced Complexity with Impaired Perfusion
+860,1,Skewed Pulse Dynamics with Autonomic Imbalance
+861,2,Reduced Complexity with Impaired Perfusion
+862,2,Reduced Complexity with Impaired Perfusion
+863,0,Reduced HRV with Enhanced Peripheral Pulse
+864,0,Reduced HRV with Enhanced Peripheral Pulse
+865,0,Reduced HRV with Enhanced Peripheral Pulse
+866,1,Skewed Pulse Dynamics with Autonomic Imbalance
+867,2,Reduced Complexity with Impaired Perfusion
+868,2,Reduced Complexity with Impaired Perfusion
+869,0,Reduced HRV with Enhanced Peripheral Pulse
+870,1,Skewed Pulse Dynamics with Autonomic Imbalance
+871,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+872,2,Reduced Complexity with Impaired Perfusion
+873,2,Reduced Complexity with Impaired Perfusion
+874,2,Reduced Complexity with Impaired Perfusion
+875,1,Skewed Pulse Dynamics with Autonomic Imbalance
+876,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+877,0,Reduced HRV with Enhanced Peripheral Pulse
+878,2,Reduced Complexity with Impaired Perfusion
+879,0,Reduced HRV with Enhanced Peripheral Pulse
+880,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+881,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+882,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+883,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+884,0,Reduced HRV with Enhanced Peripheral Pulse
+885,2,Reduced Complexity with Impaired Perfusion
+886,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+887,1,Skewed Pulse Dynamics with Autonomic Imbalance
+888,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+889,2,Reduced Complexity with Impaired Perfusion
+890,2,Reduced Complexity with Impaired Perfusion
+891,0,Reduced HRV with Enhanced Peripheral Pulse
+892,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+893,0,Reduced HRV with Enhanced Peripheral Pulse
+894,1,Skewed Pulse Dynamics with Autonomic Imbalance
+895,2,Reduced Complexity with Impaired Perfusion
+896,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+897,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+898,2,Reduced Complexity with Impaired Perfusion
+899,1,Skewed Pulse Dynamics with Autonomic Imbalance
+900,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+901,1,Skewed Pulse Dynamics with Autonomic Imbalance
+902,1,Skewed Pulse Dynamics with Autonomic Imbalance
+903,2,Reduced Complexity with Impaired Perfusion
+904,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+905,1,Skewed Pulse Dynamics with Autonomic Imbalance
+906,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+907,2,Reduced Complexity with Impaired Perfusion
+908,0,Reduced HRV with Enhanced Peripheral Pulse
+909,2,Reduced Complexity with Impaired Perfusion
+910,2,Reduced Complexity with Impaired Perfusion
+911,0,Reduced HRV with Enhanced Peripheral Pulse
+912,1,Skewed Pulse Dynamics with Autonomic Imbalance
+913,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+914,1,Skewed Pulse Dynamics with Autonomic Imbalance
+915,2,Reduced Complexity with Impaired Perfusion
+916,1,Skewed Pulse Dynamics with Autonomic Imbalance
+917,0,Reduced HRV with Enhanced Peripheral Pulse
+918,1,Skewed Pulse Dynamics with Autonomic Imbalance
+919,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+920,2,Reduced Complexity with Impaired Perfusion
+921,1,Skewed Pulse Dynamics with Autonomic Imbalance
+922,2,Reduced Complexity with Impaired Perfusion
+923,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+924,0,Reduced HRV with Enhanced Peripheral Pulse
+925,0,Reduced HRV with Enhanced Peripheral Pulse
+926,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+927,2,Reduced Complexity with Impaired Perfusion
+928,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+929,1,Skewed Pulse Dynamics with Autonomic Imbalance
+930,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+931,2,Reduced Complexity with Impaired Perfusion
+932,2,Reduced Complexity with Impaired Perfusion
+933,1,Skewed Pulse Dynamics with Autonomic Imbalance
+934,2,Reduced Complexity with Impaired Perfusion
+935,1,Skewed Pulse Dynamics with Autonomic Imbalance
+936,0,Reduced HRV with Enhanced Peripheral Pulse
+937,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+938,0,Reduced HRV with Enhanced Peripheral Pulse
+939,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+940,0,Reduced HRV with Enhanced Peripheral Pulse
+941,1,Skewed Pulse Dynamics with Autonomic Imbalance
+942,0,Reduced HRV with Enhanced Peripheral Pulse
+943,2,Reduced Complexity with Impaired Perfusion
+944,0,Reduced HRV with Enhanced Peripheral Pulse
+945,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+946,0,Reduced HRV with Enhanced Peripheral Pulse
+947,1,Skewed Pulse Dynamics with Autonomic Imbalance
+948,2,Reduced Complexity with Impaired Perfusion
+949,2,Reduced Complexity with Impaired Perfusion
+950,0,Reduced HRV with Enhanced Peripheral Pulse
+951,1,Skewed Pulse Dynamics with Autonomic Imbalance
+952,2,Reduced Complexity with Impaired Perfusion
+953,2,Reduced Complexity with Impaired Perfusion
+954,2,Reduced Complexity with Impaired Perfusion
+955,0,Reduced HRV with Enhanced Peripheral Pulse
+956,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+957,0,Reduced HRV with Enhanced Peripheral Pulse
+958,1,Skewed Pulse Dynamics with Autonomic Imbalance
+959,1,Skewed Pulse Dynamics with Autonomic Imbalance
+960,1,Skewed Pulse Dynamics with Autonomic Imbalance
+961,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+962,2,Reduced Complexity with Impaired Perfusion
+963,2,Reduced Complexity with Impaired Perfusion
+964,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+965,1,Skewed Pulse Dynamics with Autonomic Imbalance
+966,0,Reduced HRV with Enhanced Peripheral Pulse
+967,1,Skewed Pulse Dynamics with Autonomic Imbalance
+968,0,Reduced HRV with Enhanced Peripheral Pulse
+969,2,Reduced Complexity with Impaired Perfusion
+970,2,Reduced Complexity with Impaired Perfusion
+971,2,Reduced Complexity with Impaired Perfusion
+972,1,Skewed Pulse Dynamics with Autonomic Imbalance
+973,1,Skewed Pulse Dynamics with Autonomic Imbalance
+974,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+975,2,Reduced Complexity with Impaired Perfusion
+976,2,Reduced Complexity with Impaired Perfusion
+977,0,Reduced HRV with Enhanced Peripheral Pulse
+978,1,Skewed Pulse Dynamics with Autonomic Imbalance
+979,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+980,2,Reduced Complexity with Impaired Perfusion
+981,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+982,0,Reduced HRV with Enhanced Peripheral Pulse
+983,0,Reduced HRV with Enhanced Peripheral Pulse
+984,1,Skewed Pulse Dynamics with Autonomic Imbalance
+985,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+986,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+987,0,Reduced HRV with Enhanced Peripheral Pulse
+988,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+989,1,Skewed Pulse Dynamics with Autonomic Imbalance
+990,2,Reduced Complexity with Impaired Perfusion
+991,2,Reduced Complexity with Impaired Perfusion
+992,1,Skewed Pulse Dynamics with Autonomic Imbalance
+993,2,Reduced Complexity with Impaired Perfusion
+994,2,Reduced Complexity with Impaired Perfusion
+995,0,Reduced HRV with Enhanced Peripheral Pulse
+996,2,Reduced Complexity with Impaired Perfusion
+997,1,Skewed Pulse Dynamics with Autonomic Imbalance
+998,2,Reduced Complexity with Impaired Perfusion
+999,0,Reduced HRV with Enhanced Peripheral Pulse
+1000,0,Reduced HRV with Enhanced Peripheral Pulse
+1001,2,Reduced Complexity with Impaired Perfusion
+1002,2,Reduced Complexity with Impaired Perfusion
+1003,0,Reduced HRV with Enhanced Peripheral Pulse
+1004,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1005,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1006,2,Reduced Complexity with Impaired Perfusion
+1007,2,Reduced Complexity with Impaired Perfusion
+1008,2,Reduced Complexity with Impaired Perfusion
+1009,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1010,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1011,2,Reduced Complexity with Impaired Perfusion
+1012,2,Reduced Complexity with Impaired Perfusion
+1013,2,Reduced Complexity with Impaired Perfusion
+1014,2,Reduced Complexity with Impaired Perfusion
+1015,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1016,2,Reduced Complexity with Impaired Perfusion
+1017,2,Reduced Complexity with Impaired Perfusion
+1018,2,Reduced Complexity with Impaired Perfusion
+1019,2,Reduced Complexity with Impaired Perfusion
+1020,2,Reduced Complexity with Impaired Perfusion
+1021,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1022,0,Reduced HRV with Enhanced Peripheral Pulse
+1023,2,Reduced Complexity with Impaired Perfusion
+1024,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1025,0,Reduced HRV with Enhanced Peripheral Pulse
+1026,0,Reduced HRV with Enhanced Peripheral Pulse
+1027,0,Reduced HRV with Enhanced Peripheral Pulse
+1028,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1029,2,Reduced Complexity with Impaired Perfusion
+1030,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1031,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1032,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1033,2,Reduced Complexity with Impaired Perfusion
+1034,0,Reduced HRV with Enhanced Peripheral Pulse
+1035,0,Reduced HRV with Enhanced Peripheral Pulse
+1036,2,Reduced Complexity with Impaired Perfusion
+1037,2,Reduced Complexity with Impaired Perfusion
+1038,2,Reduced Complexity with Impaired Perfusion
+1039,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1040,2,Reduced Complexity with Impaired Perfusion
+1041,2,Reduced Complexity with Impaired Perfusion
+1042,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1043,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1044,0,Reduced HRV with Enhanced Peripheral Pulse
+1045,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1046,2,Reduced Complexity with Impaired Perfusion
+1047,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1048,2,Reduced Complexity with Impaired Perfusion
+1049,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1050,0,Reduced HRV with Enhanced Peripheral Pulse
+1051,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1052,0,Reduced HRV with Enhanced Peripheral Pulse
+1053,2,Reduced Complexity with Impaired Perfusion
+1054,2,Reduced Complexity with Impaired Perfusion
+1055,0,Reduced HRV with Enhanced Peripheral Pulse
+1056,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1057,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1058,0,Reduced HRV with Enhanced Peripheral Pulse
+1059,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1060,0,Reduced HRV with Enhanced Peripheral Pulse
+1061,0,Reduced HRV with Enhanced Peripheral Pulse
+1062,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1063,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1064,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1065,0,Reduced HRV with Enhanced Peripheral Pulse
+1066,2,Reduced Complexity with Impaired Perfusion
+1067,2,Reduced Complexity with Impaired Perfusion
+1068,0,Reduced HRV with Enhanced Peripheral Pulse
+1069,0,Reduced HRV with Enhanced Peripheral Pulse
+1070,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1071,2,Reduced Complexity with Impaired Perfusion
+1072,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1073,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1074,0,Reduced HRV with Enhanced Peripheral Pulse
+1075,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1076,0,Reduced HRV with Enhanced Peripheral Pulse
+1077,2,Reduced Complexity with Impaired Perfusion
+1078,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1079,2,Reduced Complexity with Impaired Perfusion
+1080,0,Reduced HRV with Enhanced Peripheral Pulse
+1081,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1082,2,Reduced Complexity with Impaired Perfusion
+1083,0,Reduced HRV with Enhanced Peripheral Pulse
+1084,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1085,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1086,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1087,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1088,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1089,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1090,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1091,2,Reduced Complexity with Impaired Perfusion
+1092,2,Reduced Complexity with Impaired Perfusion
+1093,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1094,0,Reduced HRV with Enhanced Peripheral Pulse
+1095,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1096,0,Reduced HRV with Enhanced Peripheral Pulse
+1097,0,Reduced HRV with Enhanced Peripheral Pulse
+1098,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1099,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1100,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1101,0,Reduced HRV with Enhanced Peripheral Pulse
+1102,2,Reduced Complexity with Impaired Perfusion
+1103,2,Reduced Complexity with Impaired Perfusion
+1104,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1105,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1106,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1107,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1108,0,Reduced HRV with Enhanced Peripheral Pulse
+1109,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1110,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1111,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1112,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1113,2,Reduced Complexity with Impaired Perfusion
+1114,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1115,2,Reduced Complexity with Impaired Perfusion
+1116,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1117,2,Reduced Complexity with Impaired Perfusion
+1118,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1119,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1120,2,Reduced Complexity with Impaired Perfusion
+1121,0,Reduced HRV with Enhanced Peripheral Pulse
+1122,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1123,0,Reduced HRV with Enhanced Peripheral Pulse
+1124,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1125,2,Reduced Complexity with Impaired Perfusion
+1126,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1127,2,Reduced Complexity with Impaired Perfusion
+1128,2,Reduced Complexity with Impaired Perfusion
+1129,2,Reduced Complexity with Impaired Perfusion
+1130,0,Reduced HRV with Enhanced Peripheral Pulse
+1131,2,Reduced Complexity with Impaired Perfusion
+1132,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1133,2,Reduced Complexity with Impaired Perfusion
+1134,2,Reduced Complexity with Impaired Perfusion
+1135,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1136,2,Reduced Complexity with Impaired Perfusion
+1137,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1138,2,Reduced Complexity with Impaired Perfusion
+1139,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1140,0,Reduced HRV with Enhanced Peripheral Pulse
+1141,2,Reduced Complexity with Impaired Perfusion
+1142,2,Reduced Complexity with Impaired Perfusion
+1143,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1144,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1145,2,Reduced Complexity with Impaired Perfusion
+1146,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1147,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1148,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1149,2,Reduced Complexity with Impaired Perfusion
+1150,2,Reduced Complexity with Impaired Perfusion
+1151,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1152,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1153,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1154,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1155,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1156,0,Reduced HRV with Enhanced Peripheral Pulse
+1157,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1158,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1159,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1160,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1161,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1162,2,Reduced Complexity with Impaired Perfusion
+1163,0,Reduced HRV with Enhanced Peripheral Pulse
+1164,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1165,2,Reduced Complexity with Impaired Perfusion
+1166,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1167,0,Reduced HRV with Enhanced Peripheral Pulse
+1168,2,Reduced Complexity with Impaired Perfusion
+1169,0,Reduced HRV with Enhanced Peripheral Pulse
+1170,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1171,2,Reduced Complexity with Impaired Perfusion
+1172,0,Reduced HRV with Enhanced Peripheral Pulse
+1173,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1174,0,Reduced HRV with Enhanced Peripheral Pulse
+1175,0,Reduced HRV with Enhanced Peripheral Pulse
+1176,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1177,2,Reduced Complexity with Impaired Perfusion
+1178,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1179,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1180,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1181,2,Reduced Complexity with Impaired Perfusion
+1182,0,Reduced HRV with Enhanced Peripheral Pulse
+1183,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1184,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1185,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1186,0,Reduced HRV with Enhanced Peripheral Pulse
+1187,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1188,2,Reduced Complexity with Impaired Perfusion
+1189,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1190,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1191,0,Reduced HRV with Enhanced Peripheral Pulse
+1192,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1193,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1194,0,Reduced HRV with Enhanced Peripheral Pulse
+1195,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1196,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1197,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1198,2,Reduced Complexity with Impaired Perfusion
+1199,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1200,2,Reduced Complexity with Impaired Perfusion
+1201,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1202,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1203,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1204,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1205,0,Reduced HRV with Enhanced Peripheral Pulse
+1206,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1207,0,Reduced HRV with Enhanced Peripheral Pulse
+1208,2,Reduced Complexity with Impaired Perfusion
+1209,0,Reduced HRV with Enhanced Peripheral Pulse
+1210,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1211,0,Reduced HRV with Enhanced Peripheral Pulse
+1212,2,Reduced Complexity with Impaired Perfusion
+1213,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1214,2,Reduced Complexity with Impaired Perfusion
+1215,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1216,2,Reduced Complexity with Impaired Perfusion
+1217,2,Reduced Complexity with Impaired Perfusion
+1218,0,Reduced HRV with Enhanced Peripheral Pulse
+1219,2,Reduced Complexity with Impaired Perfusion
+1220,0,Reduced HRV with Enhanced Peripheral Pulse
+1221,0,Reduced HRV with Enhanced Peripheral Pulse
+1222,2,Reduced Complexity with Impaired Perfusion
+1223,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1224,2,Reduced Complexity with Impaired Perfusion
+1225,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1226,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1227,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1228,2,Reduced Complexity with Impaired Perfusion
+1229,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1230,2,Reduced Complexity with Impaired Perfusion
+1231,2,Reduced Complexity with Impaired Perfusion
+1232,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1233,2,Reduced Complexity with Impaired Perfusion
+1234,0,Reduced HRV with Enhanced Peripheral Pulse
+1235,2,Reduced Complexity with Impaired Perfusion
+1236,2,Reduced Complexity with Impaired Perfusion
+1237,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1238,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1239,0,Reduced HRV with Enhanced Peripheral Pulse
+1240,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1241,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1242,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1243,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1244,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1245,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1246,2,Reduced Complexity with Impaired Perfusion
+1247,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1248,0,Reduced HRV with Enhanced Peripheral Pulse
+1249,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1250,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1251,2,Reduced Complexity with Impaired Perfusion
+1252,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1253,2,Reduced Complexity with Impaired Perfusion
+1254,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1255,2,Reduced Complexity with Impaired Perfusion
+1256,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1257,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1258,0,Reduced HRV with Enhanced Peripheral Pulse
+1259,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1260,2,Reduced Complexity with Impaired Perfusion
+1261,2,Reduced Complexity with Impaired Perfusion
+1262,0,Reduced HRV with Enhanced Peripheral Pulse
+1263,2,Reduced Complexity with Impaired Perfusion
+1264,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1265,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1266,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1267,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1268,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1269,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1270,0,Reduced HRV with Enhanced Peripheral Pulse
+1271,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1272,2,Reduced Complexity with Impaired Perfusion
+1273,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1274,2,Reduced Complexity with Impaired Perfusion
+1275,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1276,2,Reduced Complexity with Impaired Perfusion
+1277,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1278,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1279,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1280,0,Reduced HRV with Enhanced Peripheral Pulse
+1281,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1282,2,Reduced Complexity with Impaired Perfusion
+1283,0,Reduced HRV with Enhanced Peripheral Pulse
+1284,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1285,2,Reduced Complexity with Impaired Perfusion
+1286,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1287,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1288,0,Reduced HRV with Enhanced Peripheral Pulse
+1289,2,Reduced Complexity with Impaired Perfusion
+1290,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1291,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1292,2,Reduced Complexity with Impaired Perfusion
+1293,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1294,2,Reduced Complexity with Impaired Perfusion
+1295,2,Reduced Complexity with Impaired Perfusion
+1296,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1297,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1298,0,Reduced HRV with Enhanced Peripheral Pulse
+1299,0,Reduced HRV with Enhanced Peripheral Pulse
+1300,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1301,0,Reduced HRV with Enhanced Peripheral Pulse
+1302,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1303,0,Reduced HRV with Enhanced Peripheral Pulse
+1304,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1305,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1306,0,Reduced HRV with Enhanced Peripheral Pulse
+1307,2,Reduced Complexity with Impaired Perfusion
+1308,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1309,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1310,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1311,0,Reduced HRV with Enhanced Peripheral Pulse
+1312,2,Reduced Complexity with Impaired Perfusion
+1313,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1314,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1315,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1316,2,Reduced Complexity with Impaired Perfusion
+1317,0,Reduced HRV with Enhanced Peripheral Pulse
+1318,0,Reduced HRV with Enhanced Peripheral Pulse
+1319,0,Reduced HRV with Enhanced Peripheral Pulse
+1320,0,Reduced HRV with Enhanced Peripheral Pulse
+1321,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1322,2,Reduced Complexity with Impaired Perfusion
+1323,2,Reduced Complexity with Impaired Perfusion
+1324,2,Reduced Complexity with Impaired Perfusion
+1325,0,Reduced HRV with Enhanced Peripheral Pulse
+1326,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1327,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1328,2,Reduced Complexity with Impaired Perfusion
+1329,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1330,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1331,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1332,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1333,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1334,2,Reduced Complexity with Impaired Perfusion
+1335,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1336,2,Reduced Complexity with Impaired Perfusion
+1337,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1338,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1339,2,Reduced Complexity with Impaired Perfusion
+1340,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1341,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1342,0,Reduced HRV with Enhanced Peripheral Pulse
+1343,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1344,2,Reduced Complexity with Impaired Perfusion
+1345,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1346,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1347,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1348,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1349,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1350,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1351,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1352,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1353,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1354,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1355,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1356,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1357,2,Reduced Complexity with Impaired Perfusion
+1358,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1359,2,Reduced Complexity with Impaired Perfusion
+1360,0,Reduced HRV with Enhanced Peripheral Pulse
+1361,0,Reduced HRV with Enhanced Peripheral Pulse
+1362,2,Reduced Complexity with Impaired Perfusion
+1363,0,Reduced HRV with Enhanced Peripheral Pulse
+1364,2,Reduced Complexity with Impaired Perfusion
+1365,0,Reduced HRV with Enhanced Peripheral Pulse
+1366,0,Reduced HRV with Enhanced Peripheral Pulse
+1367,2,Reduced Complexity with Impaired Perfusion
+1368,2,Reduced Complexity with Impaired Perfusion
+1369,0,Reduced HRV with Enhanced Peripheral Pulse
+1370,2,Reduced Complexity with Impaired Perfusion
+1371,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1372,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1373,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1374,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1375,0,Reduced HRV with Enhanced Peripheral Pulse
+1376,2,Reduced Complexity with Impaired Perfusion
+1377,2,Reduced Complexity with Impaired Perfusion
+1378,2,Reduced Complexity with Impaired Perfusion
+1379,0,Reduced HRV with Enhanced Peripheral Pulse
+1380,2,Reduced Complexity with Impaired Perfusion
+1381,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1382,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1383,2,Reduced Complexity with Impaired Perfusion
+1384,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1385,2,Reduced Complexity with Impaired Perfusion
+1386,0,Reduced HRV with Enhanced Peripheral Pulse
+1387,2,Reduced Complexity with Impaired Perfusion
+1388,0,Reduced HRV with Enhanced Peripheral Pulse
+1389,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1390,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1391,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1392,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1393,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1394,2,Reduced Complexity with Impaired Perfusion
+1395,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1396,0,Reduced HRV with Enhanced Peripheral Pulse
+1397,2,Reduced Complexity with Impaired Perfusion
+1398,2,Reduced Complexity with Impaired Perfusion
+1399,2,Reduced Complexity with Impaired Perfusion
+1400,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1401,0,Reduced HRV with Enhanced Peripheral Pulse
+1402,2,Reduced Complexity with Impaired Perfusion
+1403,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1404,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1405,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1406,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1407,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1408,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1409,2,Reduced Complexity with Impaired Perfusion
+1410,0,Reduced HRV with Enhanced Peripheral Pulse
+1411,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1412,2,Reduced Complexity with Impaired Perfusion
+1413,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1414,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1415,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1416,0,Reduced HRV with Enhanced Peripheral Pulse
+1417,0,Reduced HRV with Enhanced Peripheral Pulse
+1418,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1419,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1420,2,Reduced Complexity with Impaired Perfusion
+1421,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1422,2,Reduced Complexity with Impaired Perfusion
+1423,0,Reduced HRV with Enhanced Peripheral Pulse
+1424,2,Reduced Complexity with Impaired Perfusion
+1425,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1426,2,Reduced Complexity with Impaired Perfusion
+1427,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1428,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1429,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1430,2,Reduced Complexity with Impaired Perfusion
+1431,2,Reduced Complexity with Impaired Perfusion
+1432,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1433,2,Reduced Complexity with Impaired Perfusion
+1434,0,Reduced HRV with Enhanced Peripheral Pulse
+1435,0,Reduced HRV with Enhanced Peripheral Pulse
+1436,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1437,2,Reduced Complexity with Impaired Perfusion
+1438,2,Reduced Complexity with Impaired Perfusion
+1439,0,Reduced HRV with Enhanced Peripheral Pulse
+1440,0,Reduced HRV with Enhanced Peripheral Pulse
+1441,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1442,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1443,0,Reduced HRV with Enhanced Peripheral Pulse
+1444,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1445,2,Reduced Complexity with Impaired Perfusion
+1446,2,Reduced Complexity with Impaired Perfusion
+1447,0,Reduced HRV with Enhanced Peripheral Pulse
+1448,0,Reduced HRV with Enhanced Peripheral Pulse
+1449,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1450,0,Reduced HRV with Enhanced Peripheral Pulse
+1451,2,Reduced Complexity with Impaired Perfusion
+1452,2,Reduced Complexity with Impaired Perfusion
+1453,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1454,2,Reduced Complexity with Impaired Perfusion
+1455,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1456,0,Reduced HRV with Enhanced Peripheral Pulse
+1457,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1458,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1459,0,Reduced HRV with Enhanced Peripheral Pulse
+1460,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1461,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1462,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1463,2,Reduced Complexity with Impaired Perfusion
+1464,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1465,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1466,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1467,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1468,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1469,2,Reduced Complexity with Impaired Perfusion
+1470,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1471,2,Reduced Complexity with Impaired Perfusion
+1472,0,Reduced HRV with Enhanced Peripheral Pulse
+1473,0,Reduced HRV with Enhanced Peripheral Pulse
+1474,0,Reduced HRV with Enhanced Peripheral Pulse
+1475,0,Reduced HRV with Enhanced Peripheral Pulse
+1476,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1477,0,Reduced HRV with Enhanced Peripheral Pulse
+1478,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1479,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1480,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1481,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1482,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1483,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1484,0,Reduced HRV with Enhanced Peripheral Pulse
+1485,0,Reduced HRV with Enhanced Peripheral Pulse
+1486,2,Reduced Complexity with Impaired Perfusion
+1487,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1488,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1489,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1490,0,Reduced HRV with Enhanced Peripheral Pulse
+1491,2,Reduced Complexity with Impaired Perfusion
+1492,2,Reduced Complexity with Impaired Perfusion
+1493,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1494,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1495,0,Reduced HRV with Enhanced Peripheral Pulse
+1496,0,Reduced HRV with Enhanced Peripheral Pulse
+1497,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1498,0,Reduced HRV with Enhanced Peripheral Pulse
+1499,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1500,0,Reduced HRV with Enhanced Peripheral Pulse
+1501,2,Reduced Complexity with Impaired Perfusion
+1502,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1503,0,Reduced HRV with Enhanced Peripheral Pulse
+1504,2,Reduced Complexity with Impaired Perfusion
+1505,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1506,2,Reduced Complexity with Impaired Perfusion
+1507,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1508,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1509,2,Reduced Complexity with Impaired Perfusion
+1510,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1511,2,Reduced Complexity with Impaired Perfusion
+1512,2,Reduced Complexity with Impaired Perfusion
+1513,2,Reduced Complexity with Impaired Perfusion
+1514,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1515,2,Reduced Complexity with Impaired Perfusion
+1516,2,Reduced Complexity with Impaired Perfusion
+1517,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1518,2,Reduced Complexity with Impaired Perfusion
+1519,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1520,2,Reduced Complexity with Impaired Perfusion
+1521,2,Reduced Complexity with Impaired Perfusion
+1522,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1523,2,Reduced Complexity with Impaired Perfusion
+1524,2,Reduced Complexity with Impaired Perfusion
+1525,0,Reduced HRV with Enhanced Peripheral Pulse
+1526,0,Reduced HRV with Enhanced Peripheral Pulse
+1527,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1528,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1529,2,Reduced Complexity with Impaired Perfusion
+1530,2,Reduced Complexity with Impaired Perfusion
+1531,2,Reduced Complexity with Impaired Perfusion
+1532,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1533,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1534,2,Reduced Complexity with Impaired Perfusion
+1535,2,Reduced Complexity with Impaired Perfusion
+1536,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1537,2,Reduced Complexity with Impaired Perfusion
+1538,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1539,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1540,0,Reduced HRV with Enhanced Peripheral Pulse
+1541,2,Reduced Complexity with Impaired Perfusion
+1542,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1543,2,Reduced Complexity with Impaired Perfusion
+1544,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1545,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1546,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1547,2,Reduced Complexity with Impaired Perfusion
+1548,2,Reduced Complexity with Impaired Perfusion
+1549,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1550,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1551,0,Reduced HRV with Enhanced Peripheral Pulse
+1552,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1553,0,Reduced HRV with Enhanced Peripheral Pulse
+1554,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1555,2,Reduced Complexity with Impaired Perfusion
+1556,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1557,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1558,0,Reduced HRV with Enhanced Peripheral Pulse
+1559,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1560,2,Reduced Complexity with Impaired Perfusion
+1561,0,Reduced HRV with Enhanced Peripheral Pulse
+1562,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1563,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1564,2,Reduced Complexity with Impaired Perfusion
+1565,0,Reduced HRV with Enhanced Peripheral Pulse
+1566,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1567,0,Reduced HRV with Enhanced Peripheral Pulse
+1568,2,Reduced Complexity with Impaired Perfusion
+1569,2,Reduced Complexity with Impaired Perfusion
+1570,2,Reduced Complexity with Impaired Perfusion
+1571,2,Reduced Complexity with Impaired Perfusion
+1572,2,Reduced Complexity with Impaired Perfusion
+1573,2,Reduced Complexity with Impaired Perfusion
+1574,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1575,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1576,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1577,2,Reduced Complexity with Impaired Perfusion
+1578,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1579,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1580,0,Reduced HRV with Enhanced Peripheral Pulse
+1581,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1582,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1583,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1584,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1585,2,Reduced Complexity with Impaired Perfusion
+1586,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1587,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1588,2,Reduced Complexity with Impaired Perfusion
+1589,2,Reduced Complexity with Impaired Perfusion
+1590,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1591,0,Reduced HRV with Enhanced Peripheral Pulse
+1592,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1593,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1594,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1595,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1596,2,Reduced Complexity with Impaired Perfusion
+1597,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1598,0,Reduced HRV with Enhanced Peripheral Pulse
+1599,0,Reduced HRV with Enhanced Peripheral Pulse
+1600,0,Reduced HRV with Enhanced Peripheral Pulse
+1601,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1602,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1603,2,Reduced Complexity with Impaired Perfusion
+1604,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1605,2,Reduced Complexity with Impaired Perfusion
+1606,2,Reduced Complexity with Impaired Perfusion
+1607,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1608,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1609,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1610,0,Reduced HRV with Enhanced Peripheral Pulse
+1611,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1612,2,Reduced Complexity with Impaired Perfusion
+1613,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1614,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1615,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1616,0,Reduced HRV with Enhanced Peripheral Pulse
+1617,2,Reduced Complexity with Impaired Perfusion
+1618,2,Reduced Complexity with Impaired Perfusion
+1619,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1620,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1621,0,Reduced HRV with Enhanced Peripheral Pulse
+1622,0,Reduced HRV with Enhanced Peripheral Pulse
+1623,0,Reduced HRV with Enhanced Peripheral Pulse
+1624,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1625,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1626,0,Reduced HRV with Enhanced Peripheral Pulse
+1627,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1628,2,Reduced Complexity with Impaired Perfusion
+1629,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1630,2,Reduced Complexity with Impaired Perfusion
+1631,0,Reduced HRV with Enhanced Peripheral Pulse
+1632,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1633,2,Reduced Complexity with Impaired Perfusion
+1634,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1635,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1636,0,Reduced HRV with Enhanced Peripheral Pulse
+1637,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1638,0,Reduced HRV with Enhanced Peripheral Pulse
+1639,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1640,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1641,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1642,2,Reduced Complexity with Impaired Perfusion
+1643,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1644,0,Reduced HRV with Enhanced Peripheral Pulse
+1645,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1646,2,Reduced Complexity with Impaired Perfusion
+1647,2,Reduced Complexity with Impaired Perfusion
+1648,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1649,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1650,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1651,2,Reduced Complexity with Impaired Perfusion
+1652,0,Reduced HRV with Enhanced Peripheral Pulse
+1653,2,Reduced Complexity with Impaired Perfusion
+1654,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1655,0,Reduced HRV with Enhanced Peripheral Pulse
+1656,2,Reduced Complexity with Impaired Perfusion
+1657,0,Reduced HRV with Enhanced Peripheral Pulse
+1658,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1659,0,Reduced HRV with Enhanced Peripheral Pulse
+1660,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1661,2,Reduced Complexity with Impaired Perfusion
+1662,2,Reduced Complexity with Impaired Perfusion
+1663,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1664,2,Reduced Complexity with Impaired Perfusion
+1665,0,Reduced HRV with Enhanced Peripheral Pulse
+1666,2,Reduced Complexity with Impaired Perfusion
+1667,2,Reduced Complexity with Impaired Perfusion
+1668,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1669,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1670,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1671,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1672,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1673,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1674,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1675,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1676,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1677,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1678,0,Reduced HRV with Enhanced Peripheral Pulse
+1679,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1680,0,Reduced HRV with Enhanced Peripheral Pulse
+1681,2,Reduced Complexity with Impaired Perfusion
+1682,0,Reduced HRV with Enhanced Peripheral Pulse
+1683,2,Reduced Complexity with Impaired Perfusion
+1684,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1685,2,Reduced Complexity with Impaired Perfusion
+1686,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1687,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1688,2,Reduced Complexity with Impaired Perfusion
+1689,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1690,0,Reduced HRV with Enhanced Peripheral Pulse
+1691,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1692,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1693,0,Reduced HRV with Enhanced Peripheral Pulse
+1694,2,Reduced Complexity with Impaired Perfusion
+1695,0,Reduced HRV with Enhanced Peripheral Pulse
+1696,0,Reduced HRV with Enhanced Peripheral Pulse
+1697,2,Reduced Complexity with Impaired Perfusion
+1698,2,Reduced Complexity with Impaired Perfusion
+1699,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1700,0,Reduced HRV with Enhanced Peripheral Pulse
+1701,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1702,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1703,0,Reduced HRV with Enhanced Peripheral Pulse
+1704,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1705,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1706,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1707,2,Reduced Complexity with Impaired Perfusion
+1708,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1709,0,Reduced HRV with Enhanced Peripheral Pulse
+1710,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1711,0,Reduced HRV with Enhanced Peripheral Pulse
+1712,2,Reduced Complexity with Impaired Perfusion
+1713,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1714,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1715,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1716,0,Reduced HRV with Enhanced Peripheral Pulse
+1717,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1718,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1719,0,Reduced HRV with Enhanced Peripheral Pulse
+1720,0,Reduced HRV with Enhanced Peripheral Pulse
+1721,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1722,2,Reduced Complexity with Impaired Perfusion
+1723,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1724,2,Reduced Complexity with Impaired Perfusion
+1725,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1726,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1727,2,Reduced Complexity with Impaired Perfusion
+1728,0,Reduced HRV with Enhanced Peripheral Pulse
+1729,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1730,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1731,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1732,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1733,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1734,2,Reduced Complexity with Impaired Perfusion
+1735,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1736,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1737,2,Reduced Complexity with Impaired Perfusion
+1738,2,Reduced Complexity with Impaired Perfusion
+1739,2,Reduced Complexity with Impaired Perfusion
+1740,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1741,0,Reduced HRV with Enhanced Peripheral Pulse
+1742,2,Reduced Complexity with Impaired Perfusion
+1743,0,Reduced HRV with Enhanced Peripheral Pulse
+1744,2,Reduced Complexity with Impaired Perfusion
+1745,0,Reduced HRV with Enhanced Peripheral Pulse
+1746,0,Reduced HRV with Enhanced Peripheral Pulse
+1747,2,Reduced Complexity with Impaired Perfusion
+1748,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1749,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1750,0,Reduced HRV with Enhanced Peripheral Pulse
+1751,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1752,0,Reduced HRV with Enhanced Peripheral Pulse
+1753,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1754,0,Reduced HRV with Enhanced Peripheral Pulse
+1755,2,Reduced Complexity with Impaired Perfusion
+1756,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1757,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1758,0,Reduced HRV with Enhanced Peripheral Pulse
+1759,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1760,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1761,2,Reduced Complexity with Impaired Perfusion
+1762,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1763,2,Reduced Complexity with Impaired Perfusion
+1764,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1765,2,Reduced Complexity with Impaired Perfusion
+1766,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1767,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1768,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1769,2,Reduced Complexity with Impaired Perfusion
+1770,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1771,0,Reduced HRV with Enhanced Peripheral Pulse
+1772,2,Reduced Complexity with Impaired Perfusion
+1773,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1774,2,Reduced Complexity with Impaired Perfusion
+1775,0,Reduced HRV with Enhanced Peripheral Pulse
+1776,0,Reduced HRV with Enhanced Peripheral Pulse
+1777,0,Reduced HRV with Enhanced Peripheral Pulse
+1778,2,Reduced Complexity with Impaired Perfusion
+1779,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1780,0,Reduced HRV with Enhanced Peripheral Pulse
+1781,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1782,2,Reduced Complexity with Impaired Perfusion
+1783,0,Reduced HRV with Enhanced Peripheral Pulse
+1784,2,Reduced Complexity with Impaired Perfusion
+1785,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1786,0,Reduced HRV with Enhanced Peripheral Pulse
+1787,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1788,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1789,2,Reduced Complexity with Impaired Perfusion
+1790,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1791,0,Reduced HRV with Enhanced Peripheral Pulse
+1792,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1793,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1794,2,Reduced Complexity with Impaired Perfusion
+1795,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1796,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1797,0,Reduced HRV with Enhanced Peripheral Pulse
+1798,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1799,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1800,0,Reduced HRV with Enhanced Peripheral Pulse
+1801,0,Reduced HRV with Enhanced Peripheral Pulse
+1802,2,Reduced Complexity with Impaired Perfusion
+1803,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1804,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1805,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1806,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1807,2,Reduced Complexity with Impaired Perfusion
+1808,0,Reduced HRV with Enhanced Peripheral Pulse
+1809,2,Reduced Complexity with Impaired Perfusion
+1810,2,Reduced Complexity with Impaired Perfusion
+1811,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1812,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1813,2,Reduced Complexity with Impaired Perfusion
+1814,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1815,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1816,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1817,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1818,2,Reduced Complexity with Impaired Perfusion
+1819,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1820,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1821,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1822,0,Reduced HRV with Enhanced Peripheral Pulse
+1823,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1824,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1825,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1826,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1827,0,Reduced HRV with Enhanced Peripheral Pulse
+1828,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1829,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1830,2,Reduced Complexity with Impaired Perfusion
+1831,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1832,0,Reduced HRV with Enhanced Peripheral Pulse
+1833,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1834,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1835,0,Reduced HRV with Enhanced Peripheral Pulse
+1836,2,Reduced Complexity with Impaired Perfusion
+1837,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1838,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1839,0,Reduced HRV with Enhanced Peripheral Pulse
+1840,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1841,2,Reduced Complexity with Impaired Perfusion
+1842,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1843,0,Reduced HRV with Enhanced Peripheral Pulse
+1844,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1845,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1846,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1847,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1848,0,Reduced HRV with Enhanced Peripheral Pulse
+1849,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1850,2,Reduced Complexity with Impaired Perfusion
+1851,2,Reduced Complexity with Impaired Perfusion
+1852,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1853,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1854,2,Reduced Complexity with Impaired Perfusion
+1855,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1856,0,Reduced HRV with Enhanced Peripheral Pulse
+1857,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1858,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1859,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1860,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1861,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1862,2,Reduced Complexity with Impaired Perfusion
+1863,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1864,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1865,2,Reduced Complexity with Impaired Perfusion
+1866,0,Reduced HRV with Enhanced Peripheral Pulse
+1867,2,Reduced Complexity with Impaired Perfusion
+1868,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1869,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1870,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1871,0,Reduced HRV with Enhanced Peripheral Pulse
+1872,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1873,2,Reduced Complexity with Impaired Perfusion
+1874,2,Reduced Complexity with Impaired Perfusion
+1875,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1876,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1877,2,Reduced Complexity with Impaired Perfusion
+1878,2,Reduced Complexity with Impaired Perfusion
+1879,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1880,0,Reduced HRV with Enhanced Peripheral Pulse
+1881,0,Reduced HRV with Enhanced Peripheral Pulse
+1882,2,Reduced Complexity with Impaired Perfusion
+1883,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1884,0,Reduced HRV with Enhanced Peripheral Pulse
+1885,2,Reduced Complexity with Impaired Perfusion
+1886,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1887,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1888,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1889,0,Reduced HRV with Enhanced Peripheral Pulse
+1890,2,Reduced Complexity with Impaired Perfusion
+1891,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1892,0,Reduced HRV with Enhanced Peripheral Pulse
+1893,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1894,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1895,0,Reduced HRV with Enhanced Peripheral Pulse
+1896,0,Reduced HRV with Enhanced Peripheral Pulse
+1897,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1898,2,Reduced Complexity with Impaired Perfusion
+1899,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1900,2,Reduced Complexity with Impaired Perfusion
+1901,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1902,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1903,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1904,2,Reduced Complexity with Impaired Perfusion
+1905,2,Reduced Complexity with Impaired Perfusion
+1906,0,Reduced HRV with Enhanced Peripheral Pulse
+1907,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1908,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1909,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1910,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1911,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1912,0,Reduced HRV with Enhanced Peripheral Pulse
+1913,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1914,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1915,2,Reduced Complexity with Impaired Perfusion
+1916,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1917,0,Reduced HRV with Enhanced Peripheral Pulse
+1918,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1919,2,Reduced Complexity with Impaired Perfusion
+1920,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1921,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1922,2,Reduced Complexity with Impaired Perfusion
+1923,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1924,0,Reduced HRV with Enhanced Peripheral Pulse
+1925,2,Reduced Complexity with Impaired Perfusion
+1926,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1927,2,Reduced Complexity with Impaired Perfusion
+1928,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1929,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1930,2,Reduced Complexity with Impaired Perfusion
+1931,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1932,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1933,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1934,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1935,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1936,2,Reduced Complexity with Impaired Perfusion
+1937,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1938,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1939,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1940,2,Reduced Complexity with Impaired Perfusion
+1941,2,Reduced Complexity with Impaired Perfusion
+1942,0,Reduced HRV with Enhanced Peripheral Pulse
+1943,2,Reduced Complexity with Impaired Perfusion
+1944,0,Reduced HRV with Enhanced Peripheral Pulse
+1945,0,Reduced HRV with Enhanced Peripheral Pulse
+1946,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1947,0,Reduced HRV with Enhanced Peripheral Pulse
+1948,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1949,0,Reduced HRV with Enhanced Peripheral Pulse
+1950,0,Reduced HRV with Enhanced Peripheral Pulse
+1951,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1952,0,Reduced HRV with Enhanced Peripheral Pulse
+1953,2,Reduced Complexity with Impaired Perfusion
+1954,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1955,2,Reduced Complexity with Impaired Perfusion
+1956,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1957,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1958,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1959,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1960,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1961,0,Reduced HRV with Enhanced Peripheral Pulse
+1962,2,Reduced Complexity with Impaired Perfusion
+1963,0,Reduced HRV with Enhanced Peripheral Pulse
+1964,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1965,2,Reduced Complexity with Impaired Perfusion
+1966,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1967,2,Reduced Complexity with Impaired Perfusion
+1968,0,Reduced HRV with Enhanced Peripheral Pulse
+1969,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1970,0,Reduced HRV with Enhanced Peripheral Pulse
+1971,0,Reduced HRV with Enhanced Peripheral Pulse
+1972,0,Reduced HRV with Enhanced Peripheral Pulse
+1973,0,Reduced HRV with Enhanced Peripheral Pulse
+1974,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1975,2,Reduced Complexity with Impaired Perfusion
+1976,0,Reduced HRV with Enhanced Peripheral Pulse
+1977,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1978,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1979,0,Reduced HRV with Enhanced Peripheral Pulse
+1980,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1981,0,Reduced HRV with Enhanced Peripheral Pulse
+1982,0,Reduced HRV with Enhanced Peripheral Pulse
+1983,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1984,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1985,0,Reduced HRV with Enhanced Peripheral Pulse
+1986,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1987,0,Reduced HRV with Enhanced Peripheral Pulse
+1988,0,Reduced HRV with Enhanced Peripheral Pulse
+1989,0,Reduced HRV with Enhanced Peripheral Pulse
+1990,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+1991,0,Reduced HRV with Enhanced Peripheral Pulse
+1992,2,Reduced Complexity with Impaired Perfusion
+1993,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1994,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1995,0,Reduced HRV with Enhanced Peripheral Pulse
+1996,2,Reduced Complexity with Impaired Perfusion
+1997,1,Skewed Pulse Dynamics with Autonomic Imbalance
+1998,2,Reduced Complexity with Impaired Perfusion
+1999,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2000,2,Reduced Complexity with Impaired Perfusion
+2001,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2002,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2003,0,Reduced HRV with Enhanced Peripheral Pulse
+2004,2,Reduced Complexity with Impaired Perfusion
+2005,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2006,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2007,0,Reduced HRV with Enhanced Peripheral Pulse
+2008,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2009,0,Reduced HRV with Enhanced Peripheral Pulse
+2010,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2011,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2012,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2013,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2014,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2015,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2016,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2017,0,Reduced HRV with Enhanced Peripheral Pulse
+2018,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2019,0,Reduced HRV with Enhanced Peripheral Pulse
+2020,0,Reduced HRV with Enhanced Peripheral Pulse
+2021,2,Reduced Complexity with Impaired Perfusion
+2022,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2023,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2024,2,Reduced Complexity with Impaired Perfusion
+2025,2,Reduced Complexity with Impaired Perfusion
+2026,2,Reduced Complexity with Impaired Perfusion
+2027,2,Reduced Complexity with Impaired Perfusion
+2028,2,Reduced Complexity with Impaired Perfusion
+2029,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2030,0,Reduced HRV with Enhanced Peripheral Pulse
+2031,2,Reduced Complexity with Impaired Perfusion
+2032,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2033,0,Reduced HRV with Enhanced Peripheral Pulse
+2034,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2035,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2036,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2037,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2038,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2039,0,Reduced HRV with Enhanced Peripheral Pulse
+2040,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2041,2,Reduced Complexity with Impaired Perfusion
+2042,0,Reduced HRV with Enhanced Peripheral Pulse
+2043,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2044,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2045,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2046,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2047,0,Reduced HRV with Enhanced Peripheral Pulse
+2048,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2049,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2050,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2051,0,Reduced HRV with Enhanced Peripheral Pulse
+2052,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2053,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2054,0,Reduced HRV with Enhanced Peripheral Pulse
+2055,0,Reduced HRV with Enhanced Peripheral Pulse
+2056,0,Reduced HRV with Enhanced Peripheral Pulse
+2057,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2058,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2059,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2060,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2061,2,Reduced Complexity with Impaired Perfusion
+2062,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2063,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2064,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2065,2,Reduced Complexity with Impaired Perfusion
+2066,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2067,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2068,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2069,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2070,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2071,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2072,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2073,2,Reduced Complexity with Impaired Perfusion
+2074,0,Reduced HRV with Enhanced Peripheral Pulse
+2075,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2076,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2077,2,Reduced Complexity with Impaired Perfusion
+2078,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2079,0,Reduced HRV with Enhanced Peripheral Pulse
+2080,0,Reduced HRV with Enhanced Peripheral Pulse
+2081,2,Reduced Complexity with Impaired Perfusion
+2082,0,Reduced HRV with Enhanced Peripheral Pulse
+2083,0,Reduced HRV with Enhanced Peripheral Pulse
+2084,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2085,2,Reduced Complexity with Impaired Perfusion
+2086,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2087,0,Reduced HRV with Enhanced Peripheral Pulse
+2088,0,Reduced HRV with Enhanced Peripheral Pulse
+2089,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2090,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2091,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2092,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2093,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2094,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2095,2,Reduced Complexity with Impaired Perfusion
+2096,2,Reduced Complexity with Impaired Perfusion
+2097,2,Reduced Complexity with Impaired Perfusion
+2098,2,Reduced Complexity with Impaired Perfusion
+2099,2,Reduced Complexity with Impaired Perfusion
+2100,2,Reduced Complexity with Impaired Perfusion
+2101,2,Reduced Complexity with Impaired Perfusion
+2102,0,Reduced HRV with Enhanced Peripheral Pulse
+2103,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2104,0,Reduced HRV with Enhanced Peripheral Pulse
+2105,0,Reduced HRV with Enhanced Peripheral Pulse
+2106,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2107,0,Reduced HRV with Enhanced Peripheral Pulse
+2108,2,Reduced Complexity with Impaired Perfusion
+2109,2,Reduced Complexity with Impaired Perfusion
+2110,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2111,2,Reduced Complexity with Impaired Perfusion
+2112,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2113,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2114,0,Reduced HRV with Enhanced Peripheral Pulse
+2115,0,Reduced HRV with Enhanced Peripheral Pulse
+2116,0,Reduced HRV with Enhanced Peripheral Pulse
+2117,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2118,0,Reduced HRV with Enhanced Peripheral Pulse
+2119,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2120,2,Reduced Complexity with Impaired Perfusion
+2121,0,Reduced HRV with Enhanced Peripheral Pulse
+2122,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2123,0,Reduced HRV with Enhanced Peripheral Pulse
+2124,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2125,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2126,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2127,2,Reduced Complexity with Impaired Perfusion
+2128,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2129,2,Reduced Complexity with Impaired Perfusion
+2130,2,Reduced Complexity with Impaired Perfusion
+2131,2,Reduced Complexity with Impaired Perfusion
+2132,2,Reduced Complexity with Impaired Perfusion
+2133,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2134,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2135,2,Reduced Complexity with Impaired Perfusion
+2136,0,Reduced HRV with Enhanced Peripheral Pulse
+2137,0,Reduced HRV with Enhanced Peripheral Pulse
+2138,2,Reduced Complexity with Impaired Perfusion
+2139,2,Reduced Complexity with Impaired Perfusion
+2140,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2141,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2142,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2143,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2144,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2145,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2146,2,Reduced Complexity with Impaired Perfusion
+2147,2,Reduced Complexity with Impaired Perfusion
+2148,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2149,2,Reduced Complexity with Impaired Perfusion
+2150,2,Reduced Complexity with Impaired Perfusion
+2151,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2152,2,Reduced Complexity with Impaired Perfusion
+2153,2,Reduced Complexity with Impaired Perfusion
+2154,2,Reduced Complexity with Impaired Perfusion
+2155,0,Reduced HRV with Enhanced Peripheral Pulse
+2156,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2157,0,Reduced HRV with Enhanced Peripheral Pulse
+2158,0,Reduced HRV with Enhanced Peripheral Pulse
+2159,2,Reduced Complexity with Impaired Perfusion
+2160,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2161,0,Reduced HRV with Enhanced Peripheral Pulse
+2162,2,Reduced Complexity with Impaired Perfusion
+2163,2,Reduced Complexity with Impaired Perfusion
+2164,0,Reduced HRV with Enhanced Peripheral Pulse
+2165,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2166,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2167,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2168,2,Reduced Complexity with Impaired Perfusion
+2169,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2170,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2171,1,Skewed Pulse Dynamics with Autonomic Imbalance
+2172,3,Enhanced Parasympathetic Complexity with Peripheral Variability
+2173,2,Reduced Complexity with Impaired Perfusion

@@ -1,0 +1,30 @@
+
+┌──────────────────────────────────────────────────────────────────────┐
+│         Enhanced Parasympathetic Tone with Variable Perfusion          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📊 DEMOGRAPHICS                                                     │
+│  • Patients: 406 (18.7%)                                       │
+│                                                                      │
+│  🔬 KEY FEATURES                                                     │
+│  • HRV_HRV_pNN50                                                │
+│  • PPG_AUC_pulse_nu_mean                                                │
+│  • PPG_Delta_A_sp_sp_p25                                                │
+│                                                                      │
+│  🧬 PATHOPHYSIOLOGY                                                  │
+│  │  - **Sepsis Mechanisms:** - The pattern of higher HRV_HRV_pNN50  │
+│  suggests an enhanced parasympathetic tone, which is atypical    │
+│  in sepsis where sympathetic dominance is more common. This      │
+│  could indicate a ...                                            │                                    │
+│                                                                      │
+│  🏥 CLINICAL PRESENTATION                                            │
+│  │                                                                  │                                     │
+│                                                                      │
+│  💊 THERAPEUTIC CONSIDERATIONS                                       │
+│  │  - **Treatment Considerations:** - Focus on maintaining          │
+│  adequate perfusion and monitoring for signs of hemodynamic      │
+│  instability. Fluid management should be carefully titrated to   │
+│  avoid overload or under-...                                     │                                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+        

@@ -1,0 +1,2175 @@
+patient_id,cluster_label,phenotype_name
+0,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1,2,Reduced Pulse Strength with Prolonged Pulse Width
+2,3,Reduced Complexity with Enhanced Pulse Strength
+3,0,Reduced HRV with Elevated Peripheral Perfusion
+4,2,Reduced Pulse Strength with Prolonged Pulse Width
+5,2,Reduced Pulse Strength with Prolonged Pulse Width
+6,2,Reduced Pulse Strength with Prolonged Pulse Width
+7,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+8,0,Reduced HRV with Elevated Peripheral Perfusion
+9,2,Reduced Pulse Strength with Prolonged Pulse Width
+10,0,Reduced HRV with Elevated Peripheral Perfusion
+11,0,Reduced HRV with Elevated Peripheral Perfusion
+12,3,Reduced Complexity with Enhanced Pulse Strength
+13,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+14,0,Reduced HRV with Elevated Peripheral Perfusion
+15,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+16,0,Reduced HRV with Elevated Peripheral Perfusion
+17,0,Reduced HRV with Elevated Peripheral Perfusion
+18,3,Reduced Complexity with Enhanced Pulse Strength
+19,3,Reduced Complexity with Enhanced Pulse Strength
+20,0,Reduced HRV with Elevated Peripheral Perfusion
+21,3,Reduced Complexity with Enhanced Pulse Strength
+22,3,Reduced Complexity with Enhanced Pulse Strength
+23,3,Reduced Complexity with Enhanced Pulse Strength
+24,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+25,3,Reduced Complexity with Enhanced Pulse Strength
+26,3,Reduced Complexity with Enhanced Pulse Strength
+27,3,Reduced Complexity with Enhanced Pulse Strength
+28,2,Reduced Pulse Strength with Prolonged Pulse Width
+29,3,Reduced Complexity with Enhanced Pulse Strength
+30,3,Reduced Complexity with Enhanced Pulse Strength
+31,2,Reduced Pulse Strength with Prolonged Pulse Width
+32,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+33,3,Reduced Complexity with Enhanced Pulse Strength
+34,3,Reduced Complexity with Enhanced Pulse Strength
+35,3,Reduced Complexity with Enhanced Pulse Strength
+36,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+37,2,Reduced Pulse Strength with Prolonged Pulse Width
+38,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+39,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+40,2,Reduced Pulse Strength with Prolonged Pulse Width
+41,0,Reduced HRV with Elevated Peripheral Perfusion
+42,3,Reduced Complexity with Enhanced Pulse Strength
+43,2,Reduced Pulse Strength with Prolonged Pulse Width
+44,3,Reduced Complexity with Enhanced Pulse Strength
+45,0,Reduced HRV with Elevated Peripheral Perfusion
+46,0,Reduced HRV with Elevated Peripheral Perfusion
+47,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+48,3,Reduced Complexity with Enhanced Pulse Strength
+49,3,Reduced Complexity with Enhanced Pulse Strength
+50,3,Reduced Complexity with Enhanced Pulse Strength
+51,3,Reduced Complexity with Enhanced Pulse Strength
+52,3,Reduced Complexity with Enhanced Pulse Strength
+53,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+54,2,Reduced Pulse Strength with Prolonged Pulse Width
+55,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+56,3,Reduced Complexity with Enhanced Pulse Strength
+57,3,Reduced Complexity with Enhanced Pulse Strength
+58,0,Reduced HRV with Elevated Peripheral Perfusion
+59,2,Reduced Pulse Strength with Prolonged Pulse Width
+60,0,Reduced HRV with Elevated Peripheral Perfusion
+61,3,Reduced Complexity with Enhanced Pulse Strength
+62,3,Reduced Complexity with Enhanced Pulse Strength
+63,3,Reduced Complexity with Enhanced Pulse Strength
+64,3,Reduced Complexity with Enhanced Pulse Strength
+65,3,Reduced Complexity with Enhanced Pulse Strength
+66,3,Reduced Complexity with Enhanced Pulse Strength
+67,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+68,3,Reduced Complexity with Enhanced Pulse Strength
+69,0,Reduced HRV with Elevated Peripheral Perfusion
+70,3,Reduced Complexity with Enhanced Pulse Strength
+71,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+72,2,Reduced Pulse Strength with Prolonged Pulse Width
+73,0,Reduced HRV with Elevated Peripheral Perfusion
+74,2,Reduced Pulse Strength with Prolonged Pulse Width
+75,2,Reduced Pulse Strength with Prolonged Pulse Width
+76,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+77,3,Reduced Complexity with Enhanced Pulse Strength
+78,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+79,2,Reduced Pulse Strength with Prolonged Pulse Width
+80,2,Reduced Pulse Strength with Prolonged Pulse Width
+81,3,Reduced Complexity with Enhanced Pulse Strength
+82,3,Reduced Complexity with Enhanced Pulse Strength
+83,2,Reduced Pulse Strength with Prolonged Pulse Width
+84,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+85,0,Reduced HRV with Elevated Peripheral Perfusion
+86,3,Reduced Complexity with Enhanced Pulse Strength
+87,3,Reduced Complexity with Enhanced Pulse Strength
+88,0,Reduced HRV with Elevated Peripheral Perfusion
+89,2,Reduced Pulse Strength with Prolonged Pulse Width
+90,3,Reduced Complexity with Enhanced Pulse Strength
+91,3,Reduced Complexity with Enhanced Pulse Strength
+92,3,Reduced Complexity with Enhanced Pulse Strength
+93,2,Reduced Pulse Strength with Prolonged Pulse Width
+94,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+95,2,Reduced Pulse Strength with Prolonged Pulse Width
+96,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+97,0,Reduced HRV with Elevated Peripheral Perfusion
+98,0,Reduced HRV with Elevated Peripheral Perfusion
+99,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+100,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+101,3,Reduced Complexity with Enhanced Pulse Strength
+102,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+103,0,Reduced HRV with Elevated Peripheral Perfusion
+104,3,Reduced Complexity with Enhanced Pulse Strength
+105,0,Reduced HRV with Elevated Peripheral Perfusion
+106,2,Reduced Pulse Strength with Prolonged Pulse Width
+107,3,Reduced Complexity with Enhanced Pulse Strength
+108,0,Reduced HRV with Elevated Peripheral Perfusion
+109,3,Reduced Complexity with Enhanced Pulse Strength
+110,3,Reduced Complexity with Enhanced Pulse Strength
+111,3,Reduced Complexity with Enhanced Pulse Strength
+112,2,Reduced Pulse Strength with Prolonged Pulse Width
+113,0,Reduced HRV with Elevated Peripheral Perfusion
+114,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+115,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+116,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+117,2,Reduced Pulse Strength with Prolonged Pulse Width
+118,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+119,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+120,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+121,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+122,3,Reduced Complexity with Enhanced Pulse Strength
+123,0,Reduced HRV with Elevated Peripheral Perfusion
+124,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+125,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+126,3,Reduced Complexity with Enhanced Pulse Strength
+127,0,Reduced HRV with Elevated Peripheral Perfusion
+128,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+129,0,Reduced HRV with Elevated Peripheral Perfusion
+130,0,Reduced HRV with Elevated Peripheral Perfusion
+131,3,Reduced Complexity with Enhanced Pulse Strength
+132,3,Reduced Complexity with Enhanced Pulse Strength
+133,3,Reduced Complexity with Enhanced Pulse Strength
+134,3,Reduced Complexity with Enhanced Pulse Strength
+135,0,Reduced HRV with Elevated Peripheral Perfusion
+136,3,Reduced Complexity with Enhanced Pulse Strength
+137,3,Reduced Complexity with Enhanced Pulse Strength
+138,2,Reduced Pulse Strength with Prolonged Pulse Width
+139,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+140,0,Reduced HRV with Elevated Peripheral Perfusion
+141,3,Reduced Complexity with Enhanced Pulse Strength
+142,0,Reduced HRV with Elevated Peripheral Perfusion
+143,0,Reduced HRV with Elevated Peripheral Perfusion
+144,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+145,0,Reduced HRV with Elevated Peripheral Perfusion
+146,2,Reduced Pulse Strength with Prolonged Pulse Width
+147,3,Reduced Complexity with Enhanced Pulse Strength
+148,2,Reduced Pulse Strength with Prolonged Pulse Width
+149,3,Reduced Complexity with Enhanced Pulse Strength
+150,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+151,3,Reduced Complexity with Enhanced Pulse Strength
+152,0,Reduced HRV with Elevated Peripheral Perfusion
+153,3,Reduced Complexity with Enhanced Pulse Strength
+154,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+155,0,Reduced HRV with Elevated Peripheral Perfusion
+156,3,Reduced Complexity with Enhanced Pulse Strength
+157,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+158,0,Reduced HRV with Elevated Peripheral Perfusion
+159,0,Reduced HRV with Elevated Peripheral Perfusion
+160,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+161,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+162,2,Reduced Pulse Strength with Prolonged Pulse Width
+163,2,Reduced Pulse Strength with Prolonged Pulse Width
+164,2,Reduced Pulse Strength with Prolonged Pulse Width
+165,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+166,3,Reduced Complexity with Enhanced Pulse Strength
+167,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+168,3,Reduced Complexity with Enhanced Pulse Strength
+169,0,Reduced HRV with Elevated Peripheral Perfusion
+170,3,Reduced Complexity with Enhanced Pulse Strength
+171,2,Reduced Pulse Strength with Prolonged Pulse Width
+172,0,Reduced HRV with Elevated Peripheral Perfusion
+173,3,Reduced Complexity with Enhanced Pulse Strength
+174,0,Reduced HRV with Elevated Peripheral Perfusion
+175,0,Reduced HRV with Elevated Peripheral Perfusion
+176,3,Reduced Complexity with Enhanced Pulse Strength
+177,3,Reduced Complexity with Enhanced Pulse Strength
+178,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+179,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+180,2,Reduced Pulse Strength with Prolonged Pulse Width
+181,0,Reduced HRV with Elevated Peripheral Perfusion
+182,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+183,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+184,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+185,2,Reduced Pulse Strength with Prolonged Pulse Width
+186,2,Reduced Pulse Strength with Prolonged Pulse Width
+187,2,Reduced Pulse Strength with Prolonged Pulse Width
+188,3,Reduced Complexity with Enhanced Pulse Strength
+189,0,Reduced HRV with Elevated Peripheral Perfusion
+190,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+191,2,Reduced Pulse Strength with Prolonged Pulse Width
+192,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+193,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+194,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+195,0,Reduced HRV with Elevated Peripheral Perfusion
+196,0,Reduced HRV with Elevated Peripheral Perfusion
+197,0,Reduced HRV with Elevated Peripheral Perfusion
+198,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+199,3,Reduced Complexity with Enhanced Pulse Strength
+200,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+201,2,Reduced Pulse Strength with Prolonged Pulse Width
+202,0,Reduced HRV with Elevated Peripheral Perfusion
+203,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+204,3,Reduced Complexity with Enhanced Pulse Strength
+205,2,Reduced Pulse Strength with Prolonged Pulse Width
+206,0,Reduced HRV with Elevated Peripheral Perfusion
+207,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+208,3,Reduced Complexity with Enhanced Pulse Strength
+209,0,Reduced HRV with Elevated Peripheral Perfusion
+210,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+211,3,Reduced Complexity with Enhanced Pulse Strength
+212,3,Reduced Complexity with Enhanced Pulse Strength
+213,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+214,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+215,0,Reduced HRV with Elevated Peripheral Perfusion
+216,2,Reduced Pulse Strength with Prolonged Pulse Width
+217,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+218,0,Reduced HRV with Elevated Peripheral Perfusion
+219,0,Reduced HRV with Elevated Peripheral Perfusion
+220,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+221,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+222,0,Reduced HRV with Elevated Peripheral Perfusion
+223,0,Reduced HRV with Elevated Peripheral Perfusion
+224,3,Reduced Complexity with Enhanced Pulse Strength
+225,3,Reduced Complexity with Enhanced Pulse Strength
+226,3,Reduced Complexity with Enhanced Pulse Strength
+227,0,Reduced HRV with Elevated Peripheral Perfusion
+228,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+229,3,Reduced Complexity with Enhanced Pulse Strength
+230,0,Reduced HRV with Elevated Peripheral Perfusion
+231,2,Reduced Pulse Strength with Prolonged Pulse Width
+232,2,Reduced Pulse Strength with Prolonged Pulse Width
+233,0,Reduced HRV with Elevated Peripheral Perfusion
+234,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+235,2,Reduced Pulse Strength with Prolonged Pulse Width
+236,2,Reduced Pulse Strength with Prolonged Pulse Width
+237,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+238,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+239,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+240,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+241,0,Reduced HRV with Elevated Peripheral Perfusion
+242,3,Reduced Complexity with Enhanced Pulse Strength
+243,2,Reduced Pulse Strength with Prolonged Pulse Width
+244,0,Reduced HRV with Elevated Peripheral Perfusion
+245,3,Reduced Complexity with Enhanced Pulse Strength
+246,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+247,2,Reduced Pulse Strength with Prolonged Pulse Width
+248,3,Reduced Complexity with Enhanced Pulse Strength
+249,3,Reduced Complexity with Enhanced Pulse Strength
+250,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+251,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+252,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+253,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+254,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+255,3,Reduced Complexity with Enhanced Pulse Strength
+256,0,Reduced HRV with Elevated Peripheral Perfusion
+257,0,Reduced HRV with Elevated Peripheral Perfusion
+258,2,Reduced Pulse Strength with Prolonged Pulse Width
+259,2,Reduced Pulse Strength with Prolonged Pulse Width
+260,2,Reduced Pulse Strength with Prolonged Pulse Width
+261,3,Reduced Complexity with Enhanced Pulse Strength
+262,3,Reduced Complexity with Enhanced Pulse Strength
+263,2,Reduced Pulse Strength with Prolonged Pulse Width
+264,3,Reduced Complexity with Enhanced Pulse Strength
+265,3,Reduced Complexity with Enhanced Pulse Strength
+266,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+267,2,Reduced Pulse Strength with Prolonged Pulse Width
+268,3,Reduced Complexity with Enhanced Pulse Strength
+269,3,Reduced Complexity with Enhanced Pulse Strength
+270,0,Reduced HRV with Elevated Peripheral Perfusion
+271,3,Reduced Complexity with Enhanced Pulse Strength
+272,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+273,2,Reduced Pulse Strength with Prolonged Pulse Width
+274,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+275,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+276,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+277,0,Reduced HRV with Elevated Peripheral Perfusion
+278,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+279,3,Reduced Complexity with Enhanced Pulse Strength
+280,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+281,0,Reduced HRV with Elevated Peripheral Perfusion
+282,2,Reduced Pulse Strength with Prolonged Pulse Width
+283,3,Reduced Complexity with Enhanced Pulse Strength
+284,3,Reduced Complexity with Enhanced Pulse Strength
+285,0,Reduced HRV with Elevated Peripheral Perfusion
+286,2,Reduced Pulse Strength with Prolonged Pulse Width
+287,3,Reduced Complexity with Enhanced Pulse Strength
+288,3,Reduced Complexity with Enhanced Pulse Strength
+289,2,Reduced Pulse Strength with Prolonged Pulse Width
+290,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+291,2,Reduced Pulse Strength with Prolonged Pulse Width
+292,0,Reduced HRV with Elevated Peripheral Perfusion
+293,0,Reduced HRV with Elevated Peripheral Perfusion
+294,2,Reduced Pulse Strength with Prolonged Pulse Width
+295,3,Reduced Complexity with Enhanced Pulse Strength
+296,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+297,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+298,0,Reduced HRV with Elevated Peripheral Perfusion
+299,3,Reduced Complexity with Enhanced Pulse Strength
+300,3,Reduced Complexity with Enhanced Pulse Strength
+301,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+302,3,Reduced Complexity with Enhanced Pulse Strength
+303,0,Reduced HRV with Elevated Peripheral Perfusion
+304,3,Reduced Complexity with Enhanced Pulse Strength
+305,2,Reduced Pulse Strength with Prolonged Pulse Width
+306,3,Reduced Complexity with Enhanced Pulse Strength
+307,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+308,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+309,3,Reduced Complexity with Enhanced Pulse Strength
+310,3,Reduced Complexity with Enhanced Pulse Strength
+311,3,Reduced Complexity with Enhanced Pulse Strength
+312,3,Reduced Complexity with Enhanced Pulse Strength
+313,0,Reduced HRV with Elevated Peripheral Perfusion
+314,3,Reduced Complexity with Enhanced Pulse Strength
+315,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+316,3,Reduced Complexity with Enhanced Pulse Strength
+317,2,Reduced Pulse Strength with Prolonged Pulse Width
+318,0,Reduced HRV with Elevated Peripheral Perfusion
+319,2,Reduced Pulse Strength with Prolonged Pulse Width
+320,0,Reduced HRV with Elevated Peripheral Perfusion
+321,0,Reduced HRV with Elevated Peripheral Perfusion
+322,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+323,2,Reduced Pulse Strength with Prolonged Pulse Width
+324,3,Reduced Complexity with Enhanced Pulse Strength
+325,2,Reduced Pulse Strength with Prolonged Pulse Width
+326,3,Reduced Complexity with Enhanced Pulse Strength
+327,0,Reduced HRV with Elevated Peripheral Perfusion
+328,3,Reduced Complexity with Enhanced Pulse Strength
+329,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+330,2,Reduced Pulse Strength with Prolonged Pulse Width
+331,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+332,3,Reduced Complexity with Enhanced Pulse Strength
+333,3,Reduced Complexity with Enhanced Pulse Strength
+334,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+335,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+336,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+337,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+338,2,Reduced Pulse Strength with Prolonged Pulse Width
+339,0,Reduced HRV with Elevated Peripheral Perfusion
+340,3,Reduced Complexity with Enhanced Pulse Strength
+341,3,Reduced Complexity with Enhanced Pulse Strength
+342,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+343,0,Reduced HRV with Elevated Peripheral Perfusion
+344,3,Reduced Complexity with Enhanced Pulse Strength
+345,3,Reduced Complexity with Enhanced Pulse Strength
+346,0,Reduced HRV with Elevated Peripheral Perfusion
+347,2,Reduced Pulse Strength with Prolonged Pulse Width
+348,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+349,0,Reduced HRV with Elevated Peripheral Perfusion
+350,2,Reduced Pulse Strength with Prolonged Pulse Width
+351,3,Reduced Complexity with Enhanced Pulse Strength
+352,3,Reduced Complexity with Enhanced Pulse Strength
+353,2,Reduced Pulse Strength with Prolonged Pulse Width
+354,0,Reduced HRV with Elevated Peripheral Perfusion
+355,0,Reduced HRV with Elevated Peripheral Perfusion
+356,3,Reduced Complexity with Enhanced Pulse Strength
+357,3,Reduced Complexity with Enhanced Pulse Strength
+358,0,Reduced HRV with Elevated Peripheral Perfusion
+359,0,Reduced HRV with Elevated Peripheral Perfusion
+360,0,Reduced HRV with Elevated Peripheral Perfusion
+361,0,Reduced HRV with Elevated Peripheral Perfusion
+362,3,Reduced Complexity with Enhanced Pulse Strength
+363,0,Reduced HRV with Elevated Peripheral Perfusion
+364,3,Reduced Complexity with Enhanced Pulse Strength
+365,0,Reduced HRV with Elevated Peripheral Perfusion
+366,0,Reduced HRV with Elevated Peripheral Perfusion
+367,2,Reduced Pulse Strength with Prolonged Pulse Width
+368,3,Reduced Complexity with Enhanced Pulse Strength
+369,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+370,0,Reduced HRV with Elevated Peripheral Perfusion
+371,0,Reduced HRV with Elevated Peripheral Perfusion
+372,3,Reduced Complexity with Enhanced Pulse Strength
+373,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+374,2,Reduced Pulse Strength with Prolonged Pulse Width
+375,3,Reduced Complexity with Enhanced Pulse Strength
+376,2,Reduced Pulse Strength with Prolonged Pulse Width
+377,2,Reduced Pulse Strength with Prolonged Pulse Width
+378,2,Reduced Pulse Strength with Prolonged Pulse Width
+379,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+380,2,Reduced Pulse Strength with Prolonged Pulse Width
+381,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+382,2,Reduced Pulse Strength with Prolonged Pulse Width
+383,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+384,2,Reduced Pulse Strength with Prolonged Pulse Width
+385,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+386,3,Reduced Complexity with Enhanced Pulse Strength
+387,3,Reduced Complexity with Enhanced Pulse Strength
+388,3,Reduced Complexity with Enhanced Pulse Strength
+389,0,Reduced HRV with Elevated Peripheral Perfusion
+390,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+391,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+392,3,Reduced Complexity with Enhanced Pulse Strength
+393,0,Reduced HRV with Elevated Peripheral Perfusion
+394,2,Reduced Pulse Strength with Prolonged Pulse Width
+395,3,Reduced Complexity with Enhanced Pulse Strength
+396,0,Reduced HRV with Elevated Peripheral Perfusion
+397,0,Reduced HRV with Elevated Peripheral Perfusion
+398,0,Reduced HRV with Elevated Peripheral Perfusion
+399,3,Reduced Complexity with Enhanced Pulse Strength
+400,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+401,3,Reduced Complexity with Enhanced Pulse Strength
+402,3,Reduced Complexity with Enhanced Pulse Strength
+403,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+404,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+405,0,Reduced HRV with Elevated Peripheral Perfusion
+406,3,Reduced Complexity with Enhanced Pulse Strength
+407,3,Reduced Complexity with Enhanced Pulse Strength
+408,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+409,0,Reduced HRV with Elevated Peripheral Perfusion
+410,2,Reduced Pulse Strength with Prolonged Pulse Width
+411,3,Reduced Complexity with Enhanced Pulse Strength
+412,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+413,3,Reduced Complexity with Enhanced Pulse Strength
+414,0,Reduced HRV with Elevated Peripheral Perfusion
+415,0,Reduced HRV with Elevated Peripheral Perfusion
+416,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+417,0,Reduced HRV with Elevated Peripheral Perfusion
+418,3,Reduced Complexity with Enhanced Pulse Strength
+419,2,Reduced Pulse Strength with Prolonged Pulse Width
+420,2,Reduced Pulse Strength with Prolonged Pulse Width
+421,3,Reduced Complexity with Enhanced Pulse Strength
+422,3,Reduced Complexity with Enhanced Pulse Strength
+423,2,Reduced Pulse Strength with Prolonged Pulse Width
+424,0,Reduced HRV with Elevated Peripheral Perfusion
+425,3,Reduced Complexity with Enhanced Pulse Strength
+426,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+427,0,Reduced HRV with Elevated Peripheral Perfusion
+428,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+429,2,Reduced Pulse Strength with Prolonged Pulse Width
+430,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+431,3,Reduced Complexity with Enhanced Pulse Strength
+432,3,Reduced Complexity with Enhanced Pulse Strength
+433,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+434,2,Reduced Pulse Strength with Prolonged Pulse Width
+435,3,Reduced Complexity with Enhanced Pulse Strength
+436,2,Reduced Pulse Strength with Prolonged Pulse Width
+437,3,Reduced Complexity with Enhanced Pulse Strength
+438,3,Reduced Complexity with Enhanced Pulse Strength
+439,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+440,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+441,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+442,0,Reduced HRV with Elevated Peripheral Perfusion
+443,2,Reduced Pulse Strength with Prolonged Pulse Width
+444,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+445,0,Reduced HRV with Elevated Peripheral Perfusion
+446,0,Reduced HRV with Elevated Peripheral Perfusion
+447,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+448,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+449,0,Reduced HRV with Elevated Peripheral Perfusion
+450,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+451,2,Reduced Pulse Strength with Prolonged Pulse Width
+452,3,Reduced Complexity with Enhanced Pulse Strength
+453,2,Reduced Pulse Strength with Prolonged Pulse Width
+454,0,Reduced HRV with Elevated Peripheral Perfusion
+455,3,Reduced Complexity with Enhanced Pulse Strength
+456,0,Reduced HRV with Elevated Peripheral Perfusion
+457,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+458,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+459,3,Reduced Complexity with Enhanced Pulse Strength
+460,3,Reduced Complexity with Enhanced Pulse Strength
+461,3,Reduced Complexity with Enhanced Pulse Strength
+462,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+463,0,Reduced HRV with Elevated Peripheral Perfusion
+464,0,Reduced HRV with Elevated Peripheral Perfusion
+465,3,Reduced Complexity with Enhanced Pulse Strength
+466,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+467,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+468,0,Reduced HRV with Elevated Peripheral Perfusion
+469,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+470,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+471,3,Reduced Complexity with Enhanced Pulse Strength
+472,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+473,0,Reduced HRV with Elevated Peripheral Perfusion
+474,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+475,2,Reduced Pulse Strength with Prolonged Pulse Width
+476,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+477,0,Reduced HRV with Elevated Peripheral Perfusion
+478,0,Reduced HRV with Elevated Peripheral Perfusion
+479,0,Reduced HRV with Elevated Peripheral Perfusion
+480,3,Reduced Complexity with Enhanced Pulse Strength
+481,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+482,2,Reduced Pulse Strength with Prolonged Pulse Width
+483,3,Reduced Complexity with Enhanced Pulse Strength
+484,3,Reduced Complexity with Enhanced Pulse Strength
+485,0,Reduced HRV with Elevated Peripheral Perfusion
+486,2,Reduced Pulse Strength with Prolonged Pulse Width
+487,0,Reduced HRV with Elevated Peripheral Perfusion
+488,3,Reduced Complexity with Enhanced Pulse Strength
+489,3,Reduced Complexity with Enhanced Pulse Strength
+490,3,Reduced Complexity with Enhanced Pulse Strength
+491,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+492,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+493,3,Reduced Complexity with Enhanced Pulse Strength
+494,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+495,2,Reduced Pulse Strength with Prolonged Pulse Width
+496,3,Reduced Complexity with Enhanced Pulse Strength
+497,2,Reduced Pulse Strength with Prolonged Pulse Width
+498,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+499,0,Reduced HRV with Elevated Peripheral Perfusion
+500,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+501,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+502,2,Reduced Pulse Strength with Prolonged Pulse Width
+503,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+504,3,Reduced Complexity with Enhanced Pulse Strength
+505,3,Reduced Complexity with Enhanced Pulse Strength
+506,0,Reduced HRV with Elevated Peripheral Perfusion
+507,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+508,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+509,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+510,0,Reduced HRV with Elevated Peripheral Perfusion
+511,3,Reduced Complexity with Enhanced Pulse Strength
+512,3,Reduced Complexity with Enhanced Pulse Strength
+513,2,Reduced Pulse Strength with Prolonged Pulse Width
+514,0,Reduced HRV with Elevated Peripheral Perfusion
+515,3,Reduced Complexity with Enhanced Pulse Strength
+516,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+517,3,Reduced Complexity with Enhanced Pulse Strength
+518,2,Reduced Pulse Strength with Prolonged Pulse Width
+519,3,Reduced Complexity with Enhanced Pulse Strength
+520,3,Reduced Complexity with Enhanced Pulse Strength
+521,0,Reduced HRV with Elevated Peripheral Perfusion
+522,2,Reduced Pulse Strength with Prolonged Pulse Width
+523,3,Reduced Complexity with Enhanced Pulse Strength
+524,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+525,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+526,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+527,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+528,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+529,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+530,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+531,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+532,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+533,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+534,3,Reduced Complexity with Enhanced Pulse Strength
+535,3,Reduced Complexity with Enhanced Pulse Strength
+536,0,Reduced HRV with Elevated Peripheral Perfusion
+537,2,Reduced Pulse Strength with Prolonged Pulse Width
+538,2,Reduced Pulse Strength with Prolonged Pulse Width
+539,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+540,0,Reduced HRV with Elevated Peripheral Perfusion
+541,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+542,3,Reduced Complexity with Enhanced Pulse Strength
+543,3,Reduced Complexity with Enhanced Pulse Strength
+544,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+545,2,Reduced Pulse Strength with Prolonged Pulse Width
+546,0,Reduced HRV with Elevated Peripheral Perfusion
+547,3,Reduced Complexity with Enhanced Pulse Strength
+548,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+549,3,Reduced Complexity with Enhanced Pulse Strength
+550,3,Reduced Complexity with Enhanced Pulse Strength
+551,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+552,3,Reduced Complexity with Enhanced Pulse Strength
+553,3,Reduced Complexity with Enhanced Pulse Strength
+554,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+555,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+556,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+557,3,Reduced Complexity with Enhanced Pulse Strength
+558,0,Reduced HRV with Elevated Peripheral Perfusion
+559,3,Reduced Complexity with Enhanced Pulse Strength
+560,0,Reduced HRV with Elevated Peripheral Perfusion
+561,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+562,0,Reduced HRV with Elevated Peripheral Perfusion
+563,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+564,3,Reduced Complexity with Enhanced Pulse Strength
+565,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+566,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+567,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+568,3,Reduced Complexity with Enhanced Pulse Strength
+569,3,Reduced Complexity with Enhanced Pulse Strength
+570,0,Reduced HRV with Elevated Peripheral Perfusion
+571,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+572,0,Reduced HRV with Elevated Peripheral Perfusion
+573,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+574,0,Reduced HRV with Elevated Peripheral Perfusion
+575,3,Reduced Complexity with Enhanced Pulse Strength
+576,0,Reduced HRV with Elevated Peripheral Perfusion
+577,3,Reduced Complexity with Enhanced Pulse Strength
+578,3,Reduced Complexity with Enhanced Pulse Strength
+579,3,Reduced Complexity with Enhanced Pulse Strength
+580,2,Reduced Pulse Strength with Prolonged Pulse Width
+581,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+582,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+583,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+584,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+585,2,Reduced Pulse Strength with Prolonged Pulse Width
+586,3,Reduced Complexity with Enhanced Pulse Strength
+587,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+588,3,Reduced Complexity with Enhanced Pulse Strength
+589,3,Reduced Complexity with Enhanced Pulse Strength
+590,0,Reduced HRV with Elevated Peripheral Perfusion
+591,0,Reduced HRV with Elevated Peripheral Perfusion
+592,3,Reduced Complexity with Enhanced Pulse Strength
+593,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+594,0,Reduced HRV with Elevated Peripheral Perfusion
+595,0,Reduced HRV with Elevated Peripheral Perfusion
+596,0,Reduced HRV with Elevated Peripheral Perfusion
+597,2,Reduced Pulse Strength with Prolonged Pulse Width
+598,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+599,0,Reduced HRV with Elevated Peripheral Perfusion
+600,3,Reduced Complexity with Enhanced Pulse Strength
+601,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+602,0,Reduced HRV with Elevated Peripheral Perfusion
+603,3,Reduced Complexity with Enhanced Pulse Strength
+604,3,Reduced Complexity with Enhanced Pulse Strength
+605,0,Reduced HRV with Elevated Peripheral Perfusion
+606,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+607,2,Reduced Pulse Strength with Prolonged Pulse Width
+608,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+609,2,Reduced Pulse Strength with Prolonged Pulse Width
+610,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+611,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+612,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+613,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+614,0,Reduced HRV with Elevated Peripheral Perfusion
+615,3,Reduced Complexity with Enhanced Pulse Strength
+616,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+617,3,Reduced Complexity with Enhanced Pulse Strength
+618,0,Reduced HRV with Elevated Peripheral Perfusion
+619,0,Reduced HRV with Elevated Peripheral Perfusion
+620,3,Reduced Complexity with Enhanced Pulse Strength
+621,2,Reduced Pulse Strength with Prolonged Pulse Width
+622,3,Reduced Complexity with Enhanced Pulse Strength
+623,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+624,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+625,0,Reduced HRV with Elevated Peripheral Perfusion
+626,3,Reduced Complexity with Enhanced Pulse Strength
+627,0,Reduced HRV with Elevated Peripheral Perfusion
+628,3,Reduced Complexity with Enhanced Pulse Strength
+629,3,Reduced Complexity with Enhanced Pulse Strength
+630,3,Reduced Complexity with Enhanced Pulse Strength
+631,3,Reduced Complexity with Enhanced Pulse Strength
+632,0,Reduced HRV with Elevated Peripheral Perfusion
+633,0,Reduced HRV with Elevated Peripheral Perfusion
+634,3,Reduced Complexity with Enhanced Pulse Strength
+635,2,Reduced Pulse Strength with Prolonged Pulse Width
+636,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+637,3,Reduced Complexity with Enhanced Pulse Strength
+638,3,Reduced Complexity with Enhanced Pulse Strength
+639,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+640,3,Reduced Complexity with Enhanced Pulse Strength
+641,2,Reduced Pulse Strength with Prolonged Pulse Width
+642,3,Reduced Complexity with Enhanced Pulse Strength
+643,3,Reduced Complexity with Enhanced Pulse Strength
+644,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+645,3,Reduced Complexity with Enhanced Pulse Strength
+646,2,Reduced Pulse Strength with Prolonged Pulse Width
+647,0,Reduced HRV with Elevated Peripheral Perfusion
+648,2,Reduced Pulse Strength with Prolonged Pulse Width
+649,3,Reduced Complexity with Enhanced Pulse Strength
+650,3,Reduced Complexity with Enhanced Pulse Strength
+651,3,Reduced Complexity with Enhanced Pulse Strength
+652,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+653,0,Reduced HRV with Elevated Peripheral Perfusion
+654,3,Reduced Complexity with Enhanced Pulse Strength
+655,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+656,3,Reduced Complexity with Enhanced Pulse Strength
+657,3,Reduced Complexity with Enhanced Pulse Strength
+658,3,Reduced Complexity with Enhanced Pulse Strength
+659,0,Reduced HRV with Elevated Peripheral Perfusion
+660,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+661,3,Reduced Complexity with Enhanced Pulse Strength
+662,3,Reduced Complexity with Enhanced Pulse Strength
+663,3,Reduced Complexity with Enhanced Pulse Strength
+664,3,Reduced Complexity with Enhanced Pulse Strength
+665,3,Reduced Complexity with Enhanced Pulse Strength
+666,0,Reduced HRV with Elevated Peripheral Perfusion
+667,0,Reduced HRV with Elevated Peripheral Perfusion
+668,2,Reduced Pulse Strength with Prolonged Pulse Width
+669,2,Reduced Pulse Strength with Prolonged Pulse Width
+670,3,Reduced Complexity with Enhanced Pulse Strength
+671,0,Reduced HRV with Elevated Peripheral Perfusion
+672,3,Reduced Complexity with Enhanced Pulse Strength
+673,0,Reduced HRV with Elevated Peripheral Perfusion
+674,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+675,3,Reduced Complexity with Enhanced Pulse Strength
+676,2,Reduced Pulse Strength with Prolonged Pulse Width
+677,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+678,2,Reduced Pulse Strength with Prolonged Pulse Width
+679,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+680,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+681,3,Reduced Complexity with Enhanced Pulse Strength
+682,2,Reduced Pulse Strength with Prolonged Pulse Width
+683,2,Reduced Pulse Strength with Prolonged Pulse Width
+684,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+685,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+686,0,Reduced HRV with Elevated Peripheral Perfusion
+687,2,Reduced Pulse Strength with Prolonged Pulse Width
+688,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+689,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+690,0,Reduced HRV with Elevated Peripheral Perfusion
+691,3,Reduced Complexity with Enhanced Pulse Strength
+692,3,Reduced Complexity with Enhanced Pulse Strength
+693,3,Reduced Complexity with Enhanced Pulse Strength
+694,3,Reduced Complexity with Enhanced Pulse Strength
+695,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+696,3,Reduced Complexity with Enhanced Pulse Strength
+697,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+698,0,Reduced HRV with Elevated Peripheral Perfusion
+699,3,Reduced Complexity with Enhanced Pulse Strength
+700,3,Reduced Complexity with Enhanced Pulse Strength
+701,2,Reduced Pulse Strength with Prolonged Pulse Width
+702,0,Reduced HRV with Elevated Peripheral Perfusion
+703,0,Reduced HRV with Elevated Peripheral Perfusion
+704,3,Reduced Complexity with Enhanced Pulse Strength
+705,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+706,0,Reduced HRV with Elevated Peripheral Perfusion
+707,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+708,0,Reduced HRV with Elevated Peripheral Perfusion
+709,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+710,3,Reduced Complexity with Enhanced Pulse Strength
+711,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+712,0,Reduced HRV with Elevated Peripheral Perfusion
+713,3,Reduced Complexity with Enhanced Pulse Strength
+714,2,Reduced Pulse Strength with Prolonged Pulse Width
+715,3,Reduced Complexity with Enhanced Pulse Strength
+716,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+717,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+718,2,Reduced Pulse Strength with Prolonged Pulse Width
+719,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+720,2,Reduced Pulse Strength with Prolonged Pulse Width
+721,3,Reduced Complexity with Enhanced Pulse Strength
+722,3,Reduced Complexity with Enhanced Pulse Strength
+723,3,Reduced Complexity with Enhanced Pulse Strength
+724,0,Reduced HRV with Elevated Peripheral Perfusion
+725,0,Reduced HRV with Elevated Peripheral Perfusion
+726,3,Reduced Complexity with Enhanced Pulse Strength
+727,3,Reduced Complexity with Enhanced Pulse Strength
+728,3,Reduced Complexity with Enhanced Pulse Strength
+729,3,Reduced Complexity with Enhanced Pulse Strength
+730,3,Reduced Complexity with Enhanced Pulse Strength
+731,3,Reduced Complexity with Enhanced Pulse Strength
+732,0,Reduced HRV with Elevated Peripheral Perfusion
+733,2,Reduced Pulse Strength with Prolonged Pulse Width
+734,0,Reduced HRV with Elevated Peripheral Perfusion
+735,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+736,2,Reduced Pulse Strength with Prolonged Pulse Width
+737,2,Reduced Pulse Strength with Prolonged Pulse Width
+738,2,Reduced Pulse Strength with Prolonged Pulse Width
+739,2,Reduced Pulse Strength with Prolonged Pulse Width
+740,3,Reduced Complexity with Enhanced Pulse Strength
+741,3,Reduced Complexity with Enhanced Pulse Strength
+742,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+743,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+744,3,Reduced Complexity with Enhanced Pulse Strength
+745,3,Reduced Complexity with Enhanced Pulse Strength
+746,2,Reduced Pulse Strength with Prolonged Pulse Width
+747,3,Reduced Complexity with Enhanced Pulse Strength
+748,2,Reduced Pulse Strength with Prolonged Pulse Width
+749,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+750,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+751,3,Reduced Complexity with Enhanced Pulse Strength
+752,3,Reduced Complexity with Enhanced Pulse Strength
+753,3,Reduced Complexity with Enhanced Pulse Strength
+754,3,Reduced Complexity with Enhanced Pulse Strength
+755,0,Reduced HRV with Elevated Peripheral Perfusion
+756,0,Reduced HRV with Elevated Peripheral Perfusion
+757,3,Reduced Complexity with Enhanced Pulse Strength
+758,0,Reduced HRV with Elevated Peripheral Perfusion
+759,3,Reduced Complexity with Enhanced Pulse Strength
+760,2,Reduced Pulse Strength with Prolonged Pulse Width
+761,0,Reduced HRV with Elevated Peripheral Perfusion
+762,3,Reduced Complexity with Enhanced Pulse Strength
+763,0,Reduced HRV with Elevated Peripheral Perfusion
+764,3,Reduced Complexity with Enhanced Pulse Strength
+765,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+766,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+767,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+768,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+769,3,Reduced Complexity with Enhanced Pulse Strength
+770,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+771,2,Reduced Pulse Strength with Prolonged Pulse Width
+772,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+773,0,Reduced HRV with Elevated Peripheral Perfusion
+774,2,Reduced Pulse Strength with Prolonged Pulse Width
+775,3,Reduced Complexity with Enhanced Pulse Strength
+776,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+777,0,Reduced HRV with Elevated Peripheral Perfusion
+778,2,Reduced Pulse Strength with Prolonged Pulse Width
+779,3,Reduced Complexity with Enhanced Pulse Strength
+780,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+781,2,Reduced Pulse Strength with Prolonged Pulse Width
+782,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+783,3,Reduced Complexity with Enhanced Pulse Strength
+784,3,Reduced Complexity with Enhanced Pulse Strength
+785,0,Reduced HRV with Elevated Peripheral Perfusion
+786,2,Reduced Pulse Strength with Prolonged Pulse Width
+787,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+788,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+789,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+790,3,Reduced Complexity with Enhanced Pulse Strength
+791,3,Reduced Complexity with Enhanced Pulse Strength
+792,0,Reduced HRV with Elevated Peripheral Perfusion
+793,3,Reduced Complexity with Enhanced Pulse Strength
+794,0,Reduced HRV with Elevated Peripheral Perfusion
+795,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+796,3,Reduced Complexity with Enhanced Pulse Strength
+797,3,Reduced Complexity with Enhanced Pulse Strength
+798,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+799,2,Reduced Pulse Strength with Prolonged Pulse Width
+800,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+801,0,Reduced HRV with Elevated Peripheral Perfusion
+802,2,Reduced Pulse Strength with Prolonged Pulse Width
+803,0,Reduced HRV with Elevated Peripheral Perfusion
+804,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+805,0,Reduced HRV with Elevated Peripheral Perfusion
+806,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+807,3,Reduced Complexity with Enhanced Pulse Strength
+808,0,Reduced HRV with Elevated Peripheral Perfusion
+809,0,Reduced HRV with Elevated Peripheral Perfusion
+810,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+811,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+812,0,Reduced HRV with Elevated Peripheral Perfusion
+813,0,Reduced HRV with Elevated Peripheral Perfusion
+814,0,Reduced HRV with Elevated Peripheral Perfusion
+815,0,Reduced HRV with Elevated Peripheral Perfusion
+816,3,Reduced Complexity with Enhanced Pulse Strength
+817,0,Reduced HRV with Elevated Peripheral Perfusion
+818,3,Reduced Complexity with Enhanced Pulse Strength
+819,2,Reduced Pulse Strength with Prolonged Pulse Width
+820,0,Reduced HRV with Elevated Peripheral Perfusion
+821,2,Reduced Pulse Strength with Prolonged Pulse Width
+822,0,Reduced HRV with Elevated Peripheral Perfusion
+823,3,Reduced Complexity with Enhanced Pulse Strength
+824,0,Reduced HRV with Elevated Peripheral Perfusion
+825,2,Reduced Pulse Strength with Prolonged Pulse Width
+826,0,Reduced HRV with Elevated Peripheral Perfusion
+827,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+828,3,Reduced Complexity with Enhanced Pulse Strength
+829,2,Reduced Pulse Strength with Prolonged Pulse Width
+830,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+831,3,Reduced Complexity with Enhanced Pulse Strength
+832,2,Reduced Pulse Strength with Prolonged Pulse Width
+833,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+834,3,Reduced Complexity with Enhanced Pulse Strength
+835,3,Reduced Complexity with Enhanced Pulse Strength
+836,3,Reduced Complexity with Enhanced Pulse Strength
+837,3,Reduced Complexity with Enhanced Pulse Strength
+838,3,Reduced Complexity with Enhanced Pulse Strength
+839,0,Reduced HRV with Elevated Peripheral Perfusion
+840,3,Reduced Complexity with Enhanced Pulse Strength
+841,2,Reduced Pulse Strength with Prolonged Pulse Width
+842,3,Reduced Complexity with Enhanced Pulse Strength
+843,3,Reduced Complexity with Enhanced Pulse Strength
+844,3,Reduced Complexity with Enhanced Pulse Strength
+845,3,Reduced Complexity with Enhanced Pulse Strength
+846,2,Reduced Pulse Strength with Prolonged Pulse Width
+847,3,Reduced Complexity with Enhanced Pulse Strength
+848,0,Reduced HRV with Elevated Peripheral Perfusion
+849,2,Reduced Pulse Strength with Prolonged Pulse Width
+850,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+851,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+852,0,Reduced HRV with Elevated Peripheral Perfusion
+853,0,Reduced HRV with Elevated Peripheral Perfusion
+854,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+855,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+856,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+857,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+858,2,Reduced Pulse Strength with Prolonged Pulse Width
+859,3,Reduced Complexity with Enhanced Pulse Strength
+860,2,Reduced Pulse Strength with Prolonged Pulse Width
+861,3,Reduced Complexity with Enhanced Pulse Strength
+862,3,Reduced Complexity with Enhanced Pulse Strength
+863,0,Reduced HRV with Elevated Peripheral Perfusion
+864,0,Reduced HRV with Elevated Peripheral Perfusion
+865,0,Reduced HRV with Elevated Peripheral Perfusion
+866,2,Reduced Pulse Strength with Prolonged Pulse Width
+867,3,Reduced Complexity with Enhanced Pulse Strength
+868,3,Reduced Complexity with Enhanced Pulse Strength
+869,0,Reduced HRV with Elevated Peripheral Perfusion
+870,2,Reduced Pulse Strength with Prolonged Pulse Width
+871,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+872,3,Reduced Complexity with Enhanced Pulse Strength
+873,3,Reduced Complexity with Enhanced Pulse Strength
+874,3,Reduced Complexity with Enhanced Pulse Strength
+875,3,Reduced Complexity with Enhanced Pulse Strength
+876,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+877,0,Reduced HRV with Elevated Peripheral Perfusion
+878,3,Reduced Complexity with Enhanced Pulse Strength
+879,3,Reduced Complexity with Enhanced Pulse Strength
+880,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+881,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+882,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+883,3,Reduced Complexity with Enhanced Pulse Strength
+884,3,Reduced Complexity with Enhanced Pulse Strength
+885,3,Reduced Complexity with Enhanced Pulse Strength
+886,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+887,2,Reduced Pulse Strength with Prolonged Pulse Width
+888,3,Reduced Complexity with Enhanced Pulse Strength
+889,3,Reduced Complexity with Enhanced Pulse Strength
+890,3,Reduced Complexity with Enhanced Pulse Strength
+891,0,Reduced HRV with Elevated Peripheral Perfusion
+892,3,Reduced Complexity with Enhanced Pulse Strength
+893,0,Reduced HRV with Elevated Peripheral Perfusion
+894,2,Reduced Pulse Strength with Prolonged Pulse Width
+895,3,Reduced Complexity with Enhanced Pulse Strength
+896,3,Reduced Complexity with Enhanced Pulse Strength
+897,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+898,3,Reduced Complexity with Enhanced Pulse Strength
+899,3,Reduced Complexity with Enhanced Pulse Strength
+900,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+901,2,Reduced Pulse Strength with Prolonged Pulse Width
+902,3,Reduced Complexity with Enhanced Pulse Strength
+903,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+904,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+905,3,Reduced Complexity with Enhanced Pulse Strength
+906,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+907,3,Reduced Complexity with Enhanced Pulse Strength
+908,0,Reduced HRV with Elevated Peripheral Perfusion
+909,3,Reduced Complexity with Enhanced Pulse Strength
+910,3,Reduced Complexity with Enhanced Pulse Strength
+911,0,Reduced HRV with Elevated Peripheral Perfusion
+912,2,Reduced Pulse Strength with Prolonged Pulse Width
+913,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+914,3,Reduced Complexity with Enhanced Pulse Strength
+915,3,Reduced Complexity with Enhanced Pulse Strength
+916,2,Reduced Pulse Strength with Prolonged Pulse Width
+917,0,Reduced HRV with Elevated Peripheral Perfusion
+918,2,Reduced Pulse Strength with Prolonged Pulse Width
+919,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+920,3,Reduced Complexity with Enhanced Pulse Strength
+921,2,Reduced Pulse Strength with Prolonged Pulse Width
+922,3,Reduced Complexity with Enhanced Pulse Strength
+923,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+924,0,Reduced HRV with Elevated Peripheral Perfusion
+925,0,Reduced HRV with Elevated Peripheral Perfusion
+926,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+927,3,Reduced Complexity with Enhanced Pulse Strength
+928,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+929,3,Reduced Complexity with Enhanced Pulse Strength
+930,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+931,3,Reduced Complexity with Enhanced Pulse Strength
+932,3,Reduced Complexity with Enhanced Pulse Strength
+933,2,Reduced Pulse Strength with Prolonged Pulse Width
+934,3,Reduced Complexity with Enhanced Pulse Strength
+935,2,Reduced Pulse Strength with Prolonged Pulse Width
+936,0,Reduced HRV with Elevated Peripheral Perfusion
+937,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+938,0,Reduced HRV with Elevated Peripheral Perfusion
+939,3,Reduced Complexity with Enhanced Pulse Strength
+940,0,Reduced HRV with Elevated Peripheral Perfusion
+941,3,Reduced Complexity with Enhanced Pulse Strength
+942,0,Reduced HRV with Elevated Peripheral Perfusion
+943,3,Reduced Complexity with Enhanced Pulse Strength
+944,0,Reduced HRV with Elevated Peripheral Perfusion
+945,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+946,0,Reduced HRV with Elevated Peripheral Perfusion
+947,2,Reduced Pulse Strength with Prolonged Pulse Width
+948,3,Reduced Complexity with Enhanced Pulse Strength
+949,3,Reduced Complexity with Enhanced Pulse Strength
+950,0,Reduced HRV with Elevated Peripheral Perfusion
+951,2,Reduced Pulse Strength with Prolonged Pulse Width
+952,3,Reduced Complexity with Enhanced Pulse Strength
+953,3,Reduced Complexity with Enhanced Pulse Strength
+954,3,Reduced Complexity with Enhanced Pulse Strength
+955,0,Reduced HRV with Elevated Peripheral Perfusion
+956,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+957,0,Reduced HRV with Elevated Peripheral Perfusion
+958,2,Reduced Pulse Strength with Prolonged Pulse Width
+959,2,Reduced Pulse Strength with Prolonged Pulse Width
+960,2,Reduced Pulse Strength with Prolonged Pulse Width
+961,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+962,3,Reduced Complexity with Enhanced Pulse Strength
+963,3,Reduced Complexity with Enhanced Pulse Strength
+964,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+965,2,Reduced Pulse Strength with Prolonged Pulse Width
+966,0,Reduced HRV with Elevated Peripheral Perfusion
+967,3,Reduced Complexity with Enhanced Pulse Strength
+968,0,Reduced HRV with Elevated Peripheral Perfusion
+969,0,Reduced HRV with Elevated Peripheral Perfusion
+970,3,Reduced Complexity with Enhanced Pulse Strength
+971,3,Reduced Complexity with Enhanced Pulse Strength
+972,2,Reduced Pulse Strength with Prolonged Pulse Width
+973,2,Reduced Pulse Strength with Prolonged Pulse Width
+974,2,Reduced Pulse Strength with Prolonged Pulse Width
+975,3,Reduced Complexity with Enhanced Pulse Strength
+976,3,Reduced Complexity with Enhanced Pulse Strength
+977,0,Reduced HRV with Elevated Peripheral Perfusion
+978,2,Reduced Pulse Strength with Prolonged Pulse Width
+979,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+980,3,Reduced Complexity with Enhanced Pulse Strength
+981,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+982,0,Reduced HRV with Elevated Peripheral Perfusion
+983,0,Reduced HRV with Elevated Peripheral Perfusion
+984,3,Reduced Complexity with Enhanced Pulse Strength
+985,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+986,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+987,0,Reduced HRV with Elevated Peripheral Perfusion
+988,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+989,2,Reduced Pulse Strength with Prolonged Pulse Width
+990,3,Reduced Complexity with Enhanced Pulse Strength
+991,3,Reduced Complexity with Enhanced Pulse Strength
+992,2,Reduced Pulse Strength with Prolonged Pulse Width
+993,3,Reduced Complexity with Enhanced Pulse Strength
+994,3,Reduced Complexity with Enhanced Pulse Strength
+995,0,Reduced HRV with Elevated Peripheral Perfusion
+996,3,Reduced Complexity with Enhanced Pulse Strength
+997,3,Reduced Complexity with Enhanced Pulse Strength
+998,3,Reduced Complexity with Enhanced Pulse Strength
+999,0,Reduced HRV with Elevated Peripheral Perfusion
+1000,0,Reduced HRV with Elevated Peripheral Perfusion
+1001,3,Reduced Complexity with Enhanced Pulse Strength
+1002,3,Reduced Complexity with Enhanced Pulse Strength
+1003,0,Reduced HRV with Elevated Peripheral Perfusion
+1004,2,Reduced Pulse Strength with Prolonged Pulse Width
+1005,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1006,3,Reduced Complexity with Enhanced Pulse Strength
+1007,3,Reduced Complexity with Enhanced Pulse Strength
+1008,3,Reduced Complexity with Enhanced Pulse Strength
+1009,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1010,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1011,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1012,3,Reduced Complexity with Enhanced Pulse Strength
+1013,3,Reduced Complexity with Enhanced Pulse Strength
+1014,3,Reduced Complexity with Enhanced Pulse Strength
+1015,3,Reduced Complexity with Enhanced Pulse Strength
+1016,3,Reduced Complexity with Enhanced Pulse Strength
+1017,3,Reduced Complexity with Enhanced Pulse Strength
+1018,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1019,3,Reduced Complexity with Enhanced Pulse Strength
+1020,3,Reduced Complexity with Enhanced Pulse Strength
+1021,2,Reduced Pulse Strength with Prolonged Pulse Width
+1022,0,Reduced HRV with Elevated Peripheral Perfusion
+1023,3,Reduced Complexity with Enhanced Pulse Strength
+1024,2,Reduced Pulse Strength with Prolonged Pulse Width
+1025,0,Reduced HRV with Elevated Peripheral Perfusion
+1026,0,Reduced HRV with Elevated Peripheral Perfusion
+1027,0,Reduced HRV with Elevated Peripheral Perfusion
+1028,2,Reduced Pulse Strength with Prolonged Pulse Width
+1029,3,Reduced Complexity with Enhanced Pulse Strength
+1030,2,Reduced Pulse Strength with Prolonged Pulse Width
+1031,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1032,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1033,3,Reduced Complexity with Enhanced Pulse Strength
+1034,0,Reduced HRV with Elevated Peripheral Perfusion
+1035,0,Reduced HRV with Elevated Peripheral Perfusion
+1036,3,Reduced Complexity with Enhanced Pulse Strength
+1037,3,Reduced Complexity with Enhanced Pulse Strength
+1038,3,Reduced Complexity with Enhanced Pulse Strength
+1039,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1040,3,Reduced Complexity with Enhanced Pulse Strength
+1041,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1042,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1043,3,Reduced Complexity with Enhanced Pulse Strength
+1044,0,Reduced HRV with Elevated Peripheral Perfusion
+1045,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1046,3,Reduced Complexity with Enhanced Pulse Strength
+1047,3,Reduced Complexity with Enhanced Pulse Strength
+1048,3,Reduced Complexity with Enhanced Pulse Strength
+1049,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1050,0,Reduced HRV with Elevated Peripheral Perfusion
+1051,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1052,0,Reduced HRV with Elevated Peripheral Perfusion
+1053,3,Reduced Complexity with Enhanced Pulse Strength
+1054,3,Reduced Complexity with Enhanced Pulse Strength
+1055,0,Reduced HRV with Elevated Peripheral Perfusion
+1056,2,Reduced Pulse Strength with Prolonged Pulse Width
+1057,2,Reduced Pulse Strength with Prolonged Pulse Width
+1058,3,Reduced Complexity with Enhanced Pulse Strength
+1059,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1060,0,Reduced HRV with Elevated Peripheral Perfusion
+1061,0,Reduced HRV with Elevated Peripheral Perfusion
+1062,2,Reduced Pulse Strength with Prolonged Pulse Width
+1063,2,Reduced Pulse Strength with Prolonged Pulse Width
+1064,2,Reduced Pulse Strength with Prolonged Pulse Width
+1065,0,Reduced HRV with Elevated Peripheral Perfusion
+1066,2,Reduced Pulse Strength with Prolonged Pulse Width
+1067,3,Reduced Complexity with Enhanced Pulse Strength
+1068,0,Reduced HRV with Elevated Peripheral Perfusion
+1069,0,Reduced HRV with Elevated Peripheral Perfusion
+1070,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1071,3,Reduced Complexity with Enhanced Pulse Strength
+1072,2,Reduced Pulse Strength with Prolonged Pulse Width
+1073,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1074,0,Reduced HRV with Elevated Peripheral Perfusion
+1075,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1076,0,Reduced HRV with Elevated Peripheral Perfusion
+1077,3,Reduced Complexity with Enhanced Pulse Strength
+1078,3,Reduced Complexity with Enhanced Pulse Strength
+1079,3,Reduced Complexity with Enhanced Pulse Strength
+1080,0,Reduced HRV with Elevated Peripheral Perfusion
+1081,2,Reduced Pulse Strength with Prolonged Pulse Width
+1082,3,Reduced Complexity with Enhanced Pulse Strength
+1083,0,Reduced HRV with Elevated Peripheral Perfusion
+1084,2,Reduced Pulse Strength with Prolonged Pulse Width
+1085,2,Reduced Pulse Strength with Prolonged Pulse Width
+1086,3,Reduced Complexity with Enhanced Pulse Strength
+1087,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1088,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1089,2,Reduced Pulse Strength with Prolonged Pulse Width
+1090,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1091,3,Reduced Complexity with Enhanced Pulse Strength
+1092,3,Reduced Complexity with Enhanced Pulse Strength
+1093,2,Reduced Pulse Strength with Prolonged Pulse Width
+1094,0,Reduced HRV with Elevated Peripheral Perfusion
+1095,3,Reduced Complexity with Enhanced Pulse Strength
+1096,0,Reduced HRV with Elevated Peripheral Perfusion
+1097,0,Reduced HRV with Elevated Peripheral Perfusion
+1098,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1099,2,Reduced Pulse Strength with Prolonged Pulse Width
+1100,2,Reduced Pulse Strength with Prolonged Pulse Width
+1101,0,Reduced HRV with Elevated Peripheral Perfusion
+1102,3,Reduced Complexity with Enhanced Pulse Strength
+1103,3,Reduced Complexity with Enhanced Pulse Strength
+1104,2,Reduced Pulse Strength with Prolonged Pulse Width
+1105,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1106,2,Reduced Pulse Strength with Prolonged Pulse Width
+1107,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1108,0,Reduced HRV with Elevated Peripheral Perfusion
+1109,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1110,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1111,3,Reduced Complexity with Enhanced Pulse Strength
+1112,2,Reduced Pulse Strength with Prolonged Pulse Width
+1113,3,Reduced Complexity with Enhanced Pulse Strength
+1114,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1115,3,Reduced Complexity with Enhanced Pulse Strength
+1116,3,Reduced Complexity with Enhanced Pulse Strength
+1117,3,Reduced Complexity with Enhanced Pulse Strength
+1118,2,Reduced Pulse Strength with Prolonged Pulse Width
+1119,2,Reduced Pulse Strength with Prolonged Pulse Width
+1120,3,Reduced Complexity with Enhanced Pulse Strength
+1121,0,Reduced HRV with Elevated Peripheral Perfusion
+1122,2,Reduced Pulse Strength with Prolonged Pulse Width
+1123,0,Reduced HRV with Elevated Peripheral Perfusion
+1124,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1125,3,Reduced Complexity with Enhanced Pulse Strength
+1126,3,Reduced Complexity with Enhanced Pulse Strength
+1127,3,Reduced Complexity with Enhanced Pulse Strength
+1128,3,Reduced Complexity with Enhanced Pulse Strength
+1129,3,Reduced Complexity with Enhanced Pulse Strength
+1130,0,Reduced HRV with Elevated Peripheral Perfusion
+1131,3,Reduced Complexity with Enhanced Pulse Strength
+1132,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1133,3,Reduced Complexity with Enhanced Pulse Strength
+1134,3,Reduced Complexity with Enhanced Pulse Strength
+1135,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1136,0,Reduced HRV with Elevated Peripheral Perfusion
+1137,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1138,3,Reduced Complexity with Enhanced Pulse Strength
+1139,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1140,0,Reduced HRV with Elevated Peripheral Perfusion
+1141,3,Reduced Complexity with Enhanced Pulse Strength
+1142,3,Reduced Complexity with Enhanced Pulse Strength
+1143,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1144,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1145,3,Reduced Complexity with Enhanced Pulse Strength
+1146,2,Reduced Pulse Strength with Prolonged Pulse Width
+1147,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1148,3,Reduced Complexity with Enhanced Pulse Strength
+1149,3,Reduced Complexity with Enhanced Pulse Strength
+1150,3,Reduced Complexity with Enhanced Pulse Strength
+1151,3,Reduced Complexity with Enhanced Pulse Strength
+1152,2,Reduced Pulse Strength with Prolonged Pulse Width
+1153,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1154,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1155,2,Reduced Pulse Strength with Prolonged Pulse Width
+1156,0,Reduced HRV with Elevated Peripheral Perfusion
+1157,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1158,2,Reduced Pulse Strength with Prolonged Pulse Width
+1159,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1160,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1161,3,Reduced Complexity with Enhanced Pulse Strength
+1162,3,Reduced Complexity with Enhanced Pulse Strength
+1163,0,Reduced HRV with Elevated Peripheral Perfusion
+1164,2,Reduced Pulse Strength with Prolonged Pulse Width
+1165,3,Reduced Complexity with Enhanced Pulse Strength
+1166,2,Reduced Pulse Strength with Prolonged Pulse Width
+1167,0,Reduced HRV with Elevated Peripheral Perfusion
+1168,3,Reduced Complexity with Enhanced Pulse Strength
+1169,0,Reduced HRV with Elevated Peripheral Perfusion
+1170,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1171,3,Reduced Complexity with Enhanced Pulse Strength
+1172,0,Reduced HRV with Elevated Peripheral Perfusion
+1173,2,Reduced Pulse Strength with Prolonged Pulse Width
+1174,0,Reduced HRV with Elevated Peripheral Perfusion
+1175,0,Reduced HRV with Elevated Peripheral Perfusion
+1176,3,Reduced Complexity with Enhanced Pulse Strength
+1177,3,Reduced Complexity with Enhanced Pulse Strength
+1178,2,Reduced Pulse Strength with Prolonged Pulse Width
+1179,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1180,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1181,3,Reduced Complexity with Enhanced Pulse Strength
+1182,0,Reduced HRV with Elevated Peripheral Perfusion
+1183,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1184,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1185,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1186,0,Reduced HRV with Elevated Peripheral Perfusion
+1187,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1188,3,Reduced Complexity with Enhanced Pulse Strength
+1189,2,Reduced Pulse Strength with Prolonged Pulse Width
+1190,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1191,0,Reduced HRV with Elevated Peripheral Perfusion
+1192,3,Reduced Complexity with Enhanced Pulse Strength
+1193,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1194,0,Reduced HRV with Elevated Peripheral Perfusion
+1195,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1196,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1197,2,Reduced Pulse Strength with Prolonged Pulse Width
+1198,3,Reduced Complexity with Enhanced Pulse Strength
+1199,2,Reduced Pulse Strength with Prolonged Pulse Width
+1200,3,Reduced Complexity with Enhanced Pulse Strength
+1201,2,Reduced Pulse Strength with Prolonged Pulse Width
+1202,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1203,2,Reduced Pulse Strength with Prolonged Pulse Width
+1204,3,Reduced Complexity with Enhanced Pulse Strength
+1205,0,Reduced HRV with Elevated Peripheral Perfusion
+1206,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1207,0,Reduced HRV with Elevated Peripheral Perfusion
+1208,3,Reduced Complexity with Enhanced Pulse Strength
+1209,0,Reduced HRV with Elevated Peripheral Perfusion
+1210,2,Reduced Pulse Strength with Prolonged Pulse Width
+1211,0,Reduced HRV with Elevated Peripheral Perfusion
+1212,3,Reduced Complexity with Enhanced Pulse Strength
+1213,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1214,3,Reduced Complexity with Enhanced Pulse Strength
+1215,2,Reduced Pulse Strength with Prolonged Pulse Width
+1216,0,Reduced HRV with Elevated Peripheral Perfusion
+1217,3,Reduced Complexity with Enhanced Pulse Strength
+1218,0,Reduced HRV with Elevated Peripheral Perfusion
+1219,3,Reduced Complexity with Enhanced Pulse Strength
+1220,0,Reduced HRV with Elevated Peripheral Perfusion
+1221,0,Reduced HRV with Elevated Peripheral Perfusion
+1222,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1223,2,Reduced Pulse Strength with Prolonged Pulse Width
+1224,3,Reduced Complexity with Enhanced Pulse Strength
+1225,3,Reduced Complexity with Enhanced Pulse Strength
+1226,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1227,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1228,3,Reduced Complexity with Enhanced Pulse Strength
+1229,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1230,3,Reduced Complexity with Enhanced Pulse Strength
+1231,3,Reduced Complexity with Enhanced Pulse Strength
+1232,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1233,3,Reduced Complexity with Enhanced Pulse Strength
+1234,0,Reduced HRV with Elevated Peripheral Perfusion
+1235,3,Reduced Complexity with Enhanced Pulse Strength
+1236,3,Reduced Complexity with Enhanced Pulse Strength
+1237,2,Reduced Pulse Strength with Prolonged Pulse Width
+1238,3,Reduced Complexity with Enhanced Pulse Strength
+1239,0,Reduced HRV with Elevated Peripheral Perfusion
+1240,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1241,2,Reduced Pulse Strength with Prolonged Pulse Width
+1242,2,Reduced Pulse Strength with Prolonged Pulse Width
+1243,2,Reduced Pulse Strength with Prolonged Pulse Width
+1244,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1245,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1246,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1247,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1248,0,Reduced HRV with Elevated Peripheral Perfusion
+1249,2,Reduced Pulse Strength with Prolonged Pulse Width
+1250,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1251,3,Reduced Complexity with Enhanced Pulse Strength
+1252,2,Reduced Pulse Strength with Prolonged Pulse Width
+1253,3,Reduced Complexity with Enhanced Pulse Strength
+1254,3,Reduced Complexity with Enhanced Pulse Strength
+1255,3,Reduced Complexity with Enhanced Pulse Strength
+1256,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1257,3,Reduced Complexity with Enhanced Pulse Strength
+1258,0,Reduced HRV with Elevated Peripheral Perfusion
+1259,2,Reduced Pulse Strength with Prolonged Pulse Width
+1260,3,Reduced Complexity with Enhanced Pulse Strength
+1261,3,Reduced Complexity with Enhanced Pulse Strength
+1262,0,Reduced HRV with Elevated Peripheral Perfusion
+1263,3,Reduced Complexity with Enhanced Pulse Strength
+1264,2,Reduced Pulse Strength with Prolonged Pulse Width
+1265,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1266,3,Reduced Complexity with Enhanced Pulse Strength
+1267,2,Reduced Pulse Strength with Prolonged Pulse Width
+1268,2,Reduced Pulse Strength with Prolonged Pulse Width
+1269,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1270,0,Reduced HRV with Elevated Peripheral Perfusion
+1271,2,Reduced Pulse Strength with Prolonged Pulse Width
+1272,3,Reduced Complexity with Enhanced Pulse Strength
+1273,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1274,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1275,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1276,3,Reduced Complexity with Enhanced Pulse Strength
+1277,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1278,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1279,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1280,0,Reduced HRV with Elevated Peripheral Perfusion
+1281,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1282,3,Reduced Complexity with Enhanced Pulse Strength
+1283,0,Reduced HRV with Elevated Peripheral Perfusion
+1284,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1285,3,Reduced Complexity with Enhanced Pulse Strength
+1286,3,Reduced Complexity with Enhanced Pulse Strength
+1287,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1288,0,Reduced HRV with Elevated Peripheral Perfusion
+1289,3,Reduced Complexity with Enhanced Pulse Strength
+1290,2,Reduced Pulse Strength with Prolonged Pulse Width
+1291,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1292,3,Reduced Complexity with Enhanced Pulse Strength
+1293,2,Reduced Pulse Strength with Prolonged Pulse Width
+1294,3,Reduced Complexity with Enhanced Pulse Strength
+1295,3,Reduced Complexity with Enhanced Pulse Strength
+1296,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1297,3,Reduced Complexity with Enhanced Pulse Strength
+1298,0,Reduced HRV with Elevated Peripheral Perfusion
+1299,0,Reduced HRV with Elevated Peripheral Perfusion
+1300,2,Reduced Pulse Strength with Prolonged Pulse Width
+1301,0,Reduced HRV with Elevated Peripheral Perfusion
+1302,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1303,0,Reduced HRV with Elevated Peripheral Perfusion
+1304,2,Reduced Pulse Strength with Prolonged Pulse Width
+1305,2,Reduced Pulse Strength with Prolonged Pulse Width
+1306,0,Reduced HRV with Elevated Peripheral Perfusion
+1307,3,Reduced Complexity with Enhanced Pulse Strength
+1308,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1309,2,Reduced Pulse Strength with Prolonged Pulse Width
+1310,3,Reduced Complexity with Enhanced Pulse Strength
+1311,0,Reduced HRV with Elevated Peripheral Perfusion
+1312,3,Reduced Complexity with Enhanced Pulse Strength
+1313,2,Reduced Pulse Strength with Prolonged Pulse Width
+1314,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1315,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1316,3,Reduced Complexity with Enhanced Pulse Strength
+1317,0,Reduced HRV with Elevated Peripheral Perfusion
+1318,0,Reduced HRV with Elevated Peripheral Perfusion
+1319,0,Reduced HRV with Elevated Peripheral Perfusion
+1320,0,Reduced HRV with Elevated Peripheral Perfusion
+1321,2,Reduced Pulse Strength with Prolonged Pulse Width
+1322,3,Reduced Complexity with Enhanced Pulse Strength
+1323,3,Reduced Complexity with Enhanced Pulse Strength
+1324,0,Reduced HRV with Elevated Peripheral Perfusion
+1325,0,Reduced HRV with Elevated Peripheral Perfusion
+1326,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1327,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1328,3,Reduced Complexity with Enhanced Pulse Strength
+1329,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1330,3,Reduced Complexity with Enhanced Pulse Strength
+1331,2,Reduced Pulse Strength with Prolonged Pulse Width
+1332,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1333,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1334,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1335,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1336,3,Reduced Complexity with Enhanced Pulse Strength
+1337,3,Reduced Complexity with Enhanced Pulse Strength
+1338,2,Reduced Pulse Strength with Prolonged Pulse Width
+1339,3,Reduced Complexity with Enhanced Pulse Strength
+1340,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1341,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1342,0,Reduced HRV with Elevated Peripheral Perfusion
+1343,2,Reduced Pulse Strength with Prolonged Pulse Width
+1344,3,Reduced Complexity with Enhanced Pulse Strength
+1345,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1346,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1347,2,Reduced Pulse Strength with Prolonged Pulse Width
+1348,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1349,2,Reduced Pulse Strength with Prolonged Pulse Width
+1350,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1351,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1352,3,Reduced Complexity with Enhanced Pulse Strength
+1353,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1354,2,Reduced Pulse Strength with Prolonged Pulse Width
+1355,2,Reduced Pulse Strength with Prolonged Pulse Width
+1356,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1357,3,Reduced Complexity with Enhanced Pulse Strength
+1358,2,Reduced Pulse Strength with Prolonged Pulse Width
+1359,3,Reduced Complexity with Enhanced Pulse Strength
+1360,0,Reduced HRV with Elevated Peripheral Perfusion
+1361,0,Reduced HRV with Elevated Peripheral Perfusion
+1362,3,Reduced Complexity with Enhanced Pulse Strength
+1363,0,Reduced HRV with Elevated Peripheral Perfusion
+1364,3,Reduced Complexity with Enhanced Pulse Strength
+1365,0,Reduced HRV with Elevated Peripheral Perfusion
+1366,0,Reduced HRV with Elevated Peripheral Perfusion
+1367,3,Reduced Complexity with Enhanced Pulse Strength
+1368,3,Reduced Complexity with Enhanced Pulse Strength
+1369,0,Reduced HRV with Elevated Peripheral Perfusion
+1370,3,Reduced Complexity with Enhanced Pulse Strength
+1371,2,Reduced Pulse Strength with Prolonged Pulse Width
+1372,2,Reduced Pulse Strength with Prolonged Pulse Width
+1373,2,Reduced Pulse Strength with Prolonged Pulse Width
+1374,2,Reduced Pulse Strength with Prolonged Pulse Width
+1375,0,Reduced HRV with Elevated Peripheral Perfusion
+1376,3,Reduced Complexity with Enhanced Pulse Strength
+1377,3,Reduced Complexity with Enhanced Pulse Strength
+1378,3,Reduced Complexity with Enhanced Pulse Strength
+1379,0,Reduced HRV with Elevated Peripheral Perfusion
+1380,3,Reduced Complexity with Enhanced Pulse Strength
+1381,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1382,2,Reduced Pulse Strength with Prolonged Pulse Width
+1383,3,Reduced Complexity with Enhanced Pulse Strength
+1384,2,Reduced Pulse Strength with Prolonged Pulse Width
+1385,3,Reduced Complexity with Enhanced Pulse Strength
+1386,0,Reduced HRV with Elevated Peripheral Perfusion
+1387,3,Reduced Complexity with Enhanced Pulse Strength
+1388,0,Reduced HRV with Elevated Peripheral Perfusion
+1389,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1390,2,Reduced Pulse Strength with Prolonged Pulse Width
+1391,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1392,2,Reduced Pulse Strength with Prolonged Pulse Width
+1393,2,Reduced Pulse Strength with Prolonged Pulse Width
+1394,3,Reduced Complexity with Enhanced Pulse Strength
+1395,3,Reduced Complexity with Enhanced Pulse Strength
+1396,0,Reduced HRV with Elevated Peripheral Perfusion
+1397,3,Reduced Complexity with Enhanced Pulse Strength
+1398,3,Reduced Complexity with Enhanced Pulse Strength
+1399,3,Reduced Complexity with Enhanced Pulse Strength
+1400,2,Reduced Pulse Strength with Prolonged Pulse Width
+1401,0,Reduced HRV with Elevated Peripheral Perfusion
+1402,3,Reduced Complexity with Enhanced Pulse Strength
+1403,3,Reduced Complexity with Enhanced Pulse Strength
+1404,2,Reduced Pulse Strength with Prolonged Pulse Width
+1405,2,Reduced Pulse Strength with Prolonged Pulse Width
+1406,2,Reduced Pulse Strength with Prolonged Pulse Width
+1407,2,Reduced Pulse Strength with Prolonged Pulse Width
+1408,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1409,3,Reduced Complexity with Enhanced Pulse Strength
+1410,0,Reduced HRV with Elevated Peripheral Perfusion
+1411,2,Reduced Pulse Strength with Prolonged Pulse Width
+1412,0,Reduced HRV with Elevated Peripheral Perfusion
+1413,2,Reduced Pulse Strength with Prolonged Pulse Width
+1414,3,Reduced Complexity with Enhanced Pulse Strength
+1415,2,Reduced Pulse Strength with Prolonged Pulse Width
+1416,0,Reduced HRV with Elevated Peripheral Perfusion
+1417,0,Reduced HRV with Elevated Peripheral Perfusion
+1418,2,Reduced Pulse Strength with Prolonged Pulse Width
+1419,2,Reduced Pulse Strength with Prolonged Pulse Width
+1420,3,Reduced Complexity with Enhanced Pulse Strength
+1421,2,Reduced Pulse Strength with Prolonged Pulse Width
+1422,3,Reduced Complexity with Enhanced Pulse Strength
+1423,0,Reduced HRV with Elevated Peripheral Perfusion
+1424,0,Reduced HRV with Elevated Peripheral Perfusion
+1425,3,Reduced Complexity with Enhanced Pulse Strength
+1426,3,Reduced Complexity with Enhanced Pulse Strength
+1427,2,Reduced Pulse Strength with Prolonged Pulse Width
+1428,3,Reduced Complexity with Enhanced Pulse Strength
+1429,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1430,3,Reduced Complexity with Enhanced Pulse Strength
+1431,3,Reduced Complexity with Enhanced Pulse Strength
+1432,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1433,3,Reduced Complexity with Enhanced Pulse Strength
+1434,0,Reduced HRV with Elevated Peripheral Perfusion
+1435,0,Reduced HRV with Elevated Peripheral Perfusion
+1436,3,Reduced Complexity with Enhanced Pulse Strength
+1437,3,Reduced Complexity with Enhanced Pulse Strength
+1438,3,Reduced Complexity with Enhanced Pulse Strength
+1439,0,Reduced HRV with Elevated Peripheral Perfusion
+1440,0,Reduced HRV with Elevated Peripheral Perfusion
+1441,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1442,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1443,0,Reduced HRV with Elevated Peripheral Perfusion
+1444,2,Reduced Pulse Strength with Prolonged Pulse Width
+1445,3,Reduced Complexity with Enhanced Pulse Strength
+1446,3,Reduced Complexity with Enhanced Pulse Strength
+1447,0,Reduced HRV with Elevated Peripheral Perfusion
+1448,0,Reduced HRV with Elevated Peripheral Perfusion
+1449,2,Reduced Pulse Strength with Prolonged Pulse Width
+1450,0,Reduced HRV with Elevated Peripheral Perfusion
+1451,3,Reduced Complexity with Enhanced Pulse Strength
+1452,3,Reduced Complexity with Enhanced Pulse Strength
+1453,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1454,3,Reduced Complexity with Enhanced Pulse Strength
+1455,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1456,0,Reduced HRV with Elevated Peripheral Perfusion
+1457,2,Reduced Pulse Strength with Prolonged Pulse Width
+1458,2,Reduced Pulse Strength with Prolonged Pulse Width
+1459,0,Reduced HRV with Elevated Peripheral Perfusion
+1460,2,Reduced Pulse Strength with Prolonged Pulse Width
+1461,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1462,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1463,3,Reduced Complexity with Enhanced Pulse Strength
+1464,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1465,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1466,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1467,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1468,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1469,3,Reduced Complexity with Enhanced Pulse Strength
+1470,2,Reduced Pulse Strength with Prolonged Pulse Width
+1471,3,Reduced Complexity with Enhanced Pulse Strength
+1472,0,Reduced HRV with Elevated Peripheral Perfusion
+1473,0,Reduced HRV with Elevated Peripheral Perfusion
+1474,0,Reduced HRV with Elevated Peripheral Perfusion
+1475,0,Reduced HRV with Elevated Peripheral Perfusion
+1476,2,Reduced Pulse Strength with Prolonged Pulse Width
+1477,0,Reduced HRV with Elevated Peripheral Perfusion
+1478,2,Reduced Pulse Strength with Prolonged Pulse Width
+1479,2,Reduced Pulse Strength with Prolonged Pulse Width
+1480,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1481,2,Reduced Pulse Strength with Prolonged Pulse Width
+1482,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1483,2,Reduced Pulse Strength with Prolonged Pulse Width
+1484,0,Reduced HRV with Elevated Peripheral Perfusion
+1485,0,Reduced HRV with Elevated Peripheral Perfusion
+1486,3,Reduced Complexity with Enhanced Pulse Strength
+1487,2,Reduced Pulse Strength with Prolonged Pulse Width
+1488,2,Reduced Pulse Strength with Prolonged Pulse Width
+1489,2,Reduced Pulse Strength with Prolonged Pulse Width
+1490,0,Reduced HRV with Elevated Peripheral Perfusion
+1491,3,Reduced Complexity with Enhanced Pulse Strength
+1492,3,Reduced Complexity with Enhanced Pulse Strength
+1493,2,Reduced Pulse Strength with Prolonged Pulse Width
+1494,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1495,2,Reduced Pulse Strength with Prolonged Pulse Width
+1496,0,Reduced HRV with Elevated Peripheral Perfusion
+1497,2,Reduced Pulse Strength with Prolonged Pulse Width
+1498,0,Reduced HRV with Elevated Peripheral Perfusion
+1499,2,Reduced Pulse Strength with Prolonged Pulse Width
+1500,0,Reduced HRV with Elevated Peripheral Perfusion
+1501,3,Reduced Complexity with Enhanced Pulse Strength
+1502,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1503,0,Reduced HRV with Elevated Peripheral Perfusion
+1504,3,Reduced Complexity with Enhanced Pulse Strength
+1505,3,Reduced Complexity with Enhanced Pulse Strength
+1506,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1507,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1508,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1509,3,Reduced Complexity with Enhanced Pulse Strength
+1510,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1511,3,Reduced Complexity with Enhanced Pulse Strength
+1512,3,Reduced Complexity with Enhanced Pulse Strength
+1513,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1514,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1515,3,Reduced Complexity with Enhanced Pulse Strength
+1516,3,Reduced Complexity with Enhanced Pulse Strength
+1517,3,Reduced Complexity with Enhanced Pulse Strength
+1518,3,Reduced Complexity with Enhanced Pulse Strength
+1519,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1520,3,Reduced Complexity with Enhanced Pulse Strength
+1521,3,Reduced Complexity with Enhanced Pulse Strength
+1522,2,Reduced Pulse Strength with Prolonged Pulse Width
+1523,3,Reduced Complexity with Enhanced Pulse Strength
+1524,3,Reduced Complexity with Enhanced Pulse Strength
+1525,0,Reduced HRV with Elevated Peripheral Perfusion
+1526,0,Reduced HRV with Elevated Peripheral Perfusion
+1527,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1528,2,Reduced Pulse Strength with Prolonged Pulse Width
+1529,3,Reduced Complexity with Enhanced Pulse Strength
+1530,3,Reduced Complexity with Enhanced Pulse Strength
+1531,3,Reduced Complexity with Enhanced Pulse Strength
+1532,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1533,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1534,3,Reduced Complexity with Enhanced Pulse Strength
+1535,3,Reduced Complexity with Enhanced Pulse Strength
+1536,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1537,3,Reduced Complexity with Enhanced Pulse Strength
+1538,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1539,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1540,0,Reduced HRV with Elevated Peripheral Perfusion
+1541,3,Reduced Complexity with Enhanced Pulse Strength
+1542,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1543,3,Reduced Complexity with Enhanced Pulse Strength
+1544,3,Reduced Complexity with Enhanced Pulse Strength
+1545,2,Reduced Pulse Strength with Prolonged Pulse Width
+1546,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1547,3,Reduced Complexity with Enhanced Pulse Strength
+1548,3,Reduced Complexity with Enhanced Pulse Strength
+1549,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1550,2,Reduced Pulse Strength with Prolonged Pulse Width
+1551,0,Reduced HRV with Elevated Peripheral Perfusion
+1552,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1553,0,Reduced HRV with Elevated Peripheral Perfusion
+1554,2,Reduced Pulse Strength with Prolonged Pulse Width
+1555,3,Reduced Complexity with Enhanced Pulse Strength
+1556,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1557,2,Reduced Pulse Strength with Prolonged Pulse Width
+1558,0,Reduced HRV with Elevated Peripheral Perfusion
+1559,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1560,3,Reduced Complexity with Enhanced Pulse Strength
+1561,0,Reduced HRV with Elevated Peripheral Perfusion
+1562,2,Reduced Pulse Strength with Prolonged Pulse Width
+1563,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1564,3,Reduced Complexity with Enhanced Pulse Strength
+1565,0,Reduced HRV with Elevated Peripheral Perfusion
+1566,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1567,0,Reduced HRV with Elevated Peripheral Perfusion
+1568,3,Reduced Complexity with Enhanced Pulse Strength
+1569,3,Reduced Complexity with Enhanced Pulse Strength
+1570,3,Reduced Complexity with Enhanced Pulse Strength
+1571,3,Reduced Complexity with Enhanced Pulse Strength
+1572,3,Reduced Complexity with Enhanced Pulse Strength
+1573,3,Reduced Complexity with Enhanced Pulse Strength
+1574,2,Reduced Pulse Strength with Prolonged Pulse Width
+1575,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1576,2,Reduced Pulse Strength with Prolonged Pulse Width
+1577,3,Reduced Complexity with Enhanced Pulse Strength
+1578,3,Reduced Complexity with Enhanced Pulse Strength
+1579,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1580,0,Reduced HRV with Elevated Peripheral Perfusion
+1581,2,Reduced Pulse Strength with Prolonged Pulse Width
+1582,2,Reduced Pulse Strength with Prolonged Pulse Width
+1583,2,Reduced Pulse Strength with Prolonged Pulse Width
+1584,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1585,3,Reduced Complexity with Enhanced Pulse Strength
+1586,2,Reduced Pulse Strength with Prolonged Pulse Width
+1587,2,Reduced Pulse Strength with Prolonged Pulse Width
+1588,3,Reduced Complexity with Enhanced Pulse Strength
+1589,3,Reduced Complexity with Enhanced Pulse Strength
+1590,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1591,0,Reduced HRV with Elevated Peripheral Perfusion
+1592,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1593,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1594,2,Reduced Pulse Strength with Prolonged Pulse Width
+1595,3,Reduced Complexity with Enhanced Pulse Strength
+1596,3,Reduced Complexity with Enhanced Pulse Strength
+1597,2,Reduced Pulse Strength with Prolonged Pulse Width
+1598,0,Reduced HRV with Elevated Peripheral Perfusion
+1599,0,Reduced HRV with Elevated Peripheral Perfusion
+1600,0,Reduced HRV with Elevated Peripheral Perfusion
+1601,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1602,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1603,3,Reduced Complexity with Enhanced Pulse Strength
+1604,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1605,3,Reduced Complexity with Enhanced Pulse Strength
+1606,3,Reduced Complexity with Enhanced Pulse Strength
+1607,2,Reduced Pulse Strength with Prolonged Pulse Width
+1608,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1609,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1610,0,Reduced HRV with Elevated Peripheral Perfusion
+1611,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1612,3,Reduced Complexity with Enhanced Pulse Strength
+1613,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1614,3,Reduced Complexity with Enhanced Pulse Strength
+1615,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1616,0,Reduced HRV with Elevated Peripheral Perfusion
+1617,3,Reduced Complexity with Enhanced Pulse Strength
+1618,3,Reduced Complexity with Enhanced Pulse Strength
+1619,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1620,2,Reduced Pulse Strength with Prolonged Pulse Width
+1621,0,Reduced HRV with Elevated Peripheral Perfusion
+1622,0,Reduced HRV with Elevated Peripheral Perfusion
+1623,0,Reduced HRV with Elevated Peripheral Perfusion
+1624,3,Reduced Complexity with Enhanced Pulse Strength
+1625,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1626,0,Reduced HRV with Elevated Peripheral Perfusion
+1627,2,Reduced Pulse Strength with Prolonged Pulse Width
+1628,3,Reduced Complexity with Enhanced Pulse Strength
+1629,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1630,3,Reduced Complexity with Enhanced Pulse Strength
+1631,0,Reduced HRV with Elevated Peripheral Perfusion
+1632,2,Reduced Pulse Strength with Prolonged Pulse Width
+1633,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1634,2,Reduced Pulse Strength with Prolonged Pulse Width
+1635,2,Reduced Pulse Strength with Prolonged Pulse Width
+1636,0,Reduced HRV with Elevated Peripheral Perfusion
+1637,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1638,0,Reduced HRV with Elevated Peripheral Perfusion
+1639,3,Reduced Complexity with Enhanced Pulse Strength
+1640,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1641,2,Reduced Pulse Strength with Prolonged Pulse Width
+1642,0,Reduced HRV with Elevated Peripheral Perfusion
+1643,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1644,0,Reduced HRV with Elevated Peripheral Perfusion
+1645,2,Reduced Pulse Strength with Prolonged Pulse Width
+1646,3,Reduced Complexity with Enhanced Pulse Strength
+1647,3,Reduced Complexity with Enhanced Pulse Strength
+1648,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1649,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1650,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1651,3,Reduced Complexity with Enhanced Pulse Strength
+1652,0,Reduced HRV with Elevated Peripheral Perfusion
+1653,3,Reduced Complexity with Enhanced Pulse Strength
+1654,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1655,0,Reduced HRV with Elevated Peripheral Perfusion
+1656,3,Reduced Complexity with Enhanced Pulse Strength
+1657,0,Reduced HRV with Elevated Peripheral Perfusion
+1658,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1659,0,Reduced HRV with Elevated Peripheral Perfusion
+1660,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1661,3,Reduced Complexity with Enhanced Pulse Strength
+1662,3,Reduced Complexity with Enhanced Pulse Strength
+1663,3,Reduced Complexity with Enhanced Pulse Strength
+1664,3,Reduced Complexity with Enhanced Pulse Strength
+1665,0,Reduced HRV with Elevated Peripheral Perfusion
+1666,3,Reduced Complexity with Enhanced Pulse Strength
+1667,3,Reduced Complexity with Enhanced Pulse Strength
+1668,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1669,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1670,3,Reduced Complexity with Enhanced Pulse Strength
+1671,2,Reduced Pulse Strength with Prolonged Pulse Width
+1672,2,Reduced Pulse Strength with Prolonged Pulse Width
+1673,3,Reduced Complexity with Enhanced Pulse Strength
+1674,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1675,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1676,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1677,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1678,0,Reduced HRV with Elevated Peripheral Perfusion
+1679,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1680,0,Reduced HRV with Elevated Peripheral Perfusion
+1681,3,Reduced Complexity with Enhanced Pulse Strength
+1682,0,Reduced HRV with Elevated Peripheral Perfusion
+1683,3,Reduced Complexity with Enhanced Pulse Strength
+1684,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1685,3,Reduced Complexity with Enhanced Pulse Strength
+1686,2,Reduced Pulse Strength with Prolonged Pulse Width
+1687,2,Reduced Pulse Strength with Prolonged Pulse Width
+1688,3,Reduced Complexity with Enhanced Pulse Strength
+1689,3,Reduced Complexity with Enhanced Pulse Strength
+1690,0,Reduced HRV with Elevated Peripheral Perfusion
+1691,2,Reduced Pulse Strength with Prolonged Pulse Width
+1692,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1693,0,Reduced HRV with Elevated Peripheral Perfusion
+1694,3,Reduced Complexity with Enhanced Pulse Strength
+1695,0,Reduced HRV with Elevated Peripheral Perfusion
+1696,0,Reduced HRV with Elevated Peripheral Perfusion
+1697,3,Reduced Complexity with Enhanced Pulse Strength
+1698,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1699,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1700,0,Reduced HRV with Elevated Peripheral Perfusion
+1701,2,Reduced Pulse Strength with Prolonged Pulse Width
+1702,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1703,0,Reduced HRV with Elevated Peripheral Perfusion
+1704,2,Reduced Pulse Strength with Prolonged Pulse Width
+1705,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1706,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1707,3,Reduced Complexity with Enhanced Pulse Strength
+1708,3,Reduced Complexity with Enhanced Pulse Strength
+1709,0,Reduced HRV with Elevated Peripheral Perfusion
+1710,3,Reduced Complexity with Enhanced Pulse Strength
+1711,0,Reduced HRV with Elevated Peripheral Perfusion
+1712,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1713,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1714,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1715,3,Reduced Complexity with Enhanced Pulse Strength
+1716,0,Reduced HRV with Elevated Peripheral Perfusion
+1717,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1718,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1719,0,Reduced HRV with Elevated Peripheral Perfusion
+1720,0,Reduced HRV with Elevated Peripheral Perfusion
+1721,0,Reduced HRV with Elevated Peripheral Perfusion
+1722,3,Reduced Complexity with Enhanced Pulse Strength
+1723,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1724,3,Reduced Complexity with Enhanced Pulse Strength
+1725,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1726,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1727,3,Reduced Complexity with Enhanced Pulse Strength
+1728,0,Reduced HRV with Elevated Peripheral Perfusion
+1729,2,Reduced Pulse Strength with Prolonged Pulse Width
+1730,2,Reduced Pulse Strength with Prolonged Pulse Width
+1731,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1732,2,Reduced Pulse Strength with Prolonged Pulse Width
+1733,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1734,3,Reduced Complexity with Enhanced Pulse Strength
+1735,2,Reduced Pulse Strength with Prolonged Pulse Width
+1736,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1737,3,Reduced Complexity with Enhanced Pulse Strength
+1738,3,Reduced Complexity with Enhanced Pulse Strength
+1739,3,Reduced Complexity with Enhanced Pulse Strength
+1740,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1741,0,Reduced HRV with Elevated Peripheral Perfusion
+1742,3,Reduced Complexity with Enhanced Pulse Strength
+1743,0,Reduced HRV with Elevated Peripheral Perfusion
+1744,3,Reduced Complexity with Enhanced Pulse Strength
+1745,0,Reduced HRV with Elevated Peripheral Perfusion
+1746,0,Reduced HRV with Elevated Peripheral Perfusion
+1747,3,Reduced Complexity with Enhanced Pulse Strength
+1748,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1749,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1750,0,Reduced HRV with Elevated Peripheral Perfusion
+1751,2,Reduced Pulse Strength with Prolonged Pulse Width
+1752,0,Reduced HRV with Elevated Peripheral Perfusion
+1753,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1754,0,Reduced HRV with Elevated Peripheral Perfusion
+1755,3,Reduced Complexity with Enhanced Pulse Strength
+1756,2,Reduced Pulse Strength with Prolonged Pulse Width
+1757,2,Reduced Pulse Strength with Prolonged Pulse Width
+1758,0,Reduced HRV with Elevated Peripheral Perfusion
+1759,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1760,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1761,3,Reduced Complexity with Enhanced Pulse Strength
+1762,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1763,3,Reduced Complexity with Enhanced Pulse Strength
+1764,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1765,3,Reduced Complexity with Enhanced Pulse Strength
+1766,3,Reduced Complexity with Enhanced Pulse Strength
+1767,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1768,3,Reduced Complexity with Enhanced Pulse Strength
+1769,3,Reduced Complexity with Enhanced Pulse Strength
+1770,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1771,0,Reduced HRV with Elevated Peripheral Perfusion
+1772,3,Reduced Complexity with Enhanced Pulse Strength
+1773,2,Reduced Pulse Strength with Prolonged Pulse Width
+1774,3,Reduced Complexity with Enhanced Pulse Strength
+1775,0,Reduced HRV with Elevated Peripheral Perfusion
+1776,0,Reduced HRV with Elevated Peripheral Perfusion
+1777,0,Reduced HRV with Elevated Peripheral Perfusion
+1778,3,Reduced Complexity with Enhanced Pulse Strength
+1779,2,Reduced Pulse Strength with Prolonged Pulse Width
+1780,0,Reduced HRV with Elevated Peripheral Perfusion
+1781,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1782,3,Reduced Complexity with Enhanced Pulse Strength
+1783,0,Reduced HRV with Elevated Peripheral Perfusion
+1784,3,Reduced Complexity with Enhanced Pulse Strength
+1785,2,Reduced Pulse Strength with Prolonged Pulse Width
+1786,0,Reduced HRV with Elevated Peripheral Perfusion
+1787,2,Reduced Pulse Strength with Prolonged Pulse Width
+1788,2,Reduced Pulse Strength with Prolonged Pulse Width
+1789,3,Reduced Complexity with Enhanced Pulse Strength
+1790,3,Reduced Complexity with Enhanced Pulse Strength
+1791,0,Reduced HRV with Elevated Peripheral Perfusion
+1792,2,Reduced Pulse Strength with Prolonged Pulse Width
+1793,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1794,3,Reduced Complexity with Enhanced Pulse Strength
+1795,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1796,2,Reduced Pulse Strength with Prolonged Pulse Width
+1797,0,Reduced HRV with Elevated Peripheral Perfusion
+1798,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1799,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1800,0,Reduced HRV with Elevated Peripheral Perfusion
+1801,0,Reduced HRV with Elevated Peripheral Perfusion
+1802,3,Reduced Complexity with Enhanced Pulse Strength
+1803,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1804,2,Reduced Pulse Strength with Prolonged Pulse Width
+1805,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1806,2,Reduced Pulse Strength with Prolonged Pulse Width
+1807,3,Reduced Complexity with Enhanced Pulse Strength
+1808,0,Reduced HRV with Elevated Peripheral Perfusion
+1809,3,Reduced Complexity with Enhanced Pulse Strength
+1810,3,Reduced Complexity with Enhanced Pulse Strength
+1811,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1812,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1813,3,Reduced Complexity with Enhanced Pulse Strength
+1814,2,Reduced Pulse Strength with Prolonged Pulse Width
+1815,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1816,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1817,2,Reduced Pulse Strength with Prolonged Pulse Width
+1818,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1819,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1820,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1821,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1822,0,Reduced HRV with Elevated Peripheral Perfusion
+1823,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1824,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1825,2,Reduced Pulse Strength with Prolonged Pulse Width
+1826,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1827,0,Reduced HRV with Elevated Peripheral Perfusion
+1828,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1829,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1830,3,Reduced Complexity with Enhanced Pulse Strength
+1831,2,Reduced Pulse Strength with Prolonged Pulse Width
+1832,0,Reduced HRV with Elevated Peripheral Perfusion
+1833,2,Reduced Pulse Strength with Prolonged Pulse Width
+1834,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1835,0,Reduced HRV with Elevated Peripheral Perfusion
+1836,3,Reduced Complexity with Enhanced Pulse Strength
+1837,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1838,3,Reduced Complexity with Enhanced Pulse Strength
+1839,0,Reduced HRV with Elevated Peripheral Perfusion
+1840,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1841,3,Reduced Complexity with Enhanced Pulse Strength
+1842,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1843,0,Reduced HRV with Elevated Peripheral Perfusion
+1844,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1845,2,Reduced Pulse Strength with Prolonged Pulse Width
+1846,2,Reduced Pulse Strength with Prolonged Pulse Width
+1847,3,Reduced Complexity with Enhanced Pulse Strength
+1848,0,Reduced HRV with Elevated Peripheral Perfusion
+1849,3,Reduced Complexity with Enhanced Pulse Strength
+1850,3,Reduced Complexity with Enhanced Pulse Strength
+1851,3,Reduced Complexity with Enhanced Pulse Strength
+1852,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1853,2,Reduced Pulse Strength with Prolonged Pulse Width
+1854,3,Reduced Complexity with Enhanced Pulse Strength
+1855,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1856,0,Reduced HRV with Elevated Peripheral Perfusion
+1857,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1858,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1859,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1860,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1861,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1862,3,Reduced Complexity with Enhanced Pulse Strength
+1863,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1864,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1865,3,Reduced Complexity with Enhanced Pulse Strength
+1866,0,Reduced HRV with Elevated Peripheral Perfusion
+1867,3,Reduced Complexity with Enhanced Pulse Strength
+1868,3,Reduced Complexity with Enhanced Pulse Strength
+1869,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1870,2,Reduced Pulse Strength with Prolonged Pulse Width
+1871,0,Reduced HRV with Elevated Peripheral Perfusion
+1872,2,Reduced Pulse Strength with Prolonged Pulse Width
+1873,3,Reduced Complexity with Enhanced Pulse Strength
+1874,3,Reduced Complexity with Enhanced Pulse Strength
+1875,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1876,2,Reduced Pulse Strength with Prolonged Pulse Width
+1877,3,Reduced Complexity with Enhanced Pulse Strength
+1878,3,Reduced Complexity with Enhanced Pulse Strength
+1879,3,Reduced Complexity with Enhanced Pulse Strength
+1880,0,Reduced HRV with Elevated Peripheral Perfusion
+1881,0,Reduced HRV with Elevated Peripheral Perfusion
+1882,3,Reduced Complexity with Enhanced Pulse Strength
+1883,2,Reduced Pulse Strength with Prolonged Pulse Width
+1884,0,Reduced HRV with Elevated Peripheral Perfusion
+1885,0,Reduced HRV with Elevated Peripheral Perfusion
+1886,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1887,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1888,2,Reduced Pulse Strength with Prolonged Pulse Width
+1889,0,Reduced HRV with Elevated Peripheral Perfusion
+1890,3,Reduced Complexity with Enhanced Pulse Strength
+1891,2,Reduced Pulse Strength with Prolonged Pulse Width
+1892,0,Reduced HRV with Elevated Peripheral Perfusion
+1893,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1894,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1895,0,Reduced HRV with Elevated Peripheral Perfusion
+1896,0,Reduced HRV with Elevated Peripheral Perfusion
+1897,2,Reduced Pulse Strength with Prolonged Pulse Width
+1898,3,Reduced Complexity with Enhanced Pulse Strength
+1899,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1900,3,Reduced Complexity with Enhanced Pulse Strength
+1901,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1902,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1903,2,Reduced Pulse Strength with Prolonged Pulse Width
+1904,3,Reduced Complexity with Enhanced Pulse Strength
+1905,3,Reduced Complexity with Enhanced Pulse Strength
+1906,0,Reduced HRV with Elevated Peripheral Perfusion
+1907,2,Reduced Pulse Strength with Prolonged Pulse Width
+1908,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1909,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1910,2,Reduced Pulse Strength with Prolonged Pulse Width
+1911,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1912,0,Reduced HRV with Elevated Peripheral Perfusion
+1913,2,Reduced Pulse Strength with Prolonged Pulse Width
+1914,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1915,3,Reduced Complexity with Enhanced Pulse Strength
+1916,2,Reduced Pulse Strength with Prolonged Pulse Width
+1917,0,Reduced HRV with Elevated Peripheral Perfusion
+1918,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1919,3,Reduced Complexity with Enhanced Pulse Strength
+1920,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1921,3,Reduced Complexity with Enhanced Pulse Strength
+1922,3,Reduced Complexity with Enhanced Pulse Strength
+1923,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1924,0,Reduced HRV with Elevated Peripheral Perfusion
+1925,3,Reduced Complexity with Enhanced Pulse Strength
+1926,2,Reduced Pulse Strength with Prolonged Pulse Width
+1927,3,Reduced Complexity with Enhanced Pulse Strength
+1928,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1929,2,Reduced Pulse Strength with Prolonged Pulse Width
+1930,0,Reduced HRV with Elevated Peripheral Perfusion
+1931,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1932,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1933,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1934,2,Reduced Pulse Strength with Prolonged Pulse Width
+1935,2,Reduced Pulse Strength with Prolonged Pulse Width
+1936,3,Reduced Complexity with Enhanced Pulse Strength
+1937,2,Reduced Pulse Strength with Prolonged Pulse Width
+1938,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1939,2,Reduced Pulse Strength with Prolonged Pulse Width
+1940,3,Reduced Complexity with Enhanced Pulse Strength
+1941,3,Reduced Complexity with Enhanced Pulse Strength
+1942,0,Reduced HRV with Elevated Peripheral Perfusion
+1943,3,Reduced Complexity with Enhanced Pulse Strength
+1944,0,Reduced HRV with Elevated Peripheral Perfusion
+1945,0,Reduced HRV with Elevated Peripheral Perfusion
+1946,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1947,0,Reduced HRV with Elevated Peripheral Perfusion
+1948,2,Reduced Pulse Strength with Prolonged Pulse Width
+1949,0,Reduced HRV with Elevated Peripheral Perfusion
+1950,0,Reduced HRV with Elevated Peripheral Perfusion
+1951,3,Reduced Complexity with Enhanced Pulse Strength
+1952,0,Reduced HRV with Elevated Peripheral Perfusion
+1953,3,Reduced Complexity with Enhanced Pulse Strength
+1954,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1955,3,Reduced Complexity with Enhanced Pulse Strength
+1956,2,Reduced Pulse Strength with Prolonged Pulse Width
+1957,2,Reduced Pulse Strength with Prolonged Pulse Width
+1958,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1959,3,Reduced Complexity with Enhanced Pulse Strength
+1960,2,Reduced Pulse Strength with Prolonged Pulse Width
+1961,0,Reduced HRV with Elevated Peripheral Perfusion
+1962,3,Reduced Complexity with Enhanced Pulse Strength
+1963,0,Reduced HRV with Elevated Peripheral Perfusion
+1964,2,Reduced Pulse Strength with Prolonged Pulse Width
+1965,3,Reduced Complexity with Enhanced Pulse Strength
+1966,2,Reduced Pulse Strength with Prolonged Pulse Width
+1967,0,Reduced HRV with Elevated Peripheral Perfusion
+1968,0,Reduced HRV with Elevated Peripheral Perfusion
+1969,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1970,0,Reduced HRV with Elevated Peripheral Perfusion
+1971,0,Reduced HRV with Elevated Peripheral Perfusion
+1972,0,Reduced HRV with Elevated Peripheral Perfusion
+1973,0,Reduced HRV with Elevated Peripheral Perfusion
+1974,2,Reduced Pulse Strength with Prolonged Pulse Width
+1975,3,Reduced Complexity with Enhanced Pulse Strength
+1976,0,Reduced HRV with Elevated Peripheral Perfusion
+1977,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1978,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1979,0,Reduced HRV with Elevated Peripheral Perfusion
+1980,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1981,0,Reduced HRV with Elevated Peripheral Perfusion
+1982,0,Reduced HRV with Elevated Peripheral Perfusion
+1983,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1984,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1985,0,Reduced HRV with Elevated Peripheral Perfusion
+1986,2,Reduced Pulse Strength with Prolonged Pulse Width
+1987,0,Reduced HRV with Elevated Peripheral Perfusion
+1988,0,Reduced HRV with Elevated Peripheral Perfusion
+1989,0,Reduced HRV with Elevated Peripheral Perfusion
+1990,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+1991,0,Reduced HRV with Elevated Peripheral Perfusion
+1992,3,Reduced Complexity with Enhanced Pulse Strength
+1993,2,Reduced Pulse Strength with Prolonged Pulse Width
+1994,2,Reduced Pulse Strength with Prolonged Pulse Width
+1995,0,Reduced HRV with Elevated Peripheral Perfusion
+1996,3,Reduced Complexity with Enhanced Pulse Strength
+1997,2,Reduced Pulse Strength with Prolonged Pulse Width
+1998,3,Reduced Complexity with Enhanced Pulse Strength
+1999,2,Reduced Pulse Strength with Prolonged Pulse Width
+2000,3,Reduced Complexity with Enhanced Pulse Strength
+2001,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2002,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2003,0,Reduced HRV with Elevated Peripheral Perfusion
+2004,3,Reduced Complexity with Enhanced Pulse Strength
+2005,2,Reduced Pulse Strength with Prolonged Pulse Width
+2006,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2007,0,Reduced HRV with Elevated Peripheral Perfusion
+2008,2,Reduced Pulse Strength with Prolonged Pulse Width
+2009,0,Reduced HRV with Elevated Peripheral Perfusion
+2010,3,Reduced Complexity with Enhanced Pulse Strength
+2011,3,Reduced Complexity with Enhanced Pulse Strength
+2012,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2013,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2014,3,Reduced Complexity with Enhanced Pulse Strength
+2015,2,Reduced Pulse Strength with Prolonged Pulse Width
+2016,2,Reduced Pulse Strength with Prolonged Pulse Width
+2017,0,Reduced HRV with Elevated Peripheral Perfusion
+2018,2,Reduced Pulse Strength with Prolonged Pulse Width
+2019,0,Reduced HRV with Elevated Peripheral Perfusion
+2020,0,Reduced HRV with Elevated Peripheral Perfusion
+2021,3,Reduced Complexity with Enhanced Pulse Strength
+2022,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2023,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2024,3,Reduced Complexity with Enhanced Pulse Strength
+2025,3,Reduced Complexity with Enhanced Pulse Strength
+2026,3,Reduced Complexity with Enhanced Pulse Strength
+2027,3,Reduced Complexity with Enhanced Pulse Strength
+2028,3,Reduced Complexity with Enhanced Pulse Strength
+2029,2,Reduced Pulse Strength with Prolonged Pulse Width
+2030,0,Reduced HRV with Elevated Peripheral Perfusion
+2031,3,Reduced Complexity with Enhanced Pulse Strength
+2032,2,Reduced Pulse Strength with Prolonged Pulse Width
+2033,0,Reduced HRV with Elevated Peripheral Perfusion
+2034,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2035,3,Reduced Complexity with Enhanced Pulse Strength
+2036,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2037,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2038,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2039,0,Reduced HRV with Elevated Peripheral Perfusion
+2040,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2041,3,Reduced Complexity with Enhanced Pulse Strength
+2042,0,Reduced HRV with Elevated Peripheral Perfusion
+2043,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2044,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2045,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2046,2,Reduced Pulse Strength with Prolonged Pulse Width
+2047,0,Reduced HRV with Elevated Peripheral Perfusion
+2048,2,Reduced Pulse Strength with Prolonged Pulse Width
+2049,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2050,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2051,0,Reduced HRV with Elevated Peripheral Perfusion
+2052,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2053,3,Reduced Complexity with Enhanced Pulse Strength
+2054,0,Reduced HRV with Elevated Peripheral Perfusion
+2055,0,Reduced HRV with Elevated Peripheral Perfusion
+2056,0,Reduced HRV with Elevated Peripheral Perfusion
+2057,2,Reduced Pulse Strength with Prolonged Pulse Width
+2058,2,Reduced Pulse Strength with Prolonged Pulse Width
+2059,2,Reduced Pulse Strength with Prolonged Pulse Width
+2060,3,Reduced Complexity with Enhanced Pulse Strength
+2061,3,Reduced Complexity with Enhanced Pulse Strength
+2062,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2063,2,Reduced Pulse Strength with Prolonged Pulse Width
+2064,2,Reduced Pulse Strength with Prolonged Pulse Width
+2065,3,Reduced Complexity with Enhanced Pulse Strength
+2066,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2067,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2068,2,Reduced Pulse Strength with Prolonged Pulse Width
+2069,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2070,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2071,2,Reduced Pulse Strength with Prolonged Pulse Width
+2072,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2073,3,Reduced Complexity with Enhanced Pulse Strength
+2074,0,Reduced HRV with Elevated Peripheral Perfusion
+2075,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2076,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2077,3,Reduced Complexity with Enhanced Pulse Strength
+2078,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2079,0,Reduced HRV with Elevated Peripheral Perfusion
+2080,0,Reduced HRV with Elevated Peripheral Perfusion
+2081,3,Reduced Complexity with Enhanced Pulse Strength
+2082,0,Reduced HRV with Elevated Peripheral Perfusion
+2083,0,Reduced HRV with Elevated Peripheral Perfusion
+2084,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2085,3,Reduced Complexity with Enhanced Pulse Strength
+2086,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2087,0,Reduced HRV with Elevated Peripheral Perfusion
+2088,0,Reduced HRV with Elevated Peripheral Perfusion
+2089,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2090,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2091,2,Reduced Pulse Strength with Prolonged Pulse Width
+2092,2,Reduced Pulse Strength with Prolonged Pulse Width
+2093,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2094,2,Reduced Pulse Strength with Prolonged Pulse Width
+2095,3,Reduced Complexity with Enhanced Pulse Strength
+2096,3,Reduced Complexity with Enhanced Pulse Strength
+2097,3,Reduced Complexity with Enhanced Pulse Strength
+2098,3,Reduced Complexity with Enhanced Pulse Strength
+2099,3,Reduced Complexity with Enhanced Pulse Strength
+2100,3,Reduced Complexity with Enhanced Pulse Strength
+2101,3,Reduced Complexity with Enhanced Pulse Strength
+2102,0,Reduced HRV with Elevated Peripheral Perfusion
+2103,2,Reduced Pulse Strength with Prolonged Pulse Width
+2104,2,Reduced Pulse Strength with Prolonged Pulse Width
+2105,0,Reduced HRV with Elevated Peripheral Perfusion
+2106,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2107,0,Reduced HRV with Elevated Peripheral Perfusion
+2108,3,Reduced Complexity with Enhanced Pulse Strength
+2109,3,Reduced Complexity with Enhanced Pulse Strength
+2110,2,Reduced Pulse Strength with Prolonged Pulse Width
+2111,3,Reduced Complexity with Enhanced Pulse Strength
+2112,2,Reduced Pulse Strength with Prolonged Pulse Width
+2113,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2114,0,Reduced HRV with Elevated Peripheral Perfusion
+2115,0,Reduced HRV with Elevated Peripheral Perfusion
+2116,0,Reduced HRV with Elevated Peripheral Perfusion
+2117,2,Reduced Pulse Strength with Prolonged Pulse Width
+2118,0,Reduced HRV with Elevated Peripheral Perfusion
+2119,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2120,3,Reduced Complexity with Enhanced Pulse Strength
+2121,0,Reduced HRV with Elevated Peripheral Perfusion
+2122,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2123,0,Reduced HRV with Elevated Peripheral Perfusion
+2124,2,Reduced Pulse Strength with Prolonged Pulse Width
+2125,2,Reduced Pulse Strength with Prolonged Pulse Width
+2126,2,Reduced Pulse Strength with Prolonged Pulse Width
+2127,3,Reduced Complexity with Enhanced Pulse Strength
+2128,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2129,3,Reduced Complexity with Enhanced Pulse Strength
+2130,3,Reduced Complexity with Enhanced Pulse Strength
+2131,3,Reduced Complexity with Enhanced Pulse Strength
+2132,3,Reduced Complexity with Enhanced Pulse Strength
+2133,2,Reduced Pulse Strength with Prolonged Pulse Width
+2134,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2135,3,Reduced Complexity with Enhanced Pulse Strength
+2136,0,Reduced HRV with Elevated Peripheral Perfusion
+2137,0,Reduced HRV with Elevated Peripheral Perfusion
+2138,3,Reduced Complexity with Enhanced Pulse Strength
+2139,3,Reduced Complexity with Enhanced Pulse Strength
+2140,2,Reduced Pulse Strength with Prolonged Pulse Width
+2141,2,Reduced Pulse Strength with Prolonged Pulse Width
+2142,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2143,2,Reduced Pulse Strength with Prolonged Pulse Width
+2144,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2145,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2146,3,Reduced Complexity with Enhanced Pulse Strength
+2147,3,Reduced Complexity with Enhanced Pulse Strength
+2148,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2149,3,Reduced Complexity with Enhanced Pulse Strength
+2150,3,Reduced Complexity with Enhanced Pulse Strength
+2151,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2152,3,Reduced Complexity with Enhanced Pulse Strength
+2153,3,Reduced Complexity with Enhanced Pulse Strength
+2154,3,Reduced Complexity with Enhanced Pulse Strength
+2155,0,Reduced HRV with Elevated Peripheral Perfusion
+2156,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2157,0,Reduced HRV with Elevated Peripheral Perfusion
+2158,0,Reduced HRV with Elevated Peripheral Perfusion
+2159,3,Reduced Complexity with Enhanced Pulse Strength
+2160,3,Reduced Complexity with Enhanced Pulse Strength
+2161,0,Reduced HRV with Elevated Peripheral Perfusion
+2162,3,Reduced Complexity with Enhanced Pulse Strength
+2163,0,Reduced HRV with Elevated Peripheral Perfusion
+2164,0,Reduced HRV with Elevated Peripheral Perfusion
+2165,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2166,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2167,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2168,3,Reduced Complexity with Enhanced Pulse Strength
+2169,2,Reduced Pulse Strength with Prolonged Pulse Width
+2170,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2171,2,Reduced Pulse Strength with Prolonged Pulse Width
+2172,1,Enhanced Parasympathetic Complexity with Peripheral Variability
+2173,0,Reduced HRV with Elevated Peripheral Perfusion

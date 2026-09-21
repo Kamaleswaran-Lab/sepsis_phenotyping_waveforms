@@ -1,0 +1,15 @@
+METHODS - Sepsis Physiophenotype Identification
+
+Data Processing and Feature Selection:
+A total of 2174 sepsis patients were analyzed using 272 physiological features derived from ECG, PPG, and respiratory signals collected in the 5-minute window prior to sepsis-3 onset. Features included statistical measures (mean, 25th/75th percentiles, skewness, entropy) of cardiac rhythm parameters (RR intervals, heart rate), heart rate variability metrics, respiratory patterns, and signal morphology characteristics.
+
+Preprocessing included standardization, variance-based feature selection (threshold < 0.01), and correlation filtering (threshold > 0.95) to remove redundant variables. 
+
+Consensus Clustering:
+Physiophenotypes were identified using consensus clustering with agglomerative hierarchical clustering (average linkage, euclidean distance). The algorithm performed 100 resampling iterations with 80% sample fraction to ensure stability. The optimal number of clusters (k = 4) was determined using area under the cumulative distribution function and knee point analysis.
+
+Phenotype Interpretation:
+Large language models were employed to generate clinically meaningful interpretations of identified phenotypes based on discriminative features shown by SHAP importance, and statistical significance (p < 0.01).
+
+Validation:
+An XGBoost classifier was trained to predict phenotype membership, achieving cross-validated performance metrics for clinical applicability assessment.

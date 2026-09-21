@@ -1,0 +1,30 @@
+
+┌──────────────────────────────────────────────────────────────────────┐
+│          Reduced Pulse Dynamics with Peripheral Hypoperfusion          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📊 DEMOGRAPHICS                                                     │
+│  • Patients: 401 (18.4%)                                       │
+│                                                                      │
+│  🔬 KEY FEATURES                                                     │
+│  • PPG_PW_50_entropy                                                │
+│  • PPG_mean_slope_os_skewness                                                │
+│  • PPG_skewness_ppg_entropy                                                │
+│                                                                      │
+│  🧬 PATHOPHYSIOLOGY                                                  │
+│  │  - **Sepsis Mechanisms:** - The pattern of lower values in       │
+│  pulse width (PPG_PW_50_entropy, PPG_PW_10_entropy) and mean     │
+│  slope (PPG_mean_slope_os_skewness, PPG_mean_slope_so_entropy)   │
+│  suggests impaired pe...                                         │                                    │
+│                                                                      │
+│  🏥 CLINICAL PRESENTATION                                            │
+│  │                                                                  │                                     │
+│                                                                      │
+│  💊 THERAPEUTIC CONSIDERATIONS                                       │
+│  │  - **Treatment Considerations:** - Focus on improving cardiac    │
+│  output and peripheral perfusion, potentially through fluid      │
+│  resuscitation and vasopressor support. - Consider inotropic     │
+│  support if sepsis-in...                                         │                                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+        

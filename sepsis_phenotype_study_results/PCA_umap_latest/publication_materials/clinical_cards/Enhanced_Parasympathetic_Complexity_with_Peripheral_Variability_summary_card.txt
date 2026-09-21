@@ -1,0 +1,30 @@
+
+┌──────────────────────────────────────────────────────────────────────┐
+│    Enhanced Parasympathetic Complexity with Peripheral Variability     │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📊 DEMOGRAPHICS                                                     │
+│  • Patients: 587 (27.0%)                                       │
+│                                                                      │
+│  🔬 KEY FEATURES                                                     │
+│  • HRV_HRV_pNN50                                                │
+│  • HRV_HRV_ShanEn                                                │
+│  • HRV_HRV_ApEn                                                │
+│                                                                      │
+│  🧬 PATHOPHYSIOLOGY                                                  │
+│  │  - **Sepsis Mechanisms:** - The pattern of increased HRV         │
+│  metrics such as pNN50, ShanEn, ApEn, and HTI suggests a state   │
+│  of enhanced parasympathetic activity and complexity in heart    │
+│  rate variability. Thi...                                        │                                    │
+│                                                                      │
+│  🏥 CLINICAL PRESENTATION                                            │
+│  │                                                                  │                                     │
+│                                                                      │
+│  💊 THERAPEUTIC CONSIDERATIONS                                       │
+│  │  - **Treatment Considerations:** - Early intervention to         │
+│  support cardiovascular function and monitor for signs of        │
+│  hemodynamic instability is crucial. Fluid resuscitation and     │
+│  vasopressors may be conside...                                  │                                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+        

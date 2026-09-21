@@ -1,0 +1,29 @@
+
+┌──────────────────────────────────────────────────────────────────────┐
+│       Reduced Pulse Entropy with Cardiac Electrical Instability        │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📊 DEMOGRAPHICS                                                     │
+│  • Patients: 764 (35.1%)                                       │
+│                                                                      │
+│  🔬 KEY FEATURES                                                     │
+│  • PPG_T_so_cd_ms_entropy                                                │
+│  • PPG_PW_25_entropy                                                │
+│  • PPG_PW_50_entropy                                                │
+│                                                                      │
+│  🧬 PATHOPHYSIOLOGY                                                  │
+│  │  - **Sepsis Mechanisms:** - The pattern of lower entropy in PPG  │
+│  features suggests a reduction in the variability and            │
+│  complexity of the peripheral pulse waveform, indicative of      │
+│  impaired microcirculatory...                                    │                                    │
+│                                                                      │
+│  🏥 CLINICAL PRESENTATION                                            │
+│  │                                                                  │                                     │
+│                                                                      │
+│  💊 THERAPEUTIC CONSIDERATIONS                                       │
+│  │  - **Treatment Considerations:** - Focus on optimizing           │
+│  hemodynamic support, including fluid resuscitation and          │
+│  vasopressors to address hypotension and improve perfusion.      │                                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+        

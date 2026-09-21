@@ -1,0 +1,9 @@
+wfdb==4.1.2
+resampy==0.4.3
+neurokit2==0.2.7
+hrv-analysis==1.0.5
+plotly==5.19.0
+plotly_resampler==0.10.0
+numpy==1.26.4
+openai==1.99.6
+inspect
